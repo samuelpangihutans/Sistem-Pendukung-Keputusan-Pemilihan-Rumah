@@ -1,0 +1,6054 @@
+"1","Arah Utara","memberikan keberuntungan untuk anda seputar karir, bisnis dan yang lainnya"
+"2","Arah Selatan","identik dengan keberuntungan dalam hal popularitas, penghargaan kekuasaan dan juga pengakuan."
+"3","Arah Barat","untuk seseorang yang ingin segera memiliki keturunan."
+"4","Arah Barat Daya","identik dengan keharmonisan sebuah keluarga."
+"5","Arah Barat Laut","identik dengan kontribusi ekonomi yang cukup tinggi."
+"6","Arah Timur","identik dengan keberuntungan dalam hal kesehatan."
+"7","Arah Timur Laut","identik dengan keberuntungan dalam bidang pendidikan dan bisnis"
+"8","Arah Tenggara","identik dengan kekayaan."
+"9","dummy","dummy"
+"1","Rumah Tinggal Tunggal"
+"2","Rumah Tinggal Koppel"
+"3","Rumah Gandeng"
+"4","Rumah Kota"
+"5","Rumah Susun"
+"6","Rumah Berpekarangan Dalam"
+"7","Maisonet"
+"8","Rumah Teras Bertingkat"
+"1","Cul De Sac","Jalan buntu"
+"2","Interiror Lot","terletak di tengah blok"
+"3","T-Intersection Lot","tusuk sate"
+"4","Corner Lot","kavling sudut/hoek"
+"5","Key Lot","terletak di tengah kavling lain"
+"6","Flag Lot","Kavling bentuk L"
+"13","cipolerat_1590497379.jpg","6"
+"14","hos4185480-rumah-di-jual-di-bandung-kota-bandung-15760604342728_1590497436.jpg","1"
+"15","hos4359925-rumah-di-jual-di-bojongsoang-bandung-15789835895645_1590497446.jpg","2"
+"16","hos4360216-rumah-di-jual-di-bojongsoang-bandung-15789834417276_1590497457.jpg","3"
+"17","hos4571644-rumah-di-jual-di-arcamanik-bandung-15576615155289_1590497467.jpg","4"
+"18","hos5300783-rumah-di-jual-di-bojongsoang-bandung-15789840073332_1590497477.jpg","5"
+"19","aps2172306-apartemen-di-jual-di-pasar-minggu-jakarta-selatan-15833912497294_1590497519.jpg","6"
+"21","caca_1590497753.jpg","35"
+"22","ujung berung_1590497793.jpg","7"
+"23","hos6102890-rumah-di-jual-di-cimahi-utara-cimahi-15814713737991_1590738924.jpg","45"
+"24","hos6440403-rumah-di-jual-di-pameungpeuk-bandung-15870152402198_1590738985.jpg","61"
+"25","hos6362538-rumah-di-jual-di-buah-batu-bandung-15868780560073_1590739025.jpg","113"
+"26","3cfae518fd7e81a310fda023f4a80ab8_1590739116.jpg","45"
+"1","Full Furnished"
+"2","Semi Furnished"
+"3","Unfurnished"
+"1","Andir"
+"2","Antapani"
+"3","Arcamanik"
+"4","Astana Anyar"
+"5","Babakan Ciparay"
+"6","Bandung Kidul"
+"7","Bandung Kulon"
+"8","Bandung Wetan"
+"9","Batununggal"
+"10","Bojongloa Kaler"
+"11","Bojongloa Kidul"
+"12","Buahbatu"
+"13","Cibeunying Kaler"
+"14","Cibeunying Kidul"
+"15","Cibiru"
+"16","Cicendo"
+"17","Cidadap"
+"18","Cinambo"
+"19","Coblong"
+"20","Gegebage"
+"21","Kiara Condong"
+"22","Lengkong"
+"23","Mandalajati"
+"24","Panyileukan"
+"25","Rancasari"
+"26","Regol"
+"27","Sukajadi"
+"28","Sukasari"
+"29","Sumur Bandung"
+"30","Ujung Berung"
+"1","2014_10_12_000000_create_users_table","1"
+"2","2014_10_12_100000_create_password_resets_table","1"
+"3","2019_08_19_000000_create_failed_jobs_table","1"
+"4","2020_01_31_082645_create_rumahs_table","1"
+"5","2020_02_10_120458_create_gambar_table","1"
+"6","2020_04_14_155421_create_kecamatans_table","1"
+"7","2020_04_14_155940_create_sertifikats_table","1"
+"8","2020_04_14_160243_create_arah_bangunans_table","1"
+"9","2020_04_14_160739_create_bentuk_bangunans_table","1"
+"10","2020_04_14_161157_create_bentuk_tanahs_table","1"
+"11","2020_04_14_161331_create_interior_rumahs_table","1"
+"12","2020_04_14_183456_add_id_kecamatan_to_rumah","1"
+"13","2020_04_14_184502_add_id_sertifikat_to_rumah","1"
+"14","2020_04_14_184634_add_id_interior_to_rumah","1"
+"15","2020_04_14_184647_add_id_arah_bangunan_to_rumah","1"
+"16","2020_04_14_184701_add_id_bentuk_bangunan_to_rumah","1"
+"17","2020_04_14_184712_add_id_bentuk_tanah_to_rumah","1"
+"18","2020_04_14_210007_add_id_rumah_to_gambar","1"
+"1","1","Jl. Kembar Timur, Cigereleng","3","4","4.50E+08","175","75","2","5","2","1000.00","08132089372","Rumah siap huni",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"2","2","1",NULL,NULL,"26","2",NULL,"1",NULL,NULL
+"2","1","Jl. Inhoftank, Pelindung Hewan","2","5","3.60E+08","150","50","3","3","4","1000.00","0873232121","Rumah keren",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"1",NULL,NULL,NULL,"4","2",NULL,"3",NULL,NULL
+"3","1","Jl. Pahlawan","4","2","4.00E+08","160","60","2","4","2","1000.00","0867632612","RUmah siap huni dan indah",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"2","1",NULL,NULL,"13","1",NULL,"3",NULL,NULL
+"4","1","Jl. Permata Tamansari no 10","3","4","4.99E+08","84","65","1","2","1","1300.00","08132193473","Deskripsi
+  Cherry homes hunian jaman modern harga Promo 400000000-an
+  Buruan segera miliki unitnya sebelum kehabisan, mumpung harga masih PROMO juga cuma 499 juta!!
+ 
+ 
+ 
+ type 38/65 ( 2KT dan 1Km)
+ 
+ ruang tamu
+ 
+ dapur
+ 
+ carport
+ 
+ halaman
+ 
+ SHM
+ 
+ 
+ 
+ keunggulan :
+ 
+ - lokasi strategis
+ 
+ - bebas banjir
+ 
+ - dekat sarana pendidikan,kesehatan
+ 
+ - dekat pusat perbelanjaan
+ 
+ - dekat tol gede bage dan buah batu
+ 
+ 
+ 
+ buruan beli sekarang juga ,info hubungi :
+ 
+ ANNA
+ 
+ Call/Wa: 081937998899
+ ",NULL,"1","1",NULL,"0","1","1","1",NULL,"1","1",NULL,"1","3","1","2","6","4","2"
+"5","1","Jl. Terusan Dursasana","3","4","5.50E+09","375","408","2","4","3","2200.00","0827361212","Deskripsi
+  Dijual Rumah di Daerah Pasteur, Bandung Utara
+  Dijual Rumah di Daerah Pasteur - Bandung Utara.
+ 
+ Lt 375 m / Lb 408 m, SHM, 4kt, 3km, garasi 2 mbl, carport 1 mbl, air jet pump, listrik 2200w, tanah kotak, Semi Furnish (AC 1 unit , Lemari Baju , Meja Hias, Kitchen set, Water Heater Solahart), dekat Tol Pasteur dan kampus Maranatha, security 24 jam, nyaman untuk rumah tinggal, cluster.
+ 
+ Harga Rp 5,5M.
+ 
+ 
+ 
+ Support Banking by BCA, Panin, UOB, May Bank, Permata, OCBC Nisp, CIMB Niaga, Muamalat, Danamon.
+ 
+ 
+ 
+ More info :
+ 
+ Gerry ""GM Property""
+ 
+ Tlp/WA : wa.me/6281910118921
+ 
+ Personal Web : gerrygmpro.agent.co.id
+  ","1","1",NULL,NULL,"1",NULL,NULL,"1","2","1","1","1","1","16","1","2","3","4","2"
+"6","1","Jl. Ciporeat no 5, Passangrahan","3","4","8.50E+08","72","45","1","2","1","1300.00","087868657200","
+Rumah minimalis 1 lantai design modern 
+ Rumah minimalis 1 lantai design modern 
+ 
+ 
+ informasi website:
+ 
+ https://indiproperti.com/grand-bahagia-asri-bandun
+ g/
+ 
+ 
+ 
+ perumahan grand bahagia asri memiliki lokasi strategis, hanya 350 meter ke carrefour  dan kantor samsat.
+ 
+ 
+ 
+ info website:
+ 
+ https://indiproperti.com/grand-bahagia-asri-bandun
+ g/
+ 
+ 
+ 
+ fasilitas dalam perumahan:
+ 
+ a.memiliki kartu pass automatic barrier gate
+ 
+ b.CYYV 24 Jam
+ 
+ c.Security 24 Jam
+ 
+ d. Playground
+ 
+ e. Taman tematik
+ 
+ f. joging treck
+ 
+ g. Masjid
+ 
+ 
+ 
+ askes kelokasi
+ 
+ 2 KM dari pintu tol buah batu
+ 
+ 2 KM dari transmart bubat
+ 
+ 3 KM ke Trans studio
+ 
+ 3 KM ke rumah sakit al islam
+ 
+ 2.5 KM ke telkom university
+ 
+ 
+ 
+ dapatkan hunian terbaik kami. sertifikat sdh splitsing
+ 
+ IMB : 503.648.1/3186/BPPT
+ 
+ 
+ 
+ informasi hubungi: zainal kamal
+ 
+ wa: 0857 5900 6008
+  ","1","1",NULL,"1",NULL,NULL,"1","1",NULL,"1","1","1","1","30","1","3","3","4","2"
+"7","1","Jl. Ujung Berung no 43","4","2","9.50E+08","110","100","1","3","2","1300.00","081321843521","
+Rumah siap huni 
+luas tanah 110 m2
+ 
+bangunan 100 m2
+ 
+lokasi strategis dekat dengan Transmart, Carrefour Samsat
+ 
+Info lengkap dan kunjungan
+ 
+ Hubungi: Rahma
+ 
+ MASTERPro
+  ","1",NULL,"1",NULL,"1","1","1","1","1","1","1",NULL,"1","30","3","3","3","4","2"
+"8","1","Jl. Raden Mochtar no 140","4","3","1.18E+09","233","95","1","3","2","1300.00",,"Deskripsi
+  Rumah halaman luas udara pegunungan di ujung Berung Bandung timur
+  GAYA TOWN HILLS - SINDANGLAYA
+ 
+ 
+ 
+ Hunian Eksklusif hanya 2 unit di Sindanglaya menyuguhkan suasana pegunungan yang sejuk di kawasan Bandung Timur (daerah berkembang Kota Bandung). Cocok untuk Anda yang ingin menikmati waktu santai dengan hunian nyaman. Bisa Anda dapatkan dengan harga yang bersahabat tentunya hanya 1,175 M / unit!
+ 
+ 
+ 
+ Spesifikasi :
+ 
+ Luas Tanah 233 m2
+ 
+ Luas Bangunan 95 m2
+ 
+ Kamar Tidur 3
+ 
+ Kamar Mandi 2
+ 
+ Lebar Muka 10 m
+ 
+ Listrik 1.300 Watt
+ 
+ Ruang Keluarga
+ 
+ Ruang Tamu
+ 
+ Dapur Elegan
+ 
+ Carport 2 mobil
+ 
+ Kolam ikan
+ 
+ Taman depan dan belakang
+ 
+ 
+ 
+ Legalitas :
+ 
+ SHM dan IMB
+ 
+  
+ 
+ Dapatkan Kemudahan Akses dari GAYA TOWN HILLS :
+ 
+ 5 menit ke Jl. A. H. Nasution (Borma, daerah komersil Bandung Timur)
+ 
+ 5 menit ke Gor Arcamanik
+ 
+ 10 menit ke Alun-alun Ujungberung
+ 
+ 10 menit ke SMAN 24 Bandung
+ 
+ 10 menit ke Antapani
+ 
+ 
+ 
+ Nego silahkan survey terlebih dahulu.
+ 
+ 
+ 
+ Berminat? Ingin survey terlebih dahulu? Info lebih lanjut? Hubungi segera marketing resmi kami di : (Nama Sendiri)
+ 
+ Phone :
+ 
+ LINE :
+  ",NULL,"1","1",NULL,NULL,"1","1","1","1","2","1","1","1","3","1","2","3","1","3"
+"9","1","Jl. Lengkong Tengah no 134","2","4","3.50E+08","84","45","1","2","2","1300.00",,"Deskripsi
+  Jual Rumah Bandung Griya Bandung Asri Strategis Bebas Banjir
+  Jual Rumah Bandung di Griya Bandung Asri Lokasi Strategis Bebas Banjir
+ 
+ 
+ 
+ Spesifikasi :
+ 
+ Luas Tanah 84 m²
+ 
+ Luas Bangunan 45 m²
+ 
+ Kamar Tidur 2
+ 
+ Kamar Mandi 2
+ 
+ Listrik 1300 Watt
+ 
+ Telepon Rumah
+ 
+ Jalan Utama 5 Meter
+ 
+ Air pompa (Torn + Filter)
+ 
+ SHM
+ 
+ 
+ 
+ Akses :
+ 
+ - 15 Menit menuju Tol Buah Batu
+ 
+ - 15 Menit menuju Pasar Kordon
+ 
+ - 10 Menit Menuju Transmart Buah Batu
+ 
+ - 20 Menit menuju Jalan Raya Soekarno Hatta
+ 
+ 
+ 
+ Harga 350 Juta
+  ","1","1","1",NULL,NULL,"1","1","1",NULL,"1","1",NULL,"1","22","1","2","3","2","1"
+"10","1","Jl. Golf Timur no 243","6","4","3.50E+10","945","350","2","4","4","2200.00",,"Deskripsi
+  Jarang Ada Rumah Lux View Kota Bandung Di Villa Bandung Indah
+  Dijual Segera Rumah Nyaman Lokasi Pegunungan Sangat Sejuk
+ 
+ Lokasi Di Komplek Villa Bandung Indah
+ 
+ 
+ 
+ Akses Mudah Sangat Dekat Ke Mana Mana Yang Pasti Bebas Banjir
+ 
+ 5 Menit Dari Pintu Tol Cileunyi
+ 
+ 10 Menit Ke Borma Cinunuk
+ 
+ 10 Menit Ke Griya Dll
+ 
+ Dekat Kampus Ternama Di Cibiru
+ 
+ Dekat Ke Kampus Jatinangor Dll
+  ","1","1",NULL,"1","1",NULL,"1","1","2","1","1",NULL,"1","3","1","2","1","2","1"
+"11","1","Jl. Citra Green no 123","3","2","4.56E+09","198","202","2","5","4","2200.00",,"Deskripsi
+  Miliki Hunian di Podomoro Park Bandung dgn view Danau dr Rumah Anda
+  PT. Agung Podomoro Land, Tbk. (APLN) merupakan pengembang nasional dengan reputasi 
+ 
+ 
+ 
+ internasional yang senantiasa menghadirkan produk properti yang berkualitas. 
+ 
+ APLN mahir dalam model pengembangan properti seperti kawasan terpadu, hotel, komersial area, 
+ 
+ 
+ 
+ perkantoran dan hunian tapak/landed house. 
+ 
+ Berbekal lebih dari 48 tahun pengalaman yang terfokus dalam dunia properti, APLN mempunyai 
+ 
+ 
+ 
+ landasan yang kuat untuk menjadi pengembang terdepan dalam menggarap pasar properti di 
+ 
+ 
+ 
+ Indonesia, dan berkomitmen untuk mendukung pembangunan negeri, dimana dapat diketahui dari 
+ 
+ 
+ 
+ pembangunan properti yang telah dilaksanakan di berbagai daerah, secara tidak langsung turut 
+ 
+ 
+ 
+ mengangkat segi ekonomi dan sosial di wilayah tersebut.
+ 
+ 
+ 
+ Podomoro Park Bandung merupakan satu-satunya hunian yang memiliki 5 Elements of Home Resort 
+ 
+ 
+ 
+ Living : 
+ 
+ 
+ 
+ 1. Lake (danau sepanjang 1km di area Podomoro Park) 
+ 
+ 2. Trees (pepohonan rimbun nan teduh di seluruh kawasan Podomoro Park) 
+ 
+ 3. Mountain (view pegunungan Bandung Selatan yang berbaris kokoh, memberikan view indah dan 
+ 
+ 
+ 
+ kesan sejuk) 
+ 
+ 4. Air (udara sejuk dan bersih tercipta di kawasan Podomoro Park) 
+ 
+ 5. Space (50% lahan digunakan sebagai ruang terbuka hijau)
+ 
+ 
+ 
+ 
+ 
+ FASILITAS :
+ 
+ 
+ 
+ - Club House 
+ 
+ - Gym 
+ 
+ - Swimming Pool 
+ 
+ - Tennis Court 
+ 
+ - Basket Court (3 on 3) 
+ 
+ - Function Room 
+ 
+ - Children's Playground 
+ 
+ - Bike Lane 
+ 
+ - Community Garden 
+ 
+ - 24 Hour Security 
+ 
+ - Panic button 
+ 
+ - Gazebo 
+ 
+ - Jogging Track by The Lake 
+ 
+ - Viewing Deck 
+ 
+ 
+ 
+ 
+ 
+ Spec 
+ 
+ 
+ 
+ KODE : H/ANE-05/07
+ 
+ TIPE : Jayagiri Standard
+ 
+ CLUSTER : Anapuri
+ 
+ DIMENSI : 9 x 22
+ 
+ LUAS TANAH : 198 m2
+ 
+ LUAS BANGUNAN : 202 m2
+ 
+ 
+ 
+ TUNAI KERAS : 4,563,900,000
+ 
+ KONTAN BERTAHAP : 5,071,000,000
+ 
+ BALOON PAYMENT : 5,394,000,000
+ 
+ 
+ 
+ 
+ 
+ Info Lebih Lanjut Hubungi Marketing Podomoro Park Bandung : Bp. FAIQ
+  ",NULL,NULL,"1","1","1",NULL,"1","1","1","2","1","1","1","19","1","2","3","2","1"
+"12","1","Jl. Bojong Kaler No 24","2","4","2.00E+09","120","110","1","4","3","2200.00",,"Deskripsi
+  Mekar Wangi Bandung
+  Lt 120/110
+ 
+ SHM
+ 
+ 3 KT+ 1
+ 
+ 3KM + 1
+ 
+ Air PDAM
+ 
+ Listrik 2200
+  ","1",NULL,"1","1",NULL,"1",NULL,"1",NULL,"2","1","1","1","13","1","2","6","2","3"
+"13","1","Jl. Muara Baru mo 12","3","4","1.70E+10","700","750","2","5","5","4400.00",,"Deskripsi
+  Dijual Rumah 100% Baru di Setraduta, Bandung Utara
+  Dijual Rumah 100% Baru dan Lux di Setraduta Dago - Bandung Utara.
+ 
+ LT 700m / LB 750m (2 lantai), hgb, 5+2kt, 5+2km, garasi 4 mbl, carport 4 mobil, air jet pump, listrik 4400w, hadap barat, lebar muka 15 meter, material kualitas bagus, kolam renang (optional), dalam tahap pembangunan dan selesai oktober 2020.
+ 
+ Harga Rp 17M (nego)
+ 
+ 
+ 
+ Support Banking by BCA, Panin, UOB, May Bank, Permata, OCBC Nisp, CIMB Niaga, Muamalat, Danamon.
+ 
+ 
+ 
+ More info :
+ 
+ Gerry GM Property
+ 
+ Tlp/WA : wa.me/6281910118921
+ 
+ Personal Web : gerrygmpro.agent.co.id
+  ",NULL,"1","1",NULL,"1",NULL,NULL,"1","4","4","1","1","1","10","1","2","6","2","4"
+"14","1","Jl. Pangarang no 15","3","5","4.85E+08","84","60","1","2","2","1300.00",,"Deskripsi
+  Rumah cantik siap huni di cipamokolan riung bandung
+  Rumah siap huni di jual cepat di kompe Rancasari,cipamokolan kota bandung.
+ 
+ 
+ 
+ 
+ 
+ - Rumah sejuk asri dan nyaman keamanan 24 jam
+ 
+ 
+ 
+ - Rumah strategis dekat kefasilitas umum dan sarana umum.
+ 
+ - Rumah strategis dekat ke margahayu,ciwastra ,gedebage kota bandung.
+ 
+ -lt 84 lb 60 kt 2 km 2 harga 485 juta
+ 
+ - Janjian dulu sebelum survey
+ 
+ 
+ 
+ -hp 082321517835
+ 
+ 
+ 
+ - hanifah master pro
+  ","0","0","1",NULL,"1","0","1","1",NULL,"1","1","1","1","22","1","3","3","3","2"
+"15","1","Jl. Holis no 192","2","1","1.65E+09","254","173","1","4","4","2200.00",,"Deskripsi
+  Hunian 1 lantai dekat bypas dan margacinta akses tol 6 menit
+  dijual murah hunian 1 lantai. dekat margacinta, 5 menit ke bypass serta buahbatu soekarno hatta, kiaracondong. dekat ke tol buahbatu, terminal, pasar, sekolah & perkantoran.
+ 
+ lingkungan nyaman. 
+ 
+ 
+ 
+ minat lgsg hub. no telpon 
+ 
+ 0812 147 1598 // 0858 6398 0931
+ 
+ Lt. 254 m2
+ 
+ Lb. 173 m2
+ 
+ Ktdr 3+1 (1 diatas + 3 di bawah)
+ 
+ Km. 3+1 ( 1 diatas + 3 di bawah)
+ 
+ hadap Utara
+ 
+ listrik 2200
+ 
+ air pdam
+ 
+ carport & garasi 3 mobil
+ 
+ hlmn depan.
+ 
+ akses dekat ke margacinta, logam, bypass soekarno hatta. 
+ 
+ shm imb kodya bandung.
+ 
+ lokasi masuk mobil. bebas banjir.
+ 
+ Harga Rp. 1,65 Milyar nego.
+  ","1","1","1","1","1",NULL,NULL,"1","3","1","1",NULL,"1","7","1","2","1","3","2"
+"16","1","Jl. Cikadut no 150","5","3","1.50E+09","90","60","1","2","2","2200.00",,"Deskripsi
+  Dijual Cherry Rumah Tumbuh Summarecon Bandung Cluster Cynthia
+  Unit Summarecon Bandung dengan Konsep Rumah Tumbuh Pertama. Fasilitas Private Cluster, Pool & Club House. Cluster ketiga Summarecon Bandung, Cynthia.
+ 
+ 
+ 
+ Cherry
+ 
+ Luas Tanah: 90 m²
+ 
+ Luas Bangunan: 60m²
+ 
+ 2 Lantai
+ 
+ 2,200 Watt
+ 
+ 2 Kamar Tidur
+ 
+ 2 Kamar Mandi
+ 
+ Harga 1,5 Milyar
+ 
+ 
+ 
+ Summarecon Bandung dilengkapi fasilitas akses tol km 149, sekolah St. Aloysius & Al-Azhar, Summarecon Mall, ITB Innovation Park dan masih banyak lainnya
+ 
+ 
+ 
+ Menjadi satu satunya kawasan kota mandiri di Bandung dengan rencana infrastruktur sangat bagus, dekat dengan stasiun kereta cepat Bandung-Jakarta, akses tol langsung di dalam kawasannya. Menjadikan pusat bagi perusahaan fintech dan e-commerce di kalangan generasi milenial
+ 
+ 
+ 
+ Info lebih detail, hubungi:
+ 
+ Adrianus Ryan (Discovery Property)
+ 
+ 081802259600
+  ",NULL,"1","1","1","1","0",NULL,"1","2","2","1","1","1","23","1","2","2","2","1"
+"17","1","Jl. Babakan Baru 8 no 187","3","2","5.50E+09","450","275","2","4","3","2200.00",,"Deskripsi
+  Rumah dua Lantai Setramurni Bandung Utara
+  Dijual Rumah dua Lantai Setramurni Bandung Utara
+ 
+ 
+ 
+ Luas Tanah 450 m2
+ 
+ Luas Bangunan 275 m2
+ 
+ Bangunan 2 Lantai 
+ 
+ 4 Kamar Tidur 
+ 
+ 3 Kamar Mandi 
+ 
+ 2 Kamar Tidur Pembantu
+ 
+ 1 Kamar Mandi Pembantu
+ 
+ Hadap Selatan 
+ 
+ 1 Gudang 
+ 
+ Garasi/carport 3
+ 
+ Listrik 3300 watt
+ 
+ Air Jetpump
+ 
+ 
+ 
+ Harga 5,5 Milyar
+  ","1",NULL,NULL,"1",NULL,"1",NULL,"1","3","3","1","1","1","14","1","2","2","2","3"
+"18","1","Jl. Muara Raya","3","5","2.50E+09","303","400","2","5","4","5500.00",,"Deskripsi
+  Rumah luas siap huni di riung bandung cipamokolan bandung
+  kondisi rumah masih baru 
+ 
+ lingkungan nyaman dan aman 
+ 
+ akses jalan leluasa
+ 
+ bebas banjir 
+ 
+ dekat ke jl utama soekarno hatta
+  ",NULL,"1","1",NULL,"1","1","1","1","1","2","1","1","1","4","1","2","3","2","1"
+"19","1","Jl. Permata Permai no 53","6","5","4.00E+10","838","400","1","10","5","7700.00",,"Deskripsi
+  Dijual Rumah di Daerah Riau, Bandung Pusat
+  Dijual Rumah di Daerah Riau - Bandung Pusat.
+ 
+ LT: 655m2 (di sertifikat) dan -/+ 770m2 (real lapangan).
+ 
+ LB: -/+ 450m2, lebar muka -/+ 20m.
+ 
+ SHM, lokasi dkt BIP, cocok untuk cafe/kantor/bank/butik/fashion outlet/dll.
+ 
+ Rumah Induk : lisrik 3500w, 15+2kt, 3+2km, kolam ikan.
+ 
+ Paviliun : lt 215 m2, listrik 3500w, 3+1kt, 2km.
+ 
+ Harga Rp 35M.
+ 
+ 
+ 
+ Support Banking by BCA, Panin, UOB, May Bank, Permata, OCBC Nisp, CIMB Niaga, Muamalat, Danamon.
+ 
+ 
+ 
+ More info :
+ 
+ Gerry ""GM Property""
+ 
+ Tlp/WA : wa.me/6281910118921
+ 
+ Personal Web : gerrygmpro.agent.co.id
+  ","1",NULL,"1",NULL,"1","1",NULL,NULL,"3","4","1","1","1","3","1","3","3","4","2"
+"20","1","Jl. Setia no 30","2","4","3.00E+09","350","550","2","9","5","2200.00",,"Deskripsi
+  Rumah cigadung dkt ITB tubagus ismail dago tol paster bandung
+  Deskripsi
+ 
+ Deskripsi
+ 
+ 
+ 
+ dijual rumah siap huni strategis daerah cigadung tubagus smail Dago bandung
+ 
+ 
+ 
+ selling point
+ 
+ 
+ 
+ -10 menit ke kampus ITB UNPAD
+ 
+ 
+ 
+ 15 menit ke stasion kereta api
+ 
+ 
+ 
+ 15 menit ke bandara husen
+ 
+ 
+ 
+ 15 menit ke stasion kerete api
+ 
+ 
+ 
+ 15 menit ke pintu tol paster
+ 
+ 
+ 
+ data spesifikasi
+ 
+ 
+ 
+ Luas Tanah : 350m
+ 
+ 
+ 
+ L uas bangunan : 550m
+ 
+ 
+ 
+ KTidur : 9
+ 
+ 
+ 
+ KMandi : 5
+ 
+ 
+ 
+ Garasi : : 6 mobil
+ 
+ 
+ 
+ SHM
+ 
+ 
+ 
+ 2 lantai
+ 
+ 
+ 
+ Harga : 3 M
+ 
+ 
+ 
+ MARLINA : 087822770683
+  ",NULL,"1","1",NULL,"1","1","1","1","6","1","1","1","1","14","1","2","1","2","4"
+"21","1","Jl. Baladewa no 120, Pajajaran","3","5","8.00E+09","560","300","1","4","3","2200.00",,"Deskripsi
+  Dijual Rumah di Daerah Sutami, Bandung Utara
+  Dijual Rumah di Daerah Sutami - Bandung Utara.
+ 
+ Lt 560m / Lb 300m, shm, 4+2kt, 3+2km, air jet pump, listrik 2200w, garasi 2 mbl, carport 3 mbl, dapur Bersih + Dapur Kotor, Taman depan Samping dan Tengah, Hadap Barat, posisi di hook, lingkungan elit, rumah minimalis siap huni.
+ 
+ Harga Rp 8M (nego)
+ 
+ 
+ 
+ Support Banking by BCA, Panin, UOB, May Bank, Permata, OCBC Nisp, CIMB Niaga, Muamalat, Danamon.
+ 
+ 
+ 
+ More info :
+ 
+ Gerry ""GM Property""
+ 
+ Tlp/WA : wa.me/6281910118921
+ 
+ Personal Web : gerrygmpro.agent.co.id
+  ",NULL,"1","1",NULL,"1","1","1","1","2","3","1","1","1","16","1","2","6","2","3"
+"22","1","Jl. Laswi no 45","3","4","2.60E+10","800","500","1","5","5","4400.00",,"Deskripsi
+  Dijual rumah lux hegarmanah bandung
+  Dijual Cepat Rumah Lux Hegarmanah Wetan. Lt 800m2. Lb 500 m2. Shm. Imb. Lingkungan sejuk, Asri.cocok buat istirahat. Bangunan bagus, minimalis clasik. sangat terawat. Kt 3 + 2. Km 3 + 2. Kolam renang. Taman depan belakang. Garasi 2. Carport 5. Bangunan 1 lantai setengah. Harga Rp. 26 M.
+  ","1",NULL,NULL,"1","1",NULL,"1","1","2","5","1",NULL,NULL,"9","1","1","3","3","1"
+"23","1","Jl. Leuwi Panjang no 14","4","4","1.25E+09","185","150","2","8","5","1300.00",,"Deskripsi
+  Rumah di Margahayu Soekarnohatta Kota Bandung harga Nego banget
+  Rumah di Margahayu Soekarnohatta Kota Bandung harga Nego banget
+ 
+ .
+ 
+ .
+ 
+ Spesifikasi :
+ 
+ Luas tanah : 198 m
+ 
+ Luas bangunan : 150 m
+ 
+ Kmr tidur : 8
+ 
+ Kmr mandi : 5
+ 
+ 2 Lantai
+ 
+ Garasi/Carport : 1
+ 
+ Listrik : 1300 watt
+ 
+ Sertifikat : SHM
+ 
+ 
+ 
+ Keterangan :
+ 
+ Lokasi strategis
+ 
+ Dekat ke jln soekarno-hatta
+ 
+ Dekat ke jln rancabolang
+ 
+ Dekat ke mall mtc/mim
+ 
+ Dekat ke sekolah dan pasar
+ 
+ Jalan lebar bisa 2 mobil
+ 
+ Bebas banjir
+ 
+ 
+ 
+ Harga : 1,25M NEGO
+ 
+ 
+ 
+ 
+ 
+ Berminat? hubungi : RAHMA
+ 
+ MASTERPro
+  ",NULL,"1","1",NULL,NULL,NULL,"1",NULL,"1","1","1","1","1","11","1","2","3","3","2"
+"24","1","Jl . Azalea ","3","5","3.60E+09","207","151","1","4","4","3500.00","0816672612","
+ For sale cluster amanda Corner
+ 
+ Cluster pertama dari total seluruh pengembangan Summarecon Bandung di Gedebage seluas 300 Ha.
+ dgn perpaduan dari kawasan residensial, komersial & Bandung Teknopolis.
+
+Keunggulan :
+ 
+
+ 
+1. Private Access, memiliki area akses yang luas dan nyaman dan khusus untuk CLUSTER AMANDA & BTARI
+ 
+ 3. System Cluster, sistem cluster memudahkan akses ke setiap rumah yang dituju menjadi mudah, nyaman, dan aman serta setiap cluster memiliki GATE CLUSTER yang berbeda
+ 
+ 4. Security 24 Jam
+ 
+ 5. Utilitas Bawah Tanah, segala bentuk kabel listrik, telepon, internet terletak di bawah tanah 
+ 
+ 6. ROW jalan yang luas, minimal 10 meter
+ 
+ 7. Memiliki Estate Management yang berpengalaman dan profesional
+ 
+ 8. Memiliki CLUB HOUSE & SWIMMING POOL di masing - masing cluster
+ 
+ 9. Area Children Playground ( CPG ) di area cluster
+ 
+ 10. Panic Button, sebuah tombol di dalam rumah yang bisa digunakan jika terjadi urgensi keamanan
+ 
+ 11. Internet Broadband Connection, jaringan cepat.
+ 
+ 
+ 
+ Informasi detil produk, pemesanan unit, harga, dll, jangan ragu untuk menghubungi saya :
+ 
+ 
+ 
+ 
+ 
+ Berapa line telepon? 1
+ 
+ Listrik: 3500 watt
+ 
+ Kolam renang: Ya
+ 
+ Sambungan Internet: Ya
+ 
+ Apakah mobil masuk? Ya
+ 
+ Bebas banjir? Ya
+  ",NULL,NULL,"1","1","1","1",NULL,"1","1","2","1","1","1","5","1","2","3","3","2"
+"25","1","Jl. Cimuncang no 312","6","4","4.00E+10","838","400","1","5","3","3500.00",,"Deskripsi
+  Dijual Rumah di Sayap Riau, Bandung Pusat
+  Dijual Rumah di Sayap Riau - Bandung Pusat.
+ 
+ LT 838m / LB 400m, shm, 5+1kt, 3+1km, garasi 1 mbl, carport 8 mbl, listrik 3500 watt, posisi di hook, daerah ramai dan bisa dipakai usaha Cafe/Bimbel/FO/Rumah Makan/Butik/Bank/dll.
+ 
+ Harga Rp 40M.
+ 
+ 
+ 
+ Support Banking by BCA, Panin, UOB, May Bank, Permata, OCBC Nisp, CIMB Niaga, Muamalat, Danamon.
+ 
+ 
+ 
+ More info :
+ 
+ Gerry ""GM Property""
+ 
+ Tlp/WA : wa.me/6281910118921
+ 
+ Personal Web : gerrygmpro.agent.co.id
+  ",NULL,"1","1",NULL,"1",NULL,"1","1","1","8",NULL,"1","1","14","1","2","6","3","2"
+"26","1","Jl. Suryalaya Timur no 43","5","4","1.46E+10","585","350","1","10","3","2200.00",,"Deskripsi
+  Dekat ke Asia Afrika dan Alun Alun Bandung
+  Dijual Rumah di sayap Asia Afrika/Lengkong Bandung. Cocok untuk kantor, Bank dan usaha lainnya.
+ 
+ Lt : 585 m2
+ 
+ Lb : 350 m2
+ 
+ Lm : 12 m
+ 
+ Harga : 25 juta/m
+ 
+ Info :
+ 
+ Arief
+ 
+ 082129109800
+  ","1","1",NULL,NULL,"1",NULL,"1","1","2","4","1",NULL,"1","22","3","3","1","3","2"
+"28","1","Jl. Samoja no 56","4","8","1.20E+09","167","300","2","4","4","2200.00",,"Deskripsi
+  Dijual rumah design menarik di riung bandung cipamokolan soekarnohatta
+  rumah siap huni
+ 
+ design unik dan menarik 
+ 
+ lingkungan adem 
+ 
+ bebas banjir 
+ 
+ strategis
+  ","1","1",NULL,NULL,"1","1",NULL,"1","1","2",NULL,NULL,"1","9","1","3","1","3","1"
+"29","1","Jl. Sharon Raya Utara no 14","4","2","9.50E+08","100","250","2","3","2","2200.00",,"Deskripsi
+  Rumah Minimalis untuk keluarga Modern dan Dinamis View Indah Harga Murah SHM
+  Smart Home Go Green di Padasuka View Indah Strategis Murah SHM
+ 
+ 
+ 
+ Bandung City Light (BCL)
+ 
+ 
+ 
+ Survey Lokasi Hubungi :
+ 
+ Nama marketing : R Adi Pratama 
+ 
+ 081222291899
+ 
+ 
+ 
+ Sold 66 unit sisa 18 unit
+ 
+ 
+ 
+ Buruan booking sebelu kehabisan!!
+ 
+ 
+ 
+ Rumah dengan konsep Modern Minimalis
+ 
+ 
+ 
+ Terletak dikawasan Bandung Utara (KBU)
+ 
+ 
+ 
+ 20% dibangun rumah
+ 
+ 
+ 
+ 80% fasum dan penghijauan
+ 
+ 
+ 
+ ARSITEKTUR rumah funsional
+ 
+ FASAD artdeco
+ 
+ VATIO empat bidang
+ 
+ LAYOUT mantap
+ 
+ PENCAHAYAAN maksimal
+ 
+ SIRKULASI UDARA bagus
+ 
+ AIR bersih
+ 
+ UDARA segar
+ 
+ HAWA sejuk
+ 
+ VIEW citylight
+ 
+ 
+ 
+ Fasilitas lengkap :
+ 
+ Pos satpam
+ 
+ Mesjid
+ 
+ Taman
+ 
+ Jalan lebar
+ 
+ Dll
+ 
+ 
+ 
+ Dibangun oleh developer PT PERTIWI LAND pimpinan bpk 
+ 
+ Rosihan anwar dan bpk Yedy alumni
+ 
+ ITB
+ 
+ 
+ 
+ Proyek sebelumnya :
+ 
+ Cimahi city view
+ 
+ Beverly park jatinangor
+ 
+ Dll
+ 
+ 
+ 
+ Lokasi strategis dekat :
+ 
+ Saung angklung udjo
+ 
+ Caringin tilu
+ 
+ Puncak bintang
+ 
+ Pusdai
+ 
+ Riau
+ 
+ Dago
+ 
+ Gasibu
+ 
+ Gedung sate
+ 
+ 
+ 
+ Akses exit tol pasteur ke pasupati ke gasibu ke suci ke
+ 
+ padasuka ke BCL
+ 
+ 
+ 
+ Survey Lokasi Hubungi :
+ 
+ Nama marketing : R Adi Pratama 
+ 
+ 081222291899
+ 
+ PT. Pertiwi Land
+ 
+ Marketing 
+ 
+ R Adi Pratama
+ 
+ 081222291899
+  ","1",NULL,NULL,NULL,"1","1","1",NULL,NULL,"1","1","1","1","25","1","2","3","4","1"
+"30","1","Kurdi Regency","2","4","1.10E+08","50","36","1","2","1","1300.00",,"Deskripsi
+  Hunian ternyaman dengan lingkungan yang asri dan sejuk
+  PROMO TAHAP 2 BUMI CIPTA ASRI
+ 
+ khusus type 36/50
+ 
+ harga normal 150000000 tapi kini ada 3 varian paket terhemat !
+ 
+ 
+ 
+ 1. (Basic) 100000000
+ 
+ Legalitas : AJB
+ 
+ Accesoris Torn 250Lt
+ 
+ Bonus : Listrik 1300wt, pompa air
+ 
+ 
+ 
+ 2. (Super) 110000000
+ 
+ Legalitas : AJB
+ 
+ Accesoris : Cannopy ,torn 250L,meja kompor,westafel,keramik dinding toilet
+ 
+ Bonus : Listrik 1300wt, pompa air semi jet pump ,free desain
+ 
+ 3.(Deluxe) 135000000
+ 
+ Legalitas : SHM
+ 
+ Accesoris : Cannopy ,torn 250L,meja kompor,westafel,keramik dinding toilet
+ 
+ Bonus : Listrik 1300wt, pompa air semi jet pump ,free desain,TV LED
+ 
+ 
+ 
+ Berlaku hanya untuk 20 unit pertama type 36/50
+ 
+ 
+ 
+ Kalian sedang bingung cari rumah dengan semua keinginan mu?
+ 
+ Punya rumah yang desain/konsep di buat sendiri?
+ 
+ Punya rumah yang elegant serta hemat dana?
+ 
+ Hanya disini solusinya !!
+ 
+ 
+ 
+ keuntungan yang mesti anda pikirkan berulang-ulang mengapa anda mesti memiliki rumah murah ini :
+ 
+ 1. Akses jalan mudah dari segala arah
+ 
+ 2. Masa indent sangat cepat hanya 3 bulan
+ 
+ 3. Lokasi strategis dekat rencana jl. Bypas
+ 
+ katapang-majalaya
+ 
+ 4. Akses tol terdekat tol soroja & tol kopo
+ 
+ 5. Area bebas banjir
+ 
+ 6. Keamanan 24 jam
+ 
+ 7. Lingkungan asri & jauh dari kawasan industri
+ 
+ 8. Dekat pusat pemerintahan kab. Bandung
+ 
+ 9. Dekat akses ke pusat kota bandung
+ 
+ 10. Legalitas jelas dan aman 100%
+ 
+ 
+ 
+ Bangunan indent dan siap huni
+ 
+ Gratis free desain
+ 
+ Booking fee 5000000 all type
+ 
+ cash keras dan cash bertahap
+ 
+ Air semi jetpump
+ 
+ Listrik 900 & 1300 watt (3 titik)
+ 
+ Surat surat Ajb (bisa upgrade Shm)
+ 
+ 
+ 
+ Hubungi
+ 
+ Decka adam
+ 
+ MITRA ARTHA PROPERTY
+ 
+ Gambar hanya ilustrasi
+  ","1",NULL,"1",NULL,"1",NULL,"1","1",NULL,"2","1",NULL,"1","4","5","1","1","3","2"
+"31","1","Jl. Terusan Pasirkoja","5","4","6.85E+08","108","140","2","3","2","1300.00",,"Deskripsi
+  Rumah Siap huni Sangat cocok untuk invest dan hunian Riung Bandung
+  Rumah Siap huni Sangat cocok untuk invest dan hunian dengan sepsifikasi sebagai berikut : 
+ 
+ Luas tanah : 108 m2
+ 
+ -Luas bangunan : 140 m2
+ 
+ -Kamar tidur : 3
+ 
+ -Kamar mandi : 2
+ 
+ -Carfort : 1 Mobil
+ 
+ -Air : Jetpump 
+ 
+ -Listrik : 1300 watt
+ 
+ -Harga : 685 000000 nego
+ 
+ 
+ 
+ minat..serius..
+ 
+ silahkan buat janji dahulu sebelum survey.trims
+ 
+ 
+ 
+ Anda sedang mencari atau mau menjual, membeli, menyewa properti berupa rumah, tanah, ruko, rukan, gedung, gudang, pabrik, kebun, kavling, dll. kami siap membantu anda. Pembeli BEBAS Komisi, Penjual BEBAS Biaya promosi. GRATIS.. Konsultasi properti. Membantu proses KPR Bank.
+ 
+ 
+ 
+ Info survey call by appointment:
+ 
+ Sandi Purnama 
+ 
+ Confident Property Bandung
+  ","1","1",NULL,"1","1",NULL,"1",NULL,NULL,"1","1",NULL,"1","4","5","3","3","3","2"
+"32","1","Jl. Cikutra Baru IV ","5","3","1.30E+09","84","160","2","3","4","1300.00",,"Deskripsi
+  Villa mewah dengan suasana pegunungan di Dago Bandung Utara
+  *Alinda Townhouse @ Pramestha Mountain City*
+ 
+ _dipersembahkan oleh Pramestha Mountain City_ 
+ 
+ Dago Atas, Bandung
+ 
+ 
+ 
+ Penat dengan bisingnya kota? 
+ 
+ 
+ 
+ Cari *hunian asri* di Dago Atas saja!
+ 
+  Pramestha Mountain City dibangun diatas lahan seluas *180 Ha* yang telah membangun sebuah klaster hunian bernama Alinda Town House yang ditawarkan dengan *harga perdana Rp 1,2 M
+ 
+ 
+ 
+ Tipe yang ditawarkan, yaitu :
+ 
+ 1. *Tipe Upslope* (LT 72 m2 / LB 62,50 m2)
+ 
+ 2. *Tipe Level* (LT 72 m2 / LB 66 m2)
+ 
+ 
+ 
+ *Keunggulan* dari Alinda Townhouse – Pramestha Mountain City
+ 
+ - Pengembangan kawasan dilahan 180 HA dengan *desain eksklusif oleh Terra Lumen.*
+ 
+ - Kawasan terletak *lebih dari 1000 meter diatas permukaan laut.*
+ 
+ - Konsep *terasering* dengan mempertahankan ruang terbuka hijau yang menyatu dengan alam.
+ 
+ - *5 menit* dari Sekolah Internasional Darul Hikam.
+ 
+ - *15 menit* dari Sekolah Stamford Internasional, Lapangan Golf, dan Terminal Dago.
+ 
+ 
+ 
+ Info dan survey
+ 
+ 
+ 
+ Hub. : DIAN
+ 
+ 
+ 
+ 085956233933
+  ","1",NULL,"1","1","1","1",NULL,"1","1","2","1",NULL,"1","13","1","3","3","3","2"
+"33","1","Jl. Rancapanci no 41","3","5","1.40E+10","761","1200","2","5","4","4400.00",,"Deskripsi
+  Rumah daerah Rajamantri buahbatu bandung
+  RUMAH MEWAH STRATEGIS RAJAMANTRI BUAHBATU
+ 
+ 
+ 
+ Luas Tanah 761 meter
+ 
+ 
+ 
+ Luas Bangunan 1.200 meter
+ 
+ 
+ 
+ 2 Lantai
+ 
+ 
+ 
+ Kamar Tidur Keluarga 5
+ 
+ 
+ 
+ Kamar Mandi Keluarga 4
+ 
+ 
+ 
+ Kamar Tidur Pembantu 2
+ 
+ 
+ 
+ Kamar Mandi Pembantu 2
+ 
+ 
+ 
+ Ruang Santai 1
+ 
+ 
+ 
+ Garasi 4 Mobil
+ 
+ 
+ 
+ Carport 2 Mobil
+ 
+ 
+ 
+ Jenis surat sertifikat hak milik (SHM)
+ 
+ 
+ 
+ Listrik 4400 KWH
+ 
+ 
+ 
+ Taman Depan Belakang
+ 
+ 
+ 
+ harga 14 M
+ 
+ 
+ 
+ lets talk
+  ","1",NULL,"1","1","1",NULL,"1","1","4","2",NULL,"1","1","20","5","1","1","1","1"
+"34","1","Jl. Parang Raya no 11","4","2","8.50E+08","168","140","1","3","3","4400.00",,"Deskripsi
+  Rumah mewah di permata kopo bandung hanya 850000000
+  Rumah di jual di daerah Kopo Bandung
+ 
+ Lokasi komplek Permata Kopo Bandung
+ 
+ spesifikasi :
+ 
+ -luas tanah 168
+ 
+ -luas bangunan 140
+ 
+ -kamar tidur 3
+ 
+ -kamar mandi 3
+ 
+ -kamar tidur pembantu 1
+ 
+ -garasi 1
+ 
+ -carport 1
+ 
+ harga hanya 850000000, lokasi strategis dekat pusat kota bandung.
+ 
+ checkpoint : 
+ 
+ -dekat minimarket
+ 
+ -dekat Miko Mall Kopo
+ 
+ -dekat akses Tol kopo & soroja
+ 
+ -dekat sekolah SD, SMP, SMA, dan UNIVERSITAS
+ 
+ -lokasi bebas macet
+ 
+ 
+ 
+ info lebih lengkap hubungi marketing resmi terpercaya :
+ 
+ Bpk. Rizan Murtafik
+ 
+ Call/WA 085703176999
+  ","1",NULL,"1",NULL,NULL,"1",NULL,NULL,"1","1","1","1","1","21","1","2","3","2","1"
+"35","1","Jl. Cijambe no 453","2","3","7.00E+08","80","80","1","2","2","2200.00","081214271311","Rumah Dijual 
+Bismillah , rumah siap huni 
+ 
+ segera survey, beli dan huni !
+ 
+ sisa unit ready 1 lagi !
+ 
+ 
+ 
+ HANYA bisa dimiliki dengan SKEMA SYARIAH
+ 
+ - Tanpa BUNGA
+ 
+ - Tanpa DENDA
+ 
+ - Tanpa SITA
+ 
+ - Tanpa PENALTI
+ 
+ - Tanpa AKAD BATHIL
+ 
+ 
+ 
+ Rumah cantik minimalis modern, harga kompetitif 
+ 
+ 
+ 
+ KEUNGGULAN LOKASI
+ 
+ • One Gate System
+ 
+ • Tepat di pinggir jalan Jatihandap Utama
+ 
+ • Dua akses strategis (Via Jatihandap dan Padasuka)
+ 
+ • Dekat Terminal Caheum
+ 
+ • Dekat Sekolah Islam Kuttab Alfatih
+ 
+ • Bebas Banjir
+ 
+ • Dikelilingi Komplek Perumahan 
+ 
+ • Lingkungan Sejuk dan Asri
+ 
+ 
+ 
+ elganitri urban house ahmad land , 
+ 
+ ready stok 2 unit lagi ! survey dan booking segera !
+ 
+ lokasi buah batu ciganitri bojongsoang bandung dekat alun alun dekat tol buah batu , tonton video ketik ahmad land ciganitri
+ 
+ 
+ 
+ villa bambu mandala ahmad land , sisa 1 unit , lokasi jatihandap , bandung utara, rumah mewah 2 lantai view pegunungan bandung utara , 3 kt , 2 km , garden , carport , garasi , dekat terminal cicaheum , gasibu , jl suci , jl ahmad yani , arcamanik , antapani
+ 
+ 
+ 
+ villa sayang jatinangor ahmad land, sisa 1 unit
+ 
+ rumah minimalis lux , dekat kampus unpad , dekat itb , dekat ipdn , dekat pusat jatos square , hunian asri tonton video ketik villa sayang jatinangor
+ 
+ 
+ 
+ rumah dago ahmad land , sisa 1 unit
+ 
+ hunian asri dekat punclut , dekat apartemen the maj , dago resort , dekat terminal dago 
+ 
+ 
+ 
+ segera survey dan boooking ! hub marketing dan tim kami , via wa no ini
+  ","1","1",NULL,"1","1",NULL,"1",NULL,"1","1","1","1","1","30","1","2","1","2","1"
+"36","1","Jl. Bukit Indah no 17","6","4","8.00E+09","2700","1000","1","4","4","7600.00",,"Deskripsi
+  Dijual Villa Lembang Asri Full Furnished Bersih Terawat Baru Renovasi
+  Dijual ;
+ 
+ Villa Lembang Asri
+ 
+ SHM
+ 
+ Luas Tanah ; 2700 m2
+ 
+ Luas Bangunan ; 1000 m2
+ 
+ Kondisi villa bersih dan terawat, baru selesai direnovasi. Furnished.
+ 
+ Harga ; Rp. 8 M/nego
+ 
+ 
+ 
+ tinagp
+  ",NULL,NULL,NULL,"1","1","1","1","1","2","6","1","1","1","17","1","1","1","3","1"
+"37","1","Jl. Batununggal Indah VIII","7","5","2.50E+10","460","350","1","4","3","3500.00",,"Deskripsi
+  Dijual Rumah Setrategis di Karangsari Setiabudi, Bandung
+  Dijual Rumah Bersih & Rapi
+ 
+ Lokasi strategis, prime area, kanan kiri rumah makan, restoran/ bistro
+ 
+ Karangsari- Setiabudhi
+ 
+ LT 460 mtr
+ 
+ LB 350 mtr
+ 
+ KT 3+1 KM 3
+ 
+ Listrik 3500 watt
+ 
+ Air PDAM
+ 
+ SHM
+ 
+ Carport 5-7 mobil
+ 
+ Rumah sangat terawat, bersih dan asri
+ 
+ Harga: 25M( Nego)
+  ",NULL,NULL,NULL,"1","1","1","1","1","2","7","1",NULL,"1","6","1","2","6","3","2"
+"38","1","Jl. Buah Dua no 24","1","4","1.06E+09","102","75","1","3","2","1300.00",,"Deskripsi
+  Hunian Mewah Kawasan Padasuka Bernuansa Alam
+  Bandung City Light merupakan perumahan di kawasan Padasuka, Bandung Utara. Perumahan ini hadir dengan konsep hijau, dengan kawasan yang sebagian besar diperuntukan sebagai ruang terbuka hijau. Huniannya pun didesain dengan sirkulasi udara yang baik sehingga rumah menjadi sejuk. 
+ 
+ 
+ 
+ Keunggulan Kompetitif:
+ 
+ • Playground sebagai wadah interaksi sosial masyarakat
+ 
+ • 24 Hours Security System 
+ 
+ • Automatic Gate with RFID Card
+ 
+ • Refreshing Air
+ 
+ • CCTV
+ 
+ • Beautiful Architectural Landscape
+ 
+ • Real Estate yang di desain dengan proporsi ruang terbuka hijau yang luas, menjadikan kawasan yang ramah lingkungan.
+ 
+ 
+ 
+ Checkpoint Bandung CityLight 
+ 
+ • Arsitektur Modern-Minimalis 
+ 
+ • Rumah Tumbuh 
+ 
+ • Rumah Kebun 
+ 
+ • Masjid As-Salaam 
+ 
+ • BCL Playground 
+ 
+ • Smart Home 
+ 
+ • Smart Residence
+ 
+ 
+ 
+ menghadirkan sebuah Rumah yang bukan hanya Cantik dan modern,namun memenuhi standar rumah yang sehat dan humanis.
+ 
+ 
+ 
+ Spesifikasi:
+ 
+ Pondasi : Cakar ayam
+ 
+ Struktur: Beton Bertulang
+ 
+ Dinding: Bata di Plester dan di Cat 
+ 
+ Cat Eksterior: Dulux/Setara
+ 
+ Cat Interior: Catylac/Setara
+ 
+ Listrik: 1300 VA
+ 
+ Instalasi Air: Pipa PVC
+ 
+ Sanitair: TOTO Setara
+ 
+ 
+ 
+ Memiliki sebuah Rumah yang sangat ideal dengan segudang keuntungan yang kami paparkan di atas,
+ 
+ bisa anda miliki hanya dengan harga yang cukup Terjangkau.
+ 
+ Segera ambil peluang emas untuk memilikinya unit terbatas.
+ 
+ Membeli sesuatu lebih mudah,aman dan menyenangkan apabila barang yang kita beli sudah ada wujud nyata.
+ 
+ 
+ 
+ Jangan tunda lagi semakin di tunda peluang makin menjauh karena harga yang semakin naik terus menerus,
+ 
+ Survei dan buktikan proyek kami di sini
+ 
+ 
+ 
+ Hubungi :
+ 
+ Marketing Resmi dan Terpercaya
+ 
+ Bpk Rudi S
+ 
+ Call/Wa: 08/13/95/45/12/95
+ 
+ 
+ 
+ Central Property 
+ 
+ Jln. Anggrek II No. 28 
+ 
+ Komplek Graha Rancamanyar
+  ","1","1",NULL,"1","1",NULL,NULL,"1","2","2","1",NULL,"1","2","1","3","2","3","2"
+"39","1","Jl. Semarang ","5","3","6.50E+09","515","490","1","3","2","7700.00",,"Deskripsi
+  Udara sangat sejuk
+  Rumah siap huni SETIABUDI REGENCY bandung, LT 515/490m2, KT 3, KM 2, garasi 2+2, S'pool, SHM, Lokasi : di dataran tinggi cihideung dgn udara yg sejuk, nyaman dan tenang, view kota bdg..
+  ",NULL,NULL,NULL,"1","1","1","1","1","4","2","1","1","1","2","1","2","3","2","1"
+"40","1","Jl. Cilengkrang 1 no 165","5","3","2.07E+09","148","108","1","3","3","2200.00",,"Deskripsi
+  Podomoro Park Bandung Cluster Amagriya Nalendra Hook
+  PT. Agung Podomoro Land, Tbk. (APLN) merupakan pengembang nasional dengan reputasi 
+ 
+ 
+ 
+ internasional yang senantiasa menghadirkan produk properti yang berkualitas. 
+ 
+ APLN mahir dalam model pengembangan properti seperti kawasan terpadu, hotel, 
+ 
+ 
+ 
+ komersial area, perkantoran dan hunian tapak/landed house. 
+ 
+ Berbekal lebih dari 48 tahun pengalaman yang terfokus dalam dunia properti, APLN 
+ 
+ 
+ 
+ mempunyai landasan yang kuat untuk menjadi pengembang terdepan dalam menggarap 
+ 
+ 
+ 
+ pasar properti di Indonesia, dan berkomitmen untuk mendukung pembangunan negeri, 
+ 
+ 
+ 
+ dimana dapat diketahui dari pembangunan properti yang telah dilaksanakan di 
+ 
+ 
+ 
+ berbagai daerah, secara tidak langsung turut mengangkat segi ekonomi dan sosial di 
+ 
+ 
+ 
+ wilayah tersebut.
+ 
+ 
+ 
+ Podomoro Park Bandung merupakan satu-satunya hunian yang memiliki 5 Elements of 
+ 
+ 
+ 
+ Home Resort Living : 
+ 
+ 
+ 
+ 1. Lake (danau sepanjang 1km di area Podomoro Park) 
+ 
+ 2. Trees (pepohonan rimbun nan teduh di seluruh kawasan Podomoro Park) 
+ 
+ 3. Mountain (view pegunungan Bandung Selatan yang berbaris kokoh, memberikan view 
+ 
+ 
+ 
+ indah dan kesan sejuk) 
+ 
+ 4. Air (udara sejuk dan bersih tercipta di kawasan Podomoro Park) 
+ 
+ 5. Space (50% lahan digunakan sebagai ruang terbuka hijau)
+ 
+ 
+ 
+ 
+ 
+ FASILITAS :
+ 
+ 
+ 
+ - Club House 
+ 
+ - Gym 
+ 
+ - Swimming Pool 
+ 
+ - Tennis Court 
+ 
+ - Basket Court (3 on 3) 
+ 
+ - Function Room 
+ 
+ - Children's Playground 
+ 
+ - Bike Lane 
+ 
+ - Community Garden 
+ 
+ - 24 Hour Security 
+ 
+ - Panic button 
+ 
+ - Gazebo 
+ 
+ - Jogging Track by The Lake 
+ 
+ - Viewing Deck 
+ 
+ 
+ 
+ 
+ 
+ Spec :
+ 
+ Cluster Amagriya Nalendra Hook 38
+ 
+ DIMENSI : 10 x 15
+ 
+ LUAS TANAH : 148.07 m2
+ 
+ LUAS BANGUNAN : 108 m2
+ 
+ 
+ 
+ Harga
+ 
+ TUNAI KERAS : 2,066,400,000
+ 
+ KONTAN BERTAHAP : 2,296,000,000
+ 
+ KPR : 2,453,000,000
+ 
+ 
+ 
+ Info Lebih Lanjut Hubungi Marketing Podomoro Park Bandung : Bp. FAIQ
+  ",NULL,"1","1","1","1","1","1","1","2","2","1","1","1","15","1","2","3","2","1"
+"41","1","Jl. Suparmin no 56","5","4","3.05E+09","225","175","1","5","4","3500.00",,"Deskripsi
+  Rumah besar di komplek elit Pondok Hijau, Gerlong, Bandung Utara
+  *TURUN HARGA!!*
+ 
+ 5 MENIT DARI SETIABUDI, 15 MENIT KE EXIT TOL PASTEUR.
+ 
+ RUMAH MEWAH DI KAWASAN BANDUNG UTARA, PONDOK HIJAU INDAH.
+ 
+ 
+ 
+ *Rumah minimalis asri 2,5lantai di Pondok Hijau Indah, Setiabudi, Bandung.*
+  ","1","1",NULL,"1","1",NULL,"1","1","2","2","1",NULL,"1","16","1","2","1","3","2"
+"42","1","Jl. Batununggal Indah Raya no 165","2","4","3.60E+09","350","250","1","6","3","900.00",,"Deskripsi
+  Jual Rumah Srimahi Bandung hanya hitung tanah
+  Dijual rumah keluarga hanya HITUNG TANAH saja di daerah srimahi regol bandung
+ 
+ Lt. 350m2
+ 
+ Lb. 250m2
+ 
+ listrik 900watt
+ 
+ Akses mudah menuju pusat keramaian, dekat dengan berbagai fasilitas pendidikan dan olahraga
+ 
+ Harga masih bisa nego
+  ",NULL,NULL,"1","1","1",NULL,"0","1","2","1","1","1","1","6","3","3","3","4","2"
+"43","1","Jl. Mekar Raya no 71","2","1","6.49E+08","65","45","2","2","2","1300.00",,"Deskripsi
+  Hunian asri di daerah riung bandung,Riung Gallery
+  RIUNG GALLERY
+ 
+ 
+ 
+ Rumah 2 lantai harga 1 lantai 
+ 
+ 
+ 
+ Luas tanah : 65 m2
+ 
+ Luas Bangunan: 45m2
+ 
+ Kamar Tidur 2
+ 
+ Kamar Mandi 2
+ 
+ Listrik 1300 watt
+ 
+ 
+ 
+ Lokasi strategis:
+ 
+ - 9km dari stadion GBLA
+ 
+ - dekat minimarket 
+ 
+ - dekat kantor pos dan ATM dari semua Bank
+ 
+ - dekat apotek dan klinik 24 jam
+ 
+ - 1 km UPT puskesmas Riung Bandung
+ 
+ - 4km Rs Al- Islam
+ 
+ - dekat Metro Indah Mall
+ 
+ - dekat sarana pendidikan TK,SD,SMP,SMU dan SMK
+ 
+ - dekat Lotte Wholesale di soekarno hatta
+ 
+ - dekat pasar Cimol gedebage
+ 
+ - dekat pasar Grosir Gedebage
+ 
+ - dekat stasiun gedebage
+ 
+ - dekat terminal leuwi panjang dan terminal Kebon kalapa
+ 
+ - 7,4 km RSUD Kota Bandung
+ 
+ - 40 menit ke kampus universitas Telkom
+ 
+ - dekat tol buah batu/dayeuh kolot
+ 
+ 
+ 
+ Booking fee 5 juta 
+ 
+ harga normal 725 juta 
+ 
+ Harga PROMO 649 juta ( ALL IN )
+ 
+ 
+ 
+ 
+ 
+ info hubungi :
+ 
+ ANNA
+ 
+ Call/wa: 081937998899
+  ",NULL,"1","1","1",NULL,"1",NULL,"1",NULL,"1","1","1",NULL,"24","1","3","1","1","1"
+"44","1","Jl. Moch Syahri no 114","1","4","3.50E+08","60","30","1","2","1","1300.00",,"Deskripsi
+  Rumah type 30 dengan ruangtamu lebih luas di Padalarang
+  Rumah minimalis di Bandung Barat
+ 
+ 13 Menit ke Tol Padalarang
+ 
+ Bebas Banjir
+ 
+ Keamanan 24 Jam
+ 
+ Fasilitas : Masjid, Playground
+ 
+ 
+ 
+ Dp 20 Juta sudah all in 
+ 
+ Cicilan 2 jutaan
+  ",NULL,"1","1","1","1",NULL,NULL,"1",NULL,"1","1",NULL,"1","23","1","2","3","3","2"
+"45","1","Jl. Karya Bakti 3 no 14","2","4","1.60E+09","160","110","2","4","3","2200.00","08732817212","Rumah Minimalis Jual rumah apik dengan disgn minimlais di daerah Bandung Uatara yg sejuk dan nilai investasi yang terus meningkat. 
+ 
+ 
+ 
+ Pasilitas lengkap dengan lingkungan asri dan nyaman
+ 
+ 
+
+ 
+  ","1","1",NULL,NULL,"1","1","1","1","2","2","1","1","1","5","1","2","2","4","2"
+"46","1","Jl. Palasari no 98","6","5","4.20E+09","340","400","2","6","6","0.00",,"Deskripsi
+  Dijual Rumah Antapani, Bandung
+  Dijual Rumah Antapani, Bandung
+ 
+ • LT 340
+ 
+ • LB 400
+ 
+ • KT 5+1
+ 
+ • KM 5+1
+ 
+ • Listrik 3300
+ 
+ • Air PDAM
+ 
+ • Hadap Timur
+ 
+ • Semi Furnished
+ 
+ • Harga 4.2 M/nego
+ 
+ 
+ 
+ For more information :
+ 
+ Soen-Soen
+ 
+ 08122332400
+ 
+ Discovery Property
+  ","1","1",NULL,"1","1",NULL,"1","1","2","1","1",NULL,"1","15","1","2","6","2","4"
+"47","1","Jl. Peta no 9","2","4","5.50E+08","78","65","1","2","1","1300.00",,"Deskripsi
+  Cluster graha batu karang, dkt riung Bandung!
+  Jarang ada! 
+ 
+ Cluster graha batu karang dkt riung bandung
+ 
+ Lokasi strategis
+ 
+ Keamana 24 jam 
+ 
+ Lantai atas udah di dak, bisa untuk 1 kamar lagi
+  ",NULL,NULL,"1",NULL,"1","1",NULL,"1",NULL,"1","1","1","1","10","1","3","6","6","2"
+"48","1","Jl. Plumeria III no 67","7","5","3.50E+09","237","190","1","7","3","1300.00",,"Deskripsi
+  Rumah Batik Jonas Jarang Ada
+  Dijual Rumah siap Huni di Batik Jonas Sukaluyu Lt.237 m Lb.190 m Kt.7 Km.3 Garasi ,Carpot . Lokasi sangat Strategis dekat akses angkutan Umum , dekat Kampus Ternama Seperti Itenas,STIEB, STIE YPKP Memiliki lingkungan yang tenang ,Aman dan Nyaman Cocok juga dibangun Rumah Kos /Kantor dll .
+  ","1","1",NULL,"1","1","1",NULL,"1","2","4","1","1","1","25","1",NULL,"2","1","4"
+"49","1","Jl. Galumpit no 11","4","5","5.50E+09","360","300","1","7","7","7700.00",,"Deskripsi
+  Dijual rumah lokasi strategis di sayap supratman bandung
+  Dijual rumah besar lokasi strategis pinggir jalan raya area Katamso/ Sukasenang Bandung.
+ 
+ 
+ 
+ Total kamar 7 bh, semuanya kamar mandi dalam. (2 di bawah, 5 di atas). 
+ 
+ 
+ 
+ Ada studio rekaman / media room cukup besar ukuran 6x4, kedap suara dengan ruang operator terpisah. Listrik 7700 watt.
+ 
+ 
+ 
+ Cocok untuk guest house/kantor/ studio rekaman/ stasiun radio. Carport luas bisa untuk 6 mobil. Ada kamar satpam di luar.
+ 
+ 
+ 
+ LT 360 (sertifikat 256) ada kelebihan tanah 104 m2
+ 
+ LB 300
+ 
+ 7 KTr+ KM dalam
+ 
+ 1 KT pembantu + KM
+ 
+ Air jet pump 
+ 
+ Water heater 
+ 
+ Hadap Barat
+ 
+ Line telepon 1
+ 
+ SHM
+  ","1","1","1","1","1",NULL,"1","1","1","6","1","1","1","15","1","2","3",NULL,NULL
+"50","1","Jl. Karangsari no 92","2","4","5.00E+09","210","150","1","2","2","2200.00",,"Deskripsi
+  Dijual Rumah di Daerah Pajajaran, Bandung Pusat
+  Dijual Rumah di Daerah Pajajaran - Bandung Pusat.
+ 
+ LT 210m / LB 150m, SHM, 2kt, 2km, carport 5 mbl, air jet pump, lisyrik 2200 watt, hadap selatan, cocok untuk kantor + tour & travel + butik + bank + dll, dekat bandara & istana plaza.
+ 
+ Harga Rp 5M (nego)
+ 
+ 
+ 
+ Support Banking by BCA, Panin, UOB, May Bank, Permata, OCBC Nisp, CIMB Niaga, Muamalat, Danamon.
+ 
+ 
+ 
+ More info :
+ 
+ Gerry ""GM Property""
+ 
+ Tlp/WA : wa.me/6281910118921
+ 
+ Personal Web : gerrygmpro.agent.co.id
+  ","1","1","1","1","1",NULL,"1","1","1","5",NULL,"1","1","5","1","3","2","3","4"
+"51","1","Jl. Awigombong no 18","2","1","8.00E+08","110","160","2","2","1","1300.00",,"Deskripsi
+  Residance Bandung Utara
+  #Residance Bandung Utara dekat Polban.
+ 
+ #Residance Bandung Utara dekat Universitas Maranatha.
+ 
+ #Residance Bandung Utara dekat Pintu Tol Pasteur.
+ 
+ #Residance Bandung Utara dekat Airport Husein Sastranegara.
+ 
+ #Residance Bandung Utara dekat ke Universitas UPI.
+ 
+ #Residance Bandung Utara dekat Sekolah Pariwisata Enhai.
+ 
+ 
+ 
+ Bandung Beli/Jual/Sewa Properti
+ 
+ Hub : 081 737 1800
+  ","1","1","1",NULL,"1","1",NULL,"1","1","2","1","1",NULL,"14","2","3","3","4","2"
+"52","1","Jl. Puspita no 67","6","8","1.50E+09","66","120","2","3","2","2200.00",,"Deskripsi
+  Rumah minimalis di depan Hotel Horison Bandung
+  Rumah baru minimalis 2 lantai
+ 
+ Lokasi sangat strategis di pusat kota Bandung
+ 
+ Dekat ke RS, Mall, Hotel, perkantoran dan pusat2 kuliner Bandung
+ 
+ Lantai 1 : Ruang tamu, 1KT, 1KM, ruang makan, ruang cuci, dapur, teras dan carport
+ 
+ Lantai 2 : Ruang keluarga, 2KT, 1KM, tmpt jemur dan gudang.
+ 
+ Sumber air PDAM
+ 
+ listrik 2200 w
+ 
+ kwalitas bangunan OK banget
+ 
+ Harga Nego !
+  ","1","1","1",NULL,"1",NULL,NULL,"1",NULL,"1","1","1",NULL,"24","1","2","1","2","4"
+"53","1","Jl. Pertamina no 54","5","6","4.99E+08","65","38","1","2","1","1300.00",,"Deskripsi
+  New Cluster hanya 5 unit di Cherry Homes Bandung
+  Exclusive hanya di perumahan Cherry Homes 
+ 
+ 
+ 
+ Rumah 1 lantai di daerah bandung timur ini sangat nyaman dan strategis ke mana-mana.
+ 
+ 
+ 
+ spek :
+ 
+ luas tanah : 65m2
+ 
+ luas bangunan : 38 m2
+ 
+ kamar tidur : 2
+ 
+ kamar mandi : 1
+ 
+ ruang keluraga yang besar
+ 
+ dapur
+ 
+ carport
+ 
+ listrik 1300 watt
+ 
+ SHM
+ 
+ 
+ 
+ Hanya 5 unit saja,siapa cepat dia dapat jangan sampai kehabisan karena harga di bawah pasaran...
+ 
+ 
+ 
+ 
+ 
+ Buruan survey hubungi marketing kami 
+ 
+ ZAINAL
+ 
+ Call/Wa:082299778899
+  ",NULL,"1",NULL,NULL,"1","1","1","1",NULL,"1","1","1","1","24","1","3","6","2","4"
+"54","1","Jl. Cibaduyut Dalam no 14","3","3","5.50E+08","108","55","1","2","2","1300.00",,"Deskripsi
+  Real Estate Murah di Bandung Barat dekat Cimahi, Fasilitas lengkap
+  Dijual Rumah Murah Baru Minimalis 300000000an Bandung Barat
+ 
+  
+ 
+ Mekarsari Eco Living 
+ 
+ Cilame Ngamprah KBB
+ 
+ dekat Cimahi dan Kota Bandung
+ 
+ Exclusive 300 unit
+ 
+ Terjual 80 unit
+ 
+ 
+ 
+ Type Rajasa Type 55/108
+ 
+ Rp.550000000 
+ 
+ Dp 5% 27,5000000
+ 
+ Cicilan 25thn 4,3000000an 
+ 
+ LT : 108m
+ 
+ LB : 55m
+ 
+ KT : 2
+ 
+ KM : 2
+ 
+ 
+ 
+ Type Kirana Type 48/100
+ 
+ Rp.450000000
+ 
+ Dp 5% 22,5000000
+ 
+ Cicilan 25thn 3,5000000an 
+ 
+ LT : 100m
+ 
+ LB : 48m
+ 
+ KT : 2
+ 
+ KM : 1
+ 
+ 
+ 
+ Type Milena Type 38/72 
+ 
+ Rp.375000000 
+ 
+ Dp 5% 18,75000000
+ 
+ Cicilan 25thn 2,9000000an 
+ 
+ LT : 72m
+ 
+ LB : 38m
+ 
+ KT : 2
+ 
+ KM : 1
+ 
+ 
+ 
+ Listrik 1300watt
+ 
+ Air Bersih
+ 
+ Carport 
+ 
+ Taman depan belakang
+ 
+ 
+ 
+ Fasilitas :
+ 
+ Gerbang dan pos satpam 24 jam
+ 
+ Jalan lebar
+ 
+ Saluran air
+ 
+ Mesjid
+ 
+ Taman
+ 
+ 
+ 
+ Spesifikasi :
+ 
+ Dinding Bata Ringan Leabel
+ 
+ Lantai granit
+ 
+ Kusen almunium 
+ 
+ Genting beton
+ 
+ 
+ 
+ Harga Promo cash keras Type Milena hanya 315000000 
+ 
+ 
+ 
+ Legalitas
+ 
+ SHGB ( Pengembang PT )
+ 
+ IMB
+ 
+ PBB
+ 
+ 
+ 
+ Lokasi strategis, dekat :
+ 
+ Kantor KBB
+ 
+ TOL 
+ 
+ Transmart
+ 
+ Borma
+ 
+ Sekolahan
+ 
+ Pasar 
+ 
+ Kolam renang 
+ 
+ 
+ 
+ Jalan Cilame
+ 
+ Jalan Haji Gofur
+ 
+ Jalan Padalarang
+ 
+ 
+ 
+ Air bersih
+ 
+ Udara segar
+ 
+ Hawa sejuk
+ 
+ Pemandangan indah
+ 
+ Angin sepoi sepoi
+ 
+ Kicau burung bersahutan
+ 
+ 
+ 
+ SamargaLand
+ 
+ Hubungi
+ 
+ Marketing terbaik anda : 
+ 
+ R Adi Pratama 
+ 
+ WA 081222291899
+  ","1",NULL,NULL,NULL,"1","1","1","1",NULL,"2","1","1",NULL,"11","1","2","2","2","4"
+"55","1","Jl. Mekar Harum no 63","4","7","2.75E+09","144","120","1","3","2","2200.00",,"Deskripsi
+  Dijual Rumah Amanda Summarecon Gedebage Bandung Timur
+  Dijual Rumah Amanda Summarecon Gedebage Bandung Timur 
+ 
+ 
+ 
+ Rumah Amanda Summarecon Gedebage Bandung 
+ 
+ Lt. 144 
+ 
+ lb. 120 
+ 
+ kt. 3 
+ 
+ km 2 
+ 
+ Lebar 9 
+ 
+ Harga 2.75 M 
+ 
+ 
+ 
+ Rumah Summarecon Gedebage Bandung Timur 
+ 
+ Hubungi; 
+ 
+ Widiadi 
+ 
+ 0812 2256 827 
+ 
+ 0812 1818 128 
+ 
+ www.discoveryproperty.id
+  ","1",NULL,"1","1","1",NULL,"1","1","1","1","1","1","1","11","1","1","3","3","5"
+"56","1","Jl. Kebon Kawung no 124","3","4","4.25E+09","400","350","1","6","5","3500.00",,"Deskripsi
+  Jual Rumah Tinggal, Di Cijerah, Bandung Kulon, Bandung
+  Luas tanah 400m2 luas bagunan 350m2 6kmr tdr 5kmr mnd carport 2mbl kebun besar culdesak dekat sekolahan kuliner hub: Randy Tan 081224949595 web: randytanraywhitetoha.agent.co.id
+ ","1","1",NULL,NULL,"1",NULL,NULL,NULL,"1","2","1","1","1","16","3","3","1","6","2"
+"57","1","Jl. Keadilan V no 85","4","6","2.35E+09","151","140","1","3","2","2200.00",,"Deskripsi
+  Rumah Baru, minimalis , cluster Jl Sukahaji Permai, Bandung.
+  Rumah baru, minimalis, cluster Jl. Sukahaji Bandung Utara. 
+ 
+ Rumah 2 lantai .Luas tanah 151 Luas tanah 140 m2.Harga Rp. 2.350.000.000.
+ 
+ Hub. Christina 0815 6202 733
+  ",NULL,"1",NULL,NULL,"1","1","1","1","1","1",NULL,"1","1","25","4","3","7","2","6"
+"58","1","Jl. Ciwastra no 43","2","5","5.50E+08","88","76","1","2","1","1300.00",,"Deskripsi
+  Rumah sangat murah di riung bandung bebas banjir
+  Dapatkan rumah baru lokasi sangat strategis di riung bandung posisi sebelum terminal ring bandung, akses sangat dekat ke soekarno-hatta, hanya 5 menit dari RS AL-ISLAM, MIM dan sekitarnya. keamanan terjamin, dan yang paling penting bebas banjir.
+ 
+ 
+ 
+ Jika anda berminat, segera hubungi 
+ 
+ AHER CONFIDENT PROPERTY
+ 
+ TEL/ WA/ TELEGRAM : 0853 5313 5258
+ 
+ 
+ 
+ Anda mau jual rumah, tanah, ruko, hotel, geust house, kosan dsb? 
+ 
+ Saya menerima titpan properti ibu/bapa sekalian. Juga Gratis Konasultasi masalah properti. saya akan memaksimalkan agar properti ibu/bapa laku terjual.
+ 
+ 
+ 
+ Penjual GRATIS pemasaran, pembeli GRATIS komisi
+  ",NULL,"1","1",NULL,"1","1",NULL,"1",NULL,"1","1","1",NULL,"12","1","2","3","4","2"
+"59","1","Jl. Gunung Kareumbi no 21","3","4","3.10E+09","225","300","2","3","3","3500.00",,"Deskripsi
+  Dijual Rumah Pondok Hijau Bandung
+  Dijual Rumah Pondok Hijau
+ 
+ Luas Tanah 225m2
+ 
+ Luas Bangunan 300m2
+ 
+ Kamar Tidur 3+1
+ 
+ Kamar Mandi2+1
+ 
+ 2 Lantai
+ 
+ shm
+ 
+ Listrik 3500 Watt
+ 
+ Air Artesis
+ 
+ Siap huni
+ 
+ Bagus
+ 
+ Rp. 3,1M (nego)
+  ",NULL,"1",NULL,"1","1","1","1","1","1","1","1","1","1","17","1","2","6","1","4"
+"60","1","Jl. Wniata no 13","4","3","6.25E+08","72","50","1","2","1","2200.00",,"Deskripsi
+  Jual cepat semi furnish Ciganitri
+  Luas tanah 72m2
+ 
+ Luaa bangunan 50m2
+ 
+ 2 Kamar tidur
+ 
+ 1 Kamar mandi
+ 
+ Listrik 2.200 watt.
+ 
+ Air sumur submers.
+ 
+ Semi furnished (kasur, lemari baju, set meja makan, water heater)
+ 
+ Teralis depan belakang
+ 
+ Lebar muka 6mtr
+ 
+ Plafon tinggi
+ 
+ SHM
+ 
+ Harga 625 000000 nego
+  ","1","1",NULL,NULL,"1","1",NULL,NULL,NULL,"1","1","1",NULL,"23","1","2","4","3","2"
+"61","1","Jl. Caringin no 87","5","7","1.10E+09","130","110","1","5","3","1300.00","08392819232","Deskripsi
+  Rumah siap huni 130m2
+  rumah siap huni
+ 
+ akses jalan leluasa
+ 
+ bebas banjir 
+ 
+","1",NULL,"1",NULL,"1",NULL,"1","1",NULL,"1","1","1","1","5","5","3","2","3","2"
+"62","1","Jl. Rosselia no 67","5","1","6.49E+08","65","45","2","2","2","1300.00",,"Deskripsi
+  Hunian mewah harga murah di Riung Gallery Bandung
+  Perumahan baru didaerah riung bandung 
+ 
+ 
+ 
+ Rumah 2 lantai harga 1 lantai 
+ 
+ 
+ 
+ RIUNG GALLERY
+ 
+ 
+ 
+ SPEK :
+ 
+ LT 65
+ 
+ 
+ 
+ LB 45
+ 
+ 
+ 
+ Kamar Tidur 2
+ 
+ 
+ 
+ Kamar Mandi 2
+ 
+ 
+ 
+ Listrik 1300 watt
+ 
+ 
+ 
+ (2 lantai)
+ 
+ 
+ 
+ Lokasi strategis:
+ 
+ - 9km dari stadion GBLA
+ 
+ - dekat minimarket 
+ 
+ - dekat kantor pos dan ATM dari semua Bank
+ 
+ - dekat apotek dan klinik 24 jam
+ 
+ - 1 km UPT puskesmas Riung Bandung
+ 
+ - 4km Rs Al- Islam
+ 
+ - dekat Metro Indah Mall
+ 
+ - dekat sarana pendidikan TK,SD,SMP,SMU dan SMK
+ 
+ - dekat Lotte Wholesale di soekarno hatta
+ 
+ - dekat pasar Cimol gedebage
+ 
+ - dekat pasar Grosir Gedebage
+ 
+ - dekat stasiun gedebage
+ 
+ - dekat terminal leuwi panjang dan terminal Kebon kalapa
+ 
+ - 7,4 km RSUD Kota Bandung
+ 
+ - 40 menit ke kampus universitas Telkom
+ 
+ - dekat tol buah batu/dayeuh kolot
+ 
+ 
+ 
+ Booking fee 5 juta 
+ 
+ harga normal 725 juta 
+ 
+ Harga PROMO 649 juta ( ALL IN )
+ 
+ 
+ 
+ 
+ 
+ info lebih jelas dan lengkap :
+ 
+ LUCKY
+ 
+ Call/Wa: 087777265290
+  ","1","1","1","1","1","1","1","1",NULL,"1","1","1",NULL,"25","1","3","2","3","2"
+"63","1","Jl. Tubagus Ismail no 12","3","5","3.20E+08","102","36","1","2","1","1300.00",,"Deskripsi
+  Perumnas bandung
+  Bismillah Ahmad Yaman marketing , 081809200777 , rumah sederhana perumnas bandung siap huni , perumnas , Bandung , , Perumahan parahyangan kencana soreang dekat polres bandung , Jln Dago pojok no 81 Bandung dan jl taman Kopo indah 1 blok H no 38 Bandung satu kantor dengan mbak ami centre
+ 
+ 
+ 
+ survey dan booking segera
+ 
+ 
+ 
+ *READY STOCK*
+ 
+ tipe 36/102
+ 
+ s
+ 
+ 
+ 
+ *Cuma*
+ 
+ 
+ 
+ Harga rumahnya 300 juta an
+ 
+ 
+ 
+ free kanopi untuk garasi (khusus akad bulan ini) 
+ 
+ free biaya akad
+ 
+ free biaya surat2
+ 
+ 
+ 
+ Developer by perumnas BUMN
+  ",NULL,"1","1","1","1","1","1","1","1",NULL,"1",NULL,"1","19","1","3","6","6","2"
+"64","1","Jl. Rumah Sakit no 154","3","8","1.40E+09","208","160","1","3","2","1300.00",,"Deskripsi
+  Rumah siap huni di Kopo Permai
+  Siap huni di Kopo Permai
+  ","1","1","1",NULL,"1",NULL,"1",NULL,"1","2","1","1","1","18","5","2","6","2","4"
+"65","1","Jl. Banyumas no 18","6","4","2.40E+09","165","189","2","5","4","2200.00",,"Deskripsi
+  Dijual Rumah siap huni di
+ Perumahan Pondok Hijau Indah Bandung
+  Dijual Rumah Tinggal:
+ 
+ Perumahan Pondok Hijau Indah Bandung
+ 
+ LT/LB: 189/165 m2 (2 lantai)
+ 
+ Hadap Utara
+ 
+ 4+1 KT
+ 
+ 3+1 KM
+ 
+ Gudang
+ 
+ Carport 2 mobil
+ 
+ Taman belakang dan depan
+ 
+ Listrik: PLN 2200
+ 
+ Air: Jetpump dgn torrent 3000L
+ 
+ Hot and cold water
+ 
+ Harga: Rp 2,4 M
+ 
+ 
+ 
+ 
+ 
+ Saat ini tersedia juga properti seperti tanah, rumah, ruko dll di :
+ 
+ Bandung tengah, bandung utara, bandung timur, bandung selatan, bandung barat, pasteur, surya sumantri, kumalagarden, babakanjeruk, cibogo, sutami, setrasari, sukamulya, setraindah, setramurni, sukahaji, gegerkalong/gerlong, pondok hijau, setraduta, istana regency, taman millenium, gunung batu, setiabudi , cipaku indah, budisari, budiasri, sukajadi, pajajaran, pasirkaliki, wastukencana, dr. Hatta, oten, garuda, abdurahman saleh, cipaganti, ciumbuleuit, cihampelas, dago /ir. H. Juanda, tubagus ismail, cigadung, pahlawan, suci, cikutra, dipatiukur, riau, cimanuk, banda bengawan, cihapit, lombok, cisangkuy, martadinata, merdeka, aceh, veteran, naripan, sunda, tamblong, asia afrika, kepatihan, lengkong besar, lengkong kecil, cikawao, karapitan, banteng, pungkur, moh. Ramdhan, otista / otto iskandardinata, kebon kawung, gatsu/gatot subroto, pelajarpejuang, laswi, burangrang, talagabodas, lodaya, palasari, halimun, windu, martanegara, turangga, maskumambang, asmarandana, karawitan, reog, buah batu , suryalaya, rajamantri, kembar, sriwijaya, peta, bkr, soekarno hatta, batununggal, mekarwangi, singgasana pradana, margahayu, parakan, batu indah, kopo, cibaduyut, antapani, arcamanik, cimahi, sariwangi, sarijadi, kotabaru parahyangan, cikoneng, margacinta, kiaracondong.
+  ",NULL,"1",NULL,"1","1","1","1","1","1","2","1","1","1","2","1","2","1","4","2"
+"66","1","Jl. Cinambo no 19","3","2","8.00E+09","498","350","2","7","7","3500.00",,"Deskripsi
+  Lingkungan sangat baik, nyaman.Dekat dengan sekolah,pusat belanja,toll
+  Dijual rumah di Setrasirna Bandung.
+ 
+ Lokasi yang nyaman daerah utara kota Bandung.
+ 
+ Lt : 498 m2
+ 
+ Lb : 350 m2
+ 
+ 1,5 lantai
+ 
+ SHM
+ 
+ Kt : 5+2
+ 
+ Km : 5+2
+ 
+ Garasi : 2 mobil
+ 
+ Carport : 3 mobil
+ 
+ Listrik : 3300 watt
+ 
+ Air : artesis
+ 
+ Harga : 8 M nego
+ 
+ Info :
+ 
+ Arief
+ 
+ 082129109800
+  ","1","1","1","1","1",NULL,"1","1","2","3","1","1","1","18","1","3","1","2","3"
+"67","1","Jl. Rancabentang no 15","2","5","5.65E+08","51","88","2","3","2","1300.00",,"Deskripsi
+  Rumah baru siap huni lokasi sedang berkembang pesat di Riung bandung
+  di jual cepat rumah baru siap huni di riung bandung
+ 
+ terdiri dari
+ 
+ luas tanah 51meter
+ 
+ luas bangunan 88metr
+ 
+ kamar tidur 3
+ 
+ kamar mandi 2
+ 
+ ruang tamu,dapur kamar mandi,carport,taman
+ 
+ bahan bangunan berkwalitas
+ 
+ lingkungan aman dan nyaman
+ 
+ di dalam komplek
+ 
+ bebas banjir
+ 
+ dekat pusat perbelenjaan,ATM Center
+ 
+ dekat ke sekolah,SD,SMP,SMA unifersitas
+ 
+ lokasi sedang mengalalmi perkembangan cepat di bandung timur karena berdekatan dengan sumarecond,toll gede bage,metro laand,dan SOR GBLA
+ 
+ # menerima penitipan penjualan property#
+ 
+ Anda mau jual rumah,tanah,aparment,hotel,gudang atau pabrik di Bandung dengan aman dan nyaman??
+ 
+ bisa hubungi saya di IG chika.confident /WA 085222794402 / BBM 57554615, Saya siap membantu anda semaximal mungkin
+  ","1","1",NULL,NULL,"1","1","1","1",NULL,"1","1","1","1","17","1","3","6","1","4"
+"68","1","Jl. Gunung Batu no 203","5","6","2.10E+08","36","36","1","2","1","1300.00",,"Deskripsi
+  Dijual Murah Apartment The Suites Metro Bandung
+  Dijual Murah Apartemen The Suites Metro Bandung
+ 
+ Lokasi strategis
+ 
+ Dekat ke mall dan pusat perbelanjaan.
+ 
+ -Metro Indah Mall ( Tinggal Nyebrang Jalan )
+ 
+ -Trans Studio Mall
+ 
+ -Antapani Square
+ 
+ -Lotte Mart
+ 
+ -Carrefour
+ 
+ -MCD Soetta
+ 
+ Dekat RS Al Islam
+ 
+ 
+ 
+ Harga Rp. 210 juta
+ 
+ Luas: 36 m2
+ 
+ Bedroom: 2
+ 
+ Bathroom: 1
+ 
+ Unfurnished
+ 
+ 
+ 
+ Facility:
+ 
+ Swimming Pool, Shopping Arcade, Basement Park, Playground, Garden
+ 
+ 
+ 
+ Harga 210 juta
+  ",NULL,"1","1",NULL,"1","1",NULL,"1",NULL,"1","1","1",NULL,"16","1","3","2","5","3"
+"69","1","Jl. Haji Sapari","5","4","5.00E+08","63","105","2","4","2","1300.00",,"Deskripsi
+  Jual Rumah Bandung di Griya Bandung Asri Dekat Pintu Tol
+  Jual Rumah Bandung di Griya Bandung Asri Dekat Pintu Tol
+ 
+ 
+ 
+ Spesifikasi :
+ 
+ Luas Tanah 63 m²
+ 
+ Luas Bangunan 105 m²
+ 
+ LM 5 Meter
+ 
+ Kamar Tidur 4
+ 
+ Kamar Mandi 2
+ 
+ Dapur
+ 
+ Ruang Keluarga
+ 
+ Carport
+ 
+ Sumur Bor
+ 
+ Listrik 1300 Watt
+ 
+ SHM
+ 
+ 
+ 
+ Info Lebih Lanjut Hubungi:
+ 
+ Mega/ 082216949277
+  ","1","1",NULL,NULL,"1",NULL,"1",NULL,NULL,"1","1","1","1","4","1","3","1","2","1"
+"70","1","Jl. Rajawali Timur no 87","3","5","2.39E+09","184","150","1","3","3","2200.00",,"Deskripsi
+  Rumah Tua Strategis Seberang Unpar Utk Kosan.
+  Dijual Murah Dibawah Harga Pasaran. 
+ 
+ Luas Tanah 184m2
+ 
+ Rp.2.392Milyar 
+ 
+ atau jatuh per meter nya Rp.13000000 (pasaran Rp.15-20000000/m).
+ 
+ Lokasi Strategis Hanya 200 dr Universitas Parahyangan- Sayap Ciumbeluit.
+ 
+ 
+ 
+ Asset yang di jual adalah berupa Rumah bangunan tua.Sangat Cocok Untuk Usaha Kosan Mahasiswa,Rumah Makan,Laundry dll.
+ 
+ 
+ 
+ Bentuk Tanah Persegi panjang,dgn lebar muka 10meter.Lokasi Masuk mobil dgn lebar jalan sekitar 5meter.Sumber air tanah yg melimpah dgn kualitas yg jernih ciri khas Bandung utara.
+ 
+ 
+ 
+ Documen SHM.
+ 
+ 
+ 
+ #Untuk yg belum paham wilayah ciumbeluit bisa cek.goggle. Universitas Parahyangan - Ciumbeleuit Bandung Utara.
+  ","1","1",NULL,"1","1",NULL,"1","1","2","1",NULL,"1","1","1","1","3","1","4","2"
+"71","1","Jl. Nilem no 123","3","3","2.28E+10","910","400","1","4","3","1300.00",,"Deskripsi
+  Dijual Rumah di Daerah Burangrang, Bandung Pusat
+  Dijual Rumah di Daerah Burangrang - Bandung Pusat.
+ 
+ Lt 910 m2 / lb 400 m2, SHM, ukuran 20m x 45,5m, 4kt, 3km, garasi 2 mbl, carport 2 mbl, listrik 1300w, air jet pump, cocok untuk bimbel/guest house/kantor/dll.
+ 
+ Harga Rp 22,75M (nego)
+ 
+ 
+ 
+ Support Banking by BCA, Panin, UOB, May Bank, Permata, OCBC Nisp, CIMB Niaga, Muamalat, Danamon.
+ 
+ 
+ 
+ More info :
+ 
+ Gerry ""GM Property""
+ 
+ Tlp/WA : wa.me/6281910118921
+ 
+ Personal Web : gerrygmpro.agent.co.id
+  ","1",NULL,"1",NULL,"1",NULL,NULL,"1","2","2","1","1","1","22","1","3","2","5","4"
+"72","1","Jl. Parakan Waas no 14","2","3","5.00E+09","300","200","1","6","5","3500.00",,"Deskripsi
+  Rumah Unik Furnish Bandung Utara
+  Rumah full furnish di Dago bandung utara..aman nyaman udara bersih,dekat pusat kota mudah di akses...dengan view full kota bandung...
+  ",NULL,"1",NULL,"1","1","1",NULL,"1","2","4","1","1","1","6","2","1","1","4","2"
+"73","1","Jl. Oliana no 65","6","4","1.50E+09","64","64","1","2","2","2200.00",,"Deskripsi
+  Dijual CEPAT Apartment 2 BR - Dago Suite, Bandung
+  - Dijual Cepat 1 unit Apartemen 2 BR di Dago Suite, Bandung
+ 
+ - Lokasi sangat strategis, cocok untuk tempat tinggal
+ 
+ - Nilai investasi tinggi
+ 
+ - Dekat dengan ITB, banyak diminati untuk disewa maupun dipakai sendiri
+ 
+ - Kondisi full furnished, siap huni, tidak perlu repot
+ 
+ - 2 Bed Room, 2 Toilet, Ruang Keluarga, Kitchen, AC 3 unit
+ 
+ - Parkir luas, keamanan 24 jam
+ 
+ - Listrik 2200 watt
+ 
+ - Sertifikat Hak Milik
+ 
+ - Harga : Rp. 1.5 Milyar (nego)
+  ","1","1","1","1","1","1",NULL,"1",NULL,NULL,"1","1",NULL,"25","1","1","6","5",NULL
+"74","1","Jl. Dadali no 198","7","6","3.50E+09","300","189","1","5","4","2200.00",,"Deskripsi
+  Rumah Bagus siap Huni Suryalaya Buah batu Bandung
+  Dijual Rumah di Suryalaya Lokasi Terbaik..
+ 
+ Luas 189/300 5Kt 3Km.
+ 
+ Baru 1th di tempatin..
+ 
+ Bangunan bagus banget.
+ 
+ Harga 3.5 M Negoo 
+ 
+ Bangunan hitung 5000000.
+ 
+ Tanah 10.5000000.
+ 
+ Hub sam era bandung
+ 
+ 081321730003 wa
+  ","1","1",NULL,"1",NULL,"1",NULL,"1","1","1","1",NULL,"1","1","2","3","6","3","1"
+"75","1","Jl. Terusan Sekolah no 5","4","5","3.30E+09","252","114","1","3","2","2200.00",,"Deskripsi
+  Lingkungan sangat baik
+  LT : 252m
+ 
+ LB : 114m
+ 
+ Hadap : Utara -Timur
+ 
+ Lebar Muka : 15
+ 
+ Lebar Jalan : 7-8m
+ 
+ KT : 3+1
+ 
+ KM : 2+1
+ 
+ Sertifikat : SHM
+ 
+ Listrik : 2200
+ 
+ Air : PAM dan Summersible
+ 
+ Jumlah Lantai : 1 lt
+  ",NULL,"1","1",NULL,"1","1","1",NULL,"1","2","1","1","1","21","1","2","1","3","5"
+"76","1","Jl. Sultan Tirtayasa no 76","5","4","7.00E+08","84","60","1","2","1","1300.00",,"Deskripsi
+  Rumah murah di setiabudi bandung
+  Kapan lagi dapat rumah di Kawasan Bandung Utara Setiabudi, Harga murah, Cluster mewah 2 lantai. Sejuk, dingin, nyaman, aman dan tenang.
+ 
+ 
+ 
+ Promo khusus bagi Anda yang hadir gathering bisa cicilan flat tanpa bunga selama 10 tahun bunga 0%.
+ 
+ 
+ 
+ Anda ingin menikmati udara sejuk, dingin, nyaman dan tenang setiap hari, serta jauh dari hiruk pikuk kota tapi hanya 20 menit ke Kota Bandung?
+ 
+ 
+ 
+ Lokasi di Setiabudi, Bandung
+ 
+ 
+ 
+ Fasilitas
+ 
+ 1. Keamanan 24 Jam
+ 
+ 2. Rumah Ibadah (Masjid)
+ 
+ 3. Jogging Track
+ 
+ 4. Pendopo Warga
+ 
+ 5. Central Park
+ 
+ 6. Children Playground
+ 
+ 7. Medical Center
+ 
+ 8. Minimart & Business Center
+ 
+ 9. Boulevard, lebar jalan 6meter
+ 
+ 
+ 
+ Perumahan The Green Setiabudi hanya berjarak:
+ 
+ - 17 menit UPI Bandung
+ 
+ - 17 menit Bosscha Observatory
+ 
+ - 20 menit Daarut Tauhid
+ 
+ - 22 menit Kampung Gajah
+ 
+ - 22 menit Floating Market
+ 
+ - 24 menit Rumah Mode
+ 
+ - 26 menit Jendela Alam
+ 
+ - 27 menit De'Ranch
+ 
+ - 28 menit Kampung Daun
+ 
+ - 30 menit Sapu lidi
+ 
+ - 32 menit Vihara Vipassana Graha
+ 
+ - 34 menit Taman Begonia
+ 
+ - 35 menit ITB
+ 
+ - 38 menit Gedung Sate
+ 
+ - 45 menit Alun-alun Bandung
+ 
+ - 48 menit Curug Maribaya
+ 
+ - 55 menit Tangkuban Perahu
+ 
+ - 56 menit Tol Pasteur
+ 
+ - 1 jam Air panas ciater
+ 
+ 
+ 
+ Cara bayar fleksibel:
+ 
+ #TanpaBank
+ 
+ #TanpaRiba
+ 
+ #TanpaDenda
+ 
+ #TanpaSita
+ 
+ 
+ 
+ 
+ 
+ Bagi yang telah berminat informasi jadwal gathering pada bulan Nov 2017.
+ 
+ 
+ 
+ Ingat Makin Ditunda Makin Mahal!
+ ","1","1",NULL,"1","1","1","1","1","1","2","1","1","1","8","3","2","3","2","3"
+"77","1","Jl. Raya Golf Dago no 14","2","5","6.00E+08","76","55","1","2","1","1300.00",,"Deskripsi
+  Rumah Baru Siap Huni Di Dalam Cluster Cipamokolan Riung Bandug
+  Rumah Baru Siap Huni Di Riung Bandung Cipamokolan,Dekat Jalan Raya Cipamokolan 
+ 
+ Lokasi Strategis 
+ 
+ Jalan Lebar 2mobil
+ 
+ Bebas Banjir 
+ 
+ 
+ 
+ Hubungi 
+ 
+ ika confident 
+ 
+ 0813 8529 8226 
+ 
+ 
+ 
+ Menerima titipan jual beli sewa properti bandung
+  ","1",NULL,NULL,"1","1",NULL,NULL,"1",NULL,"1","1","1",NULL,"19","1","3","3","1","1"
+"78","1","Jl. Cipaganti Permai no 11","4","2","8.06E+08","108","60","1","2","1","2200.00",,"Deskripsi
+  Rumah Bandung tanah kotak one gate system cluster dkt tol siap huni
+  Derwati Mas Lebar 8m DP 5% Cicil Suka-Suka
+ 
+ (Khusus BCA)
+ 
+ 
+ 
+ Luas tanah 108 m2
+ 
+ Luas bangunan 60 m2
+ 
+ Kamar tidur 2
+ 
+ Kamar mandi 1
+ 
+ 
+ 
+ Harga 806.245.000
+ 
+ DP 5% 40.312.250
+ 
+ KPR 95% 765.932.750
+ 
+ 
+ 
+ Bisa SHM
+ 
+ 
+ 
+ Promo
+ 
+ Gratis Pajak Pembelian
+ 
+ Gratis Biaya Notaris
+ 
+ Discount s.d 20 Juta
+ 
+ 
+ 
+ Segera hubungi:
+ 
+ Nikki Discovery Property
+ 
+ 0811 21 0927
+ 
+ 0877 0008 0058
+ 
+ 
+ 
+ derwati, gedebage, margacinta, buah batu, terusan buah batu, ciwastra, metro, mars, merkuri, saturnus, pluto, meteor, logam, jingga residence, ranca oray, riung bandung, summarecon bandung, bumi adipura, sapan, de marrakesh, terusan derwati, cipamokolan, bandung indah raya, petikemas, buana soetta, logam, terusan logam, ciparay, bojongsoang, ciganitri, cherryfield, buah batu square, tol buah batu, tol gede bage, rest area km 147, rumah sakit
+  ","1","1",NULL,NULL,"1","1","1",NULL,"1","1","1",NULL,"1","19","1","3","2","4","3"
+"79","1","Jl. Cikuda no 98","5","4","3.03E+09","200","200","2","5","4","5500.00",,"Deskripsi
+  Dijual Rumah Siap Huni Harga Murah
+  Rumah Siap Huni Harga Heran
+ 
+ Mekar Molek 
+ 
+ Luas Tanah : 200 m2 Luas Bangunan: 200m2. Hadap: Utara 
+ 
+ Surat : SHM
+ 
+ 
+ 
+ Spek: 
+ 
+ 4 Kamar Tidur + 1
+ 
+ 3 Kamar mandi + 1
+ 
+ Dapur
+ 
+ Carport 
+ 
+ 2 Lantai 
+ 
+ 
+ 
+ Harga : 3,025 Milyar (Ready)
+  ",NULL,"1","1",NULL,"1","1",NULL,"1",NULL,"1",NULL,"1","1","15","1","2","1","3","4"
+"80","1","Jl. Rancabolang ","1","1","7.50E+09","500","350","1","4","3","2200.00",,"Deskripsi
+  Rumah dijual bandung utara geger kalong bebas banjir aman
+  Dijual Rumah Geger Kalong Wetan
+ 
+ LT 500
+ 
+ LB 350
+ 
+ Lebar Muka 13 meter
+ 
+ Hadap Barat
+ 
+ KT 4+1
+ 
+ KM 1
+ 
+ Dapur 2
+ 
+ Listrik 2200 watt
+ 
+ Lantai kwalitas marmer
+ 
+ Garasi 2 mobil 
+ 
+ Carport 2 mobil
+ 
+ Air PAM, Jet Pump
+ 
+ 7,5 M
+ 
+ sewa 125000000/th
+ 
+ 
+ 
+ Hubungi 
+ 
+ Liana 
+ 
+ WA 081321226719
+  ",NULL,NULL,"1","1","1","1","1","1","2","2","1",NULL,"1","12","1","2","3","2","4"
+"81","1","Jl. Permata Bumi Raya no 11","3","4","1.06E+09","102","120","2","3","2","1300.00",,"Deskripsi
+  Hunian Nyaman dan Elite dengan View Alam, Bandung Citylight
+  BANDUNG CITY LIGHT
+ 
+ 
+ 
+ lokasi di Cimenyan Padasuka.Dengan keindahan alam khas bandung utara
+ 
+ Udara segar dan sejuk, Pemandangan menawan
+ 
+ Kawasan yang dibangun dengan konsep Smart Living Home artinya tinggal disini sudah terintegrasi dengan peralatan canggih dan modern. Tentunya prioritas utk kenyamanan dan keamanan anda sebagai Pemilik Rumah
+ 
+ 
+ 
+ Spesifikasi:
+ 
+ Pondasi : Cakar ayam
+ 
+ Struktur: Beton Bertulang
+ 
+ Dinding: Bata di Plester dan di Cat 
+ 
+ Cat Eksterior: Dulux/Setara
+ 
+ Cat Interior: Catylac/Setara
+ 
+ Listrik: 1300 VA
+ 
+ Instalasi Air: Pipa PVC
+ 
+ Sanitair: TOTO Setara
+ 
+ Atap: Rangka Metal, Panutup Atap Genteng Beton
+ 
+ Plafond: Gypsum dicat dan rangka metal
+ 
+ Lantai Utama: Granit 60 x 60 cm
+ 
+ 
+ 
+ Keunggulan Kompetitif
+ 
+ • RFID card door lock ( berfungsi menjadi 2 lapis keamanan utk bisa masuk ke hunian anda )
+ 
+ • Smart LED bulb ( anda kendalikan penerangan cahaya dlm rumah dari smartphone anda )
+ 
+ • CCTV basis ip camera ( anda bisa pantau rumah setiap detik ketika anda sedang tdk di rumah ) ini artinya, smart home for smart people )
+ 
+ 
+ 
+ fasilitas tersedia sebagai penunjang anda berada di lingkungan yang ideal seperti
+ 
+ - mesjid
+ 
+ - play ground & public space
+ 
+ - garden house
+ 
+ - internet
+ 
+ - green environtment
+ 
+ - beautiful architecture landscape
+ 
+ 
+ 
+ Checkpoint:
+ 
+ - 25 menit ke gasibu
+ 
+ - 10 menit ke jl.suci
+ 
+ - 10 menit ke terminal cicaheum
+ 
+ -15 menit ke universitas ternama di kota bandung
+ 
+ 
+ 
+ 
+ 
+ Memiliki sebuah Rumah yang sangat ideal dengan segudang keuntungan yang kami paparkan di atas,
+ 
+ bisa anda miliki hanya dengan harga yang cukup Terjangkau.
+ 
+ Segera ambil peluang emas untuk memilikinya unit terbatas.
+ 
+ Membeli sesuatu lebih mudah,aman dan menyenangkan apabila barang yang kita beli sudah ada wujud nyata.
+ 
+ 
+ 
+ Jangan tunda lagi semakin di tunda peluang makin menjauh karena harga yang semakin naik terus menerus,
+ 
+ Survei dan buktikan proyek kami di sini
+ 
+ Hubungi :
+ 
+ Marketing Resmi dan Terpercaya
+ 
+ Bpk Rudi S
+ 
+ Call/Wa: 081395451295
+ 
+ 
+ 
+ Central Property 
+ 
+ Jln. Anggrek II No. 28 
+ 
+ Komplek Graha Rancamanyar
+  ","1","1",NULL,"1","1",NULL,NULL,"1",NULL,"1","1",NULL,NULL,"3","1","3","6","2","4"
+"82","1","Jl. Sentra Raya Barat no 53","2","1","2.25E+09","185","95","1","3","2","3500.00",,"Deskripsi
+  Dijual Rumah Setra Duta Bandung
+  SETRA DUTA CENDANA"", hunian yang asri dan nyaman yang berlokasi dikawasan Elite Setra Duta Bandung Utara. Udara yang sejuk serta kualitas air yang bersih selalu menjadikan Bandung Utara tetap menjadi idola pilihan investasi.
+ 
+ 
+ 
+ Mulai Type 95/185m2
+ 
+ 
+ 
+ Cara Bayar:
+ 
+ - Tunai bertahap
+ 
+ DP 50% dicicil 12x 
+ 
+ Pelunasan 50% setelah unit jadi.
+ 
+ 
+ 
+ - KPR
+ 
+ DP 40% dicicil 10x 
+ 
+ KPR 60% setelah unit jadi.
+ 
+ 
+ 
+ More Info:
+ 
+ Rino Phat
+ 
+ Call / Wa: 0813-2233-6838
+ 
+ www.propertybdg.agent.co.id
+  ",NULL,NULL,NULL,"1","1","1","1","1","2","2","1","1","1","20","1","1","2","3","5"
+"83","1","Jl. Rofina no 78","2","4","6.85E+08","70","54","2","2","2","1300.00",,"Deskripsi
+  Casa cipamokolan rumah ideal untuk keluarga di bandung
+  Daerah yang strategis salah satu pilihan utama dalam memilih lokasi perumahan untuk tempat tinggal.untuk itu kami persembahkan hunian mewah 2 lantai didaerah yang cukup strategis di bandung yaitu CASA CIPAMOKOLAN.
+ 
+ 
+ 
+ Berada didaerah riung bandung,dekat soekarno hatta dan buah batu juga gede bage.Dekat RS Al- Islam,dekat mall MIM,dekat pasar gedebage,dekat tol buah batu dan tol gedebage.Dekat sarana pendidikan pula.
+ 
+ 
+ 
+ spek :
+ 
+ 2 lantai
+ 
+ lt : 70
+ 
+ lb: 54
+ 
+ kt/km : 2
+ 
+ carport
+ 
+ SHM
+ 
+ 
+ 
+ Harga murah hanya 685 juta ,
+ 
+ pembayaran bisa Cash dan KPR.
+ 
+ 
+ 
+ Harga sudah all in
+ 
+ Dp ringan 
+ 
+ bisa dicicil
+ 
+ 
+ 
+ info lebih lengkap :
+ 
+ ANNA
+ 
+ Call/Wa: 081937998899
+  ","1","1","1","1",NULL,NULL,NULL,NULL,NULL,"1","1",NULL,"1","5","1","3","4","3","6"
+"84","1","Jl. Pamekar Raya no 176","2","8","2.30E+10","616","480","1","8","4","6600.00",,"Deskripsi
+  Dijual Rumah di Daerah Cipaganti, Bandung Utara
+  Dijual Rumah di Daerah Cipaganti - Bandung Utara.
+ 
+ LT 616m / LB 480m, SHM, 7+1kt, 3+1km, garasi 1 mbl, carport 4 mbl, air jet pump, listrik 6600w, cocok untuk kantor + tempat gym + kuliner + butik.
+ 
+ Harga Rp 23M (nego)
+ 
+ 
+ 
+ Support Banking by BCA, Panin, UOB, May Bank, Permata, OCBC Nisp, CIMB Niaga, Muamalat, Danamon.
+ 
+ 
+ 
+ More info :
+ 
+ Gerry ""GM Property""
+ 
+ Tlp/WA : wa.me/6281910118921
+ 
+ Personal Web : gerrygmpro.agent.co.id
+  ","1","1","1","1","1",NULL,"1","1","1","4",NULL,"1","1","24","1","2","6","2","4"
+"85","1","Jl. Labuan no 47","5","6","7.40E+08","90","60","1","2","1","1300.00",,"Deskripsi
+  Rumah paling murah di Pasir impun dekat Arcamanik Kota Bandung
+  Rumah paling murah di Pasir impun dekat Arcamanik Kota Bandung
+ 
+ .
+ 
+ .
+ 
+ Lt 90 Lb 60 2kt 1km
+ 
+ SHM
+ 
+ 750000000 !!!
+ 
+ Harga Murah
+ 
+ 
+ 
+ Lingkungan asri dan sejuk
+ 
+ view bagus dan indah
+ 
+ Bagunan masih bagus
+ 
+ lingkungan komplek nyaman
+ 
+ fasilitas keamanan 24jam
+ 
+ air artesis
+ 
+ Dekat ke tempat perbelanjaan
+ 
+ Dekat dengan rumah sakit hermina
+ 
+ Akses jalan 2 mobil leluasa
+ 
+ 
+ 
+ Info lengkap dan kunjungan
+ 
+ Hubungi: RAHMA
+ 
+ MASTERPro
+ 
+ Menerima titipan jual-beli-sewa property
+ 
+ Tanah, rumah, kostan, apartement area Bandung &sekitarnya
+  ","1","1",NULL,NULL,NULL,"1",NULL,NULL,NULL,"1","1",NULL,"1","9","3","3","2","3","2"
+"86","1","Jl. Kiputih Dalam no 11","8","5","1.40E+08","60","36","1","2","1","1300.00",,"Deskripsi
+  Dijual rumah murah 140 juta di bandung selatan
+  *GRIYA ALAMAYA BANJARAN*
+ 
+ Perumahan yang berada di kawasan perbukitan Bandung Selatan yang bebas polusi, bebas banjir, dan memiliki Udara Sejuk.
+ 
+ Satu satunya *RUMAH SUBSIDI* di pinggir *JALAN PROVINSI* dengan konsep *REAL ESTATE*
+ 
+ 
+ 
+ Keunggulan :
+ 
+ - Lokasi Sangat Strategis
+ 
+ - Akses Mudah
+ 
+ - Bebas Banjir
+ 
+ - Selangkah ke Alun-alun 
+ 
+ - Selangkah kepasar trandisional
+ 
+ - Dekat dengan fasilitas pendidikan sekolah 
+ 
+ 
+ 
+ Info hub :
+ 
+ Yusuf
+ 
+ wa.me/081320094796
+  ","1","1",NULL,NULL,"1","1",NULL,"1",NULL,"1","1","1",NULL,"17","1","3","2","2","3"
+"87","1","Jl. Rajawali Sakti no 98","7","5","1.50E+09","149","259","2","4","2","1300.00",,"Deskripsi
+  Dijual rumah lokasi strategis di daerah antapani bandung tengah
+  Dijual rumah lokasi strategis didaerah Antapani
+ 
+ akses dekat ke ters Jln Jakarta 
+ 
+ 2 lantai 
+ 
+ T/B 149/ 259
+ 
+ KT 4
+ 
+ KM 2
+ 
+ Carport 2 mobil
+ 
+ Harga 1.5 M Nego
+ 
+ 
+ 
+ Hubungi
+ 
+ Maria
+ 
+ 08126075951
+  ",NULL,NULL,NULL,NULL,"1","1","1","1",NULL,"2","1","1","1","1","1","1","6","1","3"
+"88","1","Jl. Arcamanik Endah no 10","4","2","6.80E+08","100","120","2","3","2","1300.00",,"Deskripsi
+  Rumah 2 lantai lokasi dekat terminal riung bandung soekarno hatta bandung
+  Rumah 2 lantai di riung bandung
+ 
+ luas tanah 100meter
+ 
+ luas bangunan 120meter
+ 
+ kamarb tidur 3
+ 
+ kamar mandi 2
+ 
+ runang tamu, ruang kluarga , dapur , carport
+ 
+ lingkungan aman dan nyaman
+ 
+ di dalam komplek
+ 
+ bebas banjir
+ 
+ dekat keterminal
+ 
+ dekat pusat perbelenjaan,ATM Center
+ 
+ dekat ke sekolah,SD,SMP,SMA & unifersitas
+ 
+ lokasi sedang mengalalmi perkembangan cepat di bandung timur karena berdekatan dengan sumarecond,toll gede bage,metro laand,dan SOR GBLA
+ 
+ Anda mau jual rumah,tanah,aparment,hotel,gudang atau pabrik di Bandung dengan aman dan nyaman??
+ 
+ bisa hubungi saya di IG chika.confident /WA 085222794402 / BBM 57554615, Saya siap membantu anda semaximal mungkin
+  ",NULL,NULL,"1","1","1",NULL,"1","1",NULL,"1","1","1","1","3","1","2","3","1","4"
+"89","1","Jl. Sukanegara no 76","5","4","1.50E+09","225","175","1","4","3","2200.00",,"Deskripsi
+  Rumah Taman Sari Bukit Bandung Dijual Cepat
+  Rumah Taman Sari Bukit Bandung
+ 
+ DIJUAL CEPAT !
+ 
+ 1 lantai
+ 
+ LT.225
+ 
+ LB.175
+ 
+ KT.3+1
+ 
+ KM.2+1
+ 
+ SHM
+ 
+ Dijual Rp.1,5 M nego!!
+ 
+ Minat Hub 08119182277
+ 
+ Ahmer Pro
+  ","1",NULL,NULL,"1","1","1","1","1","1","1",NULL,NULL,"1","2","1","3","2","1","3"
+"90","1","Jl. Sadang Serang no 143","2","4","1.40E+09","221","150","2","4","3","1300.00",,"Deskripsi
+  Turun Harga Dijual Cepat Bandung City View 1
+  Turun harga!!!
+ 
+ 
+ 
+ Dijual cepat komp. Bandung city view 1.
+ 
+ Jl pasir impun dkt arcamanik.
+ 
+ 
+ 
+ LT 221 LB 150 SHM
+ 
+ 2 Lti 4KT 3KM
+ 
+ Tanam dan hlmn blkg luas
+ 
+ Balkon+view
+ 
+ 
+ 
+ Hrg 1.4M
+ 
+ Penilaian bank 1.7M thn 2017
+  ","1","1",NULL,NULL,"1",NULL,"1",NULL,NULL,"1","1","1","1","19","1","3","6","7","2"
+"91","1","Jl. Indrayasa no 54","6","7","3.90E+09","260","150","1","3","3","3500.00",,"Deskripsi
+  Rumah Hasan Saputra Turangga Bandung
+  Lokasi di Hasan Saputra Turangga
+ 
+ dekat ke Trans Studio Mall
+ 
+ bangunan bagus
+ 
+ ada kolam ikan
+ 
+ lingkungan tenang
+  ","0","1",NULL,"1","1",NULL,"1","0",NULL,"2","1",NULL,"1","11","4","3","3","3","4"
+"92","1","Jl. Jatihandap no 97","5","7","9.00E+09","350","250","1","3","2","2200.00",,"Deskripsi
+  Dijual Rumah di Sayap Cipaganti, Bandung Uatara
+  Dijual Rumah di Sayap Cipaganti - Bandung Utara.
+ 
+ Lt 350m / Lb 250m, SHM, 3+1kt, 2+1km, garasi 2 mobil, carport 1 mobil, air PDAM, listrik 2200w, tanah kotak, lebar muka 14 meter, lingkungan elit, cocok untuk rimahbtinggal, dekat ke Rumah Mode + Ciwalk + PVJ + RS Adven + dll.
+ 
+ Harga Rp 9M.
+ 
+ 
+ 
+ Support Banking by BCA, Panin, UOB, May Bank, Permata, OCBC Nisp, CIMB Niaga, Muamalat, Danamon.
+ 
+ 
+ 
+ More info :
+ 
+ Gerry ""GM Property""
+ 
+ Tlp/WA : wa.me/6281910118921
+ 
+ Personal Web : gerrygmpro.agent.co.id
+  ","1","1","1","1","1",NULL,"1","1","2","1","1","1","1","23","1","1","6","7","3"
+"93","1","Jl. Rinjani 1","4","2","3.15E+08","72","38","1","2","1","1300.00",,"Deskripsi
+  Beli Rumah mudah, modal dp 5 persen, Real Estate Mekarsari Eco Living
+  Dijual Rumah Murah Baru Minimalis 300000000an Bandung Barat
+ 
+  
+ 
+ Mekarsari Eco Living 
+ 
+ Cilame Ngamprah KBB
+ 
+ dekat Cimahi dan Kota Bandung
+ 
+ Exclusive 300 unit
+ 
+ Terjual 80 unit
+ 
+ 
+ 
+ Type Rajasa Type 55/108
+ 
+ Rp.550000000 
+ 
+ Dp 5% 27,5000000
+ 
+ Cicilan 25thn 4,3000000an 
+ 
+ LT : 108m
+ 
+ LB : 55m
+ 
+ KT : 2
+ 
+ KM : 2
+ 
+ 
+ 
+ Type Kirana Type 48/100
+ 
+ Rp.450000000
+ 
+ Dp 5% 22,5000000
+ 
+ Cicilan 25thn 3,5000000an 
+ 
+ LT : 100m
+ 
+ LB : 48m
+ 
+ KT : 2
+ 
+ KM : 1
+ 
+ 
+ 
+ Type Milena Type 38/72 
+ 
+ Rp.375000000 
+ 
+ Dp 5% 18,75000000
+ 
+ Cicilan 25thn 2,9000000an 
+ 
+ LT : 72m
+ 
+ LB : 38m
+ 
+ KT : 2
+ 
+ KM : 1
+ 
+ 
+ 
+ Listrik 1300watt
+ 
+ Air Bersih
+ 
+ Carport 
+ 
+ Taman depan belakang
+ 
+ 
+ 
+ Fasilitas :
+ 
+ Gerbang dan pos satpam 24 jam
+ 
+ Jalan lebar
+ 
+ Saluran air
+ 
+ Mesjid
+ 
+ Taman
+ 
+ 
+ 
+ Spesifikasi :
+ 
+ Dinding Bata Ringan Leabel
+ 
+ Lantai granit
+ 
+ Kusen almunium 
+ 
+ Genting beton
+ 
+ 
+ 
+ Harga Promo cash keras Type Milena hanya 315000000 
+ 
+ 
+ 
+ Legalitas
+ 
+ SHGB ( Pengembang PT )
+ 
+ IMB
+ 
+ PBB
+ 
+ 
+ 
+ Lokasi strategis, dekat :
+ 
+ Kantor KBB
+ 
+ TOL 
+ 
+ Transmart
+ 
+ Borma
+ 
+ Sekolahan
+ 
+ Pasar 
+ 
+ Kolam renang 
+ 
+ 
+ 
+ Jalan Cilame
+ 
+ Jalan Haji Gofur
+ 
+ Jalan Padalarang
+ 
+ 
+ 
+ Air bersih
+ 
+ Udara segar
+ 
+ Hawa sejuk
+ 
+ Pemandangan indah
+ 
+ Angin sepoi sepoi
+ 
+ Kicau burung bersahutan
+ 
+ 
+ 
+ SamargaLand
+ 
+ Hubungi
+ 
+ Marketing terbaik anda : 
+ 
+ R Adi Pratama 
+ 
+ WA 081222291899
+  ",NULL,"1","1",NULL,"1",NULL,"1","1",NULL,NULL,"1","1","1","18","1","3","6","2","1"
+"94","1","Jl. Cisaranten Wetan no 176","6","7","5.90E+09","300","400","2","5","4","3500.00",,"Deskripsi
+  Dijual Rumah di Komplek Batununggal, Bandung Selatan
+  Dijual Rumah di Komplek Batununggal - Bandung Selatan.
+ 
+ Lt 300 m² / lb 400m², shm, 5+2kt, 4+1km, carport 2 mbl, garasi 1 mbl, listrik 3500watt, lingkungan Elit, jalan depan lebar, bangunan minimalis.
+ 
+ Harga Rp 5,9M (nego)
+ 
+ 
+ 
+ Support Banking by BCA, Panin, UOB, May Bank, Permata, OCBC Nisp, CIMB Niaga, Muamalat, Danamon.
+ 
+ 
+ 
+ More info :
+ 
+ Gerry ""GM Property""
+ 
+ Tlp/WA : wa.me/6281910118921
+ 
+ Personal Web : gerrygmpro.agent.co.id
+  ",NULL,"1","1","1","1","1","1","1","3","4","1","1","1","18","1","2","3","3","5"
+"95","1","Jl. Cigagak no 11","4","3","8.00E+08","90","48","1","2","1","1300.00",,"Deskripsi
+  Rumah Minimalis di Bandung City View Pasir Impun
+  Rumah Minimalis di Bandung City View I (BCV 1 ) Pasir impun
+ 
+ 
+ 
+ Luat tanah 90
+ 
+ Luas bangunan 48
+ 
+ Kamar tidur 2
+ 
+ Kamar mandi 1
+ 
+ Carport 1 mobil
+ 
+ Listrik 
+ 
+ SHM
+ 
+ 
+ 
+ Lokasi strategis dekat dgn FaSum, : 
+ 
+ Sekolahan SD Tunas Unggul, SMPN ,SMAN
+ 
+ UberTos
+ 
+ Borma
+ 
+ RS. Ujung berung
+ 
+ Hanya 5 Menit ke Jl. AH. Nasution
+  ","1","1","1",NULL,"1",NULL,NULL,"1",NULL,"1","11","1","1","15","1","3","2","3","5"
+"96","1","Jl. Batu Indah III no 87","6","5","1.10E+09","130","200","2","5","3","2200.00",,"Deskripsi
+  Dijual rumah 2lt siap huni di riungbandung cipamokolan
+  Dijual rumah di riung bandung
+ 
+ 2 lantai
+ 
+ siap huni
+ 
+ akses jalan leluasa
+ 
+ dekat ke soekarno hatta 
+ 
+ bebas banjir 
+ 
+ 
+ 
+ info lengkap 
+ 
+ hubungi Vina
+  ",NULL,"1","1",NULL,"1","1",NULL,NULL,NULL,"1","1","1","1","6","5","3","3","5","3"
+"97","1","Jl. Rancasagatan no 76","3","5","3.20E+09","180","150","1","3","2","4400.00",,"Deskripsi
+  Rumah baru 2 lt Cluster Btari Summarecon Bandung
+  Rumah minimalis terletak di Cluster Btari Summarecon Bandung. Lingkungan aman dan nyaman. One gate system, keamanan 24 jam. Lokasi sangat bagus dekat fasilitas club house, swimming pool, kids playground. Kawasan Summarecon Bandung akan memiliki akses tol langsung dalam kawasan, KM 149.
+  ","1","1","1","1","1",NULL,"1","1",NULL,"2","1","1","1","20","1","2","6","3","4"
+"98","1","Jl. Cibogo no 16","2","4","4.99E+08","65","38","1","2","1","1300.00",,"Deskripsi
+  Cherry homes hunian exclusive type 38 hanya 5 unit
+  Kini hadir Cluster Cherry Homes di Riung Bandung.
+ 
+ Sebuah hunian berjumlah lima unit rumah. 
+ 
+ Bangunannya dibuat mewah. Terdiri dari Ruang Living Room luas, 2 Kamar Tidur dan 1 Kamar Mandi. 
+ 
+ Site plan nya, 2 unit di depan menghadap Jalan Raya Hegar II dan 3 unit di belakangnya, dengan lebar jalan lingkungannya 4 meter. 
+ 
+ Rumah type 38 di depan, luas tanahnya 67 meter. 2 unit.
+ 
+ Rumah type 38 di belakang, luas tanahnya 65 meter. Ada 3 unit. 
+ 
+ Akses masuknya melewati Jalan Riung Hegar II Perumahan Riung Bandung. 
+ 
+ 
+ 
+ Letak Cluster ini, sangat strategis. 
+ 
+ Berada di lingkungan yang representatif. 
+ 
+ - 600 meter langsung dari Jalan Soekarno Hatta Bandung. Jalan Besar. Jalan nasional. 
+ 
+ 
+ 
+ - 6 Km dari Summarecon Bandung. Perumahan ternama itu. Yang harganya milyaran itu. 
+ 
+ - 15 menit dari Stasiun kereta api Kiaracondong. 
+ 
+ - 20 menit dari Terminal Leuwipanjang dan Terminal Cicaheum.
+ 
+ - 20 menit dari Gerbang Tol Moh Toha dan Gerbang Tol Buah Batu. 
+ 
+ 
+ 
+ Fasilitas lingkungan sangat lengkap. Karena wilayah ini, secara ekonomi sudah maju pesat. 
+ 
+ Shoping center bertebaran di sekeliling nya. Mulai Alfamart, Indomaret, Borma, Yogya dan Business Center Metro.
+ 
+ Sarana pendidikan didekat Cluster Cherry Homes ini, bejibun. Mulai dari Playgroup, TK, SD, SMP, SMA/SMK hingga Perguruan Tinggi. Semua ada. 
+ 
+ 
+ 
+ Kabar gembira nya. Cherry Homes menjual SATU unit di belakang dengan harga CASH 499 000000. 
+ 
+ Padahal, rumah"" disekitarnya, di Riung Bandung sudah 600 000000 an lebih. 
+ 
+ 
+ 
+ info lebih :
+ 
+ LUCKY
+ 
+ Call/Wa:082129430087
+  ",NULL,"1","1","1",NULL,NULL,"1","1",NULL,"1","1","1",NULL,"25","4","3","6","5","6"
+"99","1","Jl. Papan Kencana no 20","3","2","7.49E+08","90","60","1","2","1","1300.00",,"Deskripsi
+  Rumah murah 700-an Bandung City View Pasirimpun Kota Bandung
+  700-an Rumah murah Bandung City View Pasirimpun Kota Bandung TOP
+ 
+ Cluster Sejuk Bandung utara 
+ 
+ Lt 90 Lb 60 2kt 1km
+ 
+ SHM
+ 
+ 750000000 !!!
+ 
+ Harga Murah
+ 
+ 
+ 
+ Lingkungan asri dan sejuk
+ 
+ view bagus dan indah
+ 
+ Bagunan masih bagus
+ 
+ lingkungan komplek nyaman
+ 
+ fasilitas keamanan 24jam
+ 
+ air artesis
+ 
+ Dekat ke tempat perbelanjaan
+ 
+ Dekat dengan rumah sakit hermina
+ 
+ Akses jalan 2 mobil leluasa
+ 
+ 
+ 
+ Info lengkap dan kunjungan
+ 
+ Hubungi: RAHMA
+ 
+ MASTERPro
+  ",NULL,"1","1",NULL,"1",NULL,"1","1",NULL,"1","1","1","1","10","1","2","6","2","1"
+"100","1","Jl. Sukaluyu","2","1","5.50E+08","105","90","2","5","1","1300.00",,"Deskripsi
+  RUMAH DIJUAL: Rumah di komplek ,Riung bandung,jarang ada!Tanah luas 1,5 lantai
+  -Jarang ada!
+ 
+ -Rumah di komplek riung bandung cipamokolan 
+ 
+ Lokasi strategis dekat ke berbagai tempat,sarana pendidikan ,sekolah,pasar,terminal,rumah sakit,dll
+ 
+ -Jalan depan rumah lebar 
+ 
+ -Bangunan lama,tapi masih kokoh,siap huni
+ 
+ - Ruang tamu,ruang keluarga,R.makan,dapur,tempat solat
+ 
+ Carport,teras di depan
+ 
+ - kt 5( di atas 2+ di bawah 3)
+ 
+ - km 1
+ 
+ -air jetpump
+ 
+ -listrik 1300
+ 
+ -Lt 105/90
+ 
+ -bangunan 1,5 lantai
+ 
+ Harga 550 juta Nego sampai jadi
+ 
+ Biar lebih menarik,silahkan survei lokasi.
+  ",NULL,NULL,"1",NULL,"1","1",NULL,"1",NULL,"1","1","1","1","13","3","3","1","3","2"
+"101","1","Jl. Katapang Sukamukti no 12","3","2","1.20E+09","90","86","1","3","2","2200.00",,"Deskripsi
+  Rumah minimalis 2 lantai bandung timur regency ujung berung
+  LT 90
+ 
+ LB 86
+ 
+ 
+ 
+ Listrik 2200 watt 
+ 
+ HGB
+ 
+ 
+ 
+ Bebas banjir 
+ 
+ Rumah baru di kawasan Kota Bandung timur, tepatnya di kawasan bandung timur regency, dekat dengan : 
+ 
+ UBERTOS
+ 
+ Ujung berung
+ 
+ Cicaheum
+ 
+ 
+ 
+ Rumah dilengkapi dengan :
+ 
+ - Ruang tamu
+ 
+ - Ruang keluarga 
+ 
+ - Kitchen, . 
+ 
+ 
+ 
+ Bisa dibantu dengan pembiayaan KPR dari Bank : 
+ 
+ - Panin
+ 
+ - Mandiri
+ 
+ - BRI 
+ 
+ - OCBC Nisp
+ 
+ - CIMB Niaga
+ 
+ 
+ 
+ #rumah
+ 
+ #rumahdijual 
+ 
+ #rumahmurah 
+ 
+ #ubertos
+ 
+ #ujungberung
+ 
+ #carirumah 
+ 
+ #agenproperti 
+ 
+ #bandung 
+ 
+ #hunian 
+ 
+ #cariproperti 
+ 
+ #viral 
+ 
+ #bandungjuara 
+ 
+ #propertibandung 
+ 
+ #amingphan
+ 
+ #rumah123 
+ 
+ #infopropertibdg 
+ 
+ #lifullrumah
+ 
+ #rumah #rumahdijual #rumahmurah
+ 
+ 
+ 
+ https://amingphan.agent.co.id//
+  ","1","1","1","1","1","1",NULL,"1",NULL,"1","1","1","1","10","1","3","6","2","1"
+"102","1","Jl. Elang II no 110","2","4","9.75E+09","500","650","1","5","3","3500.00",,"Deskripsi
+  Jual Rumah Dekat Itb & Kampus Unikom dan Itbh Bandung
+  Jual Rumah Dekat ITB & Kampus UNIKOM, ITHB
+ 
+ Dago Asri Sayap Dago Bandung
+ 
+ 6-7 menit ke Kampus ITB dan UNIKOM Dipati Ukur
+ 
+ 
+ 
+ LT 500m²
+ 
+ LB 650m²
+ 
+ KT 5+2
+ 
+ KM 3+1
+ 
+ Taman depan + samping
+ 
+ Garasi 2 + carport 2
+ 
+ 
+ 
+ Harga : 9.75 M
+ 
+ 
+ 
+ Christianto
+ 
+ Ph/WA 082218192088
+ 
+ Ray White Central Bandung
+  ","1",NULL,"0",NULL,"1","1","1","1","2","2",NULL,"1","1","1","1","2","2","3","2"
+"103","1","Jl. Semar no 54","2","4","1.35E+09","171","90","2","8","3","1300.00",,"Deskripsi
+  Lokasi strategis,lingkungan aman dan nyaman,dekat ke mesjid
+  Dijual rumah di lokasi strategis Antapani Bandung, Lingkungan aman dan nyaman, dekat dengan Mesjid.
+ 
+ Lt : 171 m2
+ 
+ Lb : 190 m2
+ 
+ 2 lantai
+ 
+ SHM
+ 
+ Kt : 8
+ 
+ Km : 3
+ 
+ Harga : 1.35 M
+  ","1","1",NULL,NULL,"1",NULL,NULL,NULL,NULL,"1",NULL,"1","1","16","1","3","6","1","2"
+"104","1","Jl. Marga Asri no 164","5","2","3.90E+09","300","250","1","4","2","3500.00",,"Deskripsi
+  Dekat ke pusat niaga dan pintu tol buah Batu Bandung
+  Dijual rumah di Logam Bandung, lokasi dekat ke pusat niaga dan pintu tol Buah Batu Bandung. Cocok untuk kantor atau tempat usaha.
+ 
+ Lt : 300 m2
+ 
+ Lb : 250 m2
+ 
+ SHM
+ 
+ Kt : 4
+ 
+ Km : 2
+ 
+ Mushola
+ 
+ R Karaoke
+ 
+ Garasi
+ 
+ Carport 2 mbl
+ 
+ Listrik : 3500 watt
+ 
+ Air : Pam
+ 
+ Harga : 3.9 M nego
+ 
+ Info :
+ 
+ Arief
+ 
+ 082129109800
+  ","1",NULL,"1",NULL,NULL,"1","1","1","1","2","1",NULL,"1","12","1","3","1","4","2"
+"105","1","Jl. Pinus III","5","3","2.20E+09","84","160","2","4","3","2200.00",,"Deskripsi
+  Dekat dengan supermarket dan pintu tol Pasteur Bandung
+  Dijual rumah siap huni di JunRes /sayap Pasteur Bandung. Dekat dengan supermarket dan pintu tol Pasteur.
+ 
+ Lt : 84 m2
+ 
+ Lb : 160 m2
+ 
+ 2 lantai
+ 
+ SHM
+ 
+ Kt : 4
+ 
+ Km : 3
+ 
+ Listrik : 2200 watt
+ 
+ Air : Jetpump
+ 
+ Harga : 2.5 M sekarang turun jadi 2.2 M
+ 
+ Info :
+ 
+ Arief
+ 
+ 082129109800
+  ","1","1",NULL,NULL,"1",NULL,"1",NULL,"1","1","1",NULL,"1","18","1","2","1","1","4"
+"106","1","Jl. Garu VI","4","2","6.00E+09","304","200","1","4","3","3500.00",,"Deskripsi
+  Kota Mandiri
+  Cluster Btari
+ 
+ Hunian nyaman dan aman di Bandung Timur.
+ 
+ Kemanan terjamijn karena memiliki security 24 jam dengan one gate system.
+  ","1",NULL,NULL,"1","1","1","1",NULL,"2","2","1","1","1","21","3","2","3","4","3"
+"107","1","Jl. LMU. Nurtanio no 76","5","3","6.50E+08","103","97","2","3","2","900.00",,"Deskripsi
+  Jual Rumah Bandung di Riung Bandung dekat dengan Summarecon
+  Jual Rumah Bandung di Riung Bandung dekat dengan Summarecon
+ 
+ 
+ 
+ Spesifikasi :
+ 
+ Luas Tanah 103 m²
+ 
+ Luas Bangunan 97 m²
+ 
+ Kamar Tidur 3
+ 
+ Kamar Mandi 2
+ 
+ Dapur
+ 
+ Ruang Makan
+ 
+ Ruang Tamu
+ 
+ 2 Lantai
+ 
+ Carport
+ 
+ Air Sumur
+ 
+ Listrik 900 Watt
+ 
+ SHM
+ 
+ 
+ 
+ Akses :
+ 
+ - 10 Menit menuju Jalan Raya Soekarno Hatta
+ 
+ - Dekat dengan Summarecon Bandung
+ 
+ - Dekat dengan Sekolah
+ 
+ 
+ 
+ Info Lebih Lanjut Hubungi:
+ 
+ Mega/ 082216949277
+  ",NULL,NULL,"1",NULL,"1","1","1",NULL,NULL,"1","1","1","1","1","1","1","3","4","3"
+"108","1","Jl. Slank no 110","2","4","1.30E+10","342","400","2","4","4","33000.00",,"Deskripsi
+  Dijual Gedung Kantor di Sukajadi Atas, Bandung Utara.
+  Dijual Gedung Kantor di Sukajadi Atas - Bandung Utara.
+ 
+ Lt 342m / Lb 400m (2 lantai), shm, ada beberapa ruangan kantor, 2 gudang, 4 kamar mandi, kapasitas 7 mobil dan 5 motor, air sanyo dan pdam, listrik 33000w, lebar muka +/- 15 meter, dekat gereja st laurentius, lokasi di jalan utama.
+ 
+ Cocok untuk investor, unit sedang disewa sekitar 3th dan akan ada uang cash back sewa.
+ 
+ Harga Rp 13 Milyar (nego).
+ 
+ 
+ 
+ Support Banking by BCA, Panin, UOB, May Bank, Permata, OCBC Nisp, CIMB Niaga, Muamalat, Danamon.
+ 
+ 
+ 
+ More info :
+ 
+ Gerry ""GM Property""
+ 
+ Tlp/WA : wa.me/6281910118921
+ 
+ Personal Web : gerrygmpro.agent.co.id
+  ",NULL,"1","1",NULL,"1",NULL,"1","1","2","5",NULL,"1","1","15","1","2","1","4","3"
+"109","1","Jl. Pilar Kencana no 14","4","3","2.70E+09","200","160","1","4","3","4400.00",,"Deskripsi
+  Rumah terawat siap pakai
+  - Lokasi cluster depan
+ 
+ - Luas tanah 200m2
+ 
+ - Luas bangunan 160m2
+ 
+ - Listrik 4400 watt
+ 
+ - Telp 1line
+ 
+ - Cctv
+ 
+ - 3 KT +1
+ 
+ - 2 KM +1
+ 
+ - SHM
+  ",NULL,"1","1",NULL,"1","1",NULL,"1",NULL,"2","1",NULL,"1","10","1","3","1","3","2"
+"110","1","Jl. Cisaranten Kulon no 150","2","4","2.40E+09","130","100","1","4","3","2200.00",,"Deskripsi
+  Summarecon bandung cluster cynthia premium
+  Rumah baru siap huni summarecon bandung cluster cynthia
+  ",NULL,NULL,"1","1","1","1","1","1",NULL,"1","1","1","1","3","1","2","3","4","2"
+"111","1","Jl. Sabang no 11","5","1","3.70E+10","892","1000","2","7","4","6600.00",,"Deskripsi
+  Dijual Rumah Trunojoyo, Citarum, Bandung Wetan
+  Dijual Rumah Trunojoyo, Citarum, Bandung Wetan
+ 
+ • LT 892
+ 
+ • LB 1000
+ 
+ • KT 7+
+ 
+ • KM 3+1
+ 
+ • Listrik 6600 + 1200
+ 
+ • Air Sumur + PDAM
+ 
+ • Garasi 6
+ 
+ • Carport 4+
+ 
+ • 1 Lantai
+ 
+ • Furnished
+ 
+ • Harga 37 M
+ 
+ 
+ 
+ For more information :
+ 
+ Vie Vie Yohanes
+ 
+ Discovery Property
+ 
+ 081 2211 3839
+  ","1","1","1","1","1",NULL,"1","1","6","4",NULL,NULL,"1","8","1","2","1","4","2"
+"112","1","Jl. Gedebage no 62","2","4","6.00E+08","101","60","1","3","2","1300.00",,"Deskripsi
+  Rumah Dijual di Bandung Utara Bandung
+  Rumah Dijual di Bandung Utara Bandung
+ 
+ IDR 600.000.000
+ 
+ Dijual Asal Ada Uang Lebih daripada di Sita Bank Komplek Sariwangi Bandung
+ 
+ Dijual Murah Rumah Dalam Komplek di Sariwangi.
+ 
+ 
+ 
+ Lokasi Strategis dekat ke mana""
+ 
+ 
+ 
+ Harga Rumah dibawah pasaran
+ 
+ 
+ 
+ Spesifikasi lengkap bisa dibaca berikut ini:
+ 
+ Luas Tanah: 101
+ 
+ Luas Bangunan: 60
+ 
+ Kamar Tidur: 3
+ 
+ Kamar Mandi: 2
+ 
+ Kamar Pembantu: 
+ 
+ Orientasi Menghadap: Utara
+ 
+ Pasokan Listrik (watt): 1300
+ 
+ Sumber Air: Jetpump
+ 
+ Carport: 2
+ 
+ Garasi: 
+ 
+ Legalitas: SHM
+ 
+ Jumlah lantai: 1.5
+ 
+ Bebas Banjir? : Bebas Banjir
+ 
+ Line Telephon: 
+ 
+ Jumlah AC: 
+ 
+ Lebar Akses Jalan: 5 mtr
+ 
+ 
+ 
+ Selling Point:
+ 
+ - Lokasi Rumah di dalam Komplek Culdesac
+ 
+ - Sekitaran Komplek terdiri dari banyak Perumahan Culdesac
+ 
+ - +- 200 mtr Mesjid Jami
+ 
+ - +- 300 Sekolah Dasar Negeri
+ 
+ - +- 750 mtr Kampus Politeknik Bandung
+ 
+ - +- 1 km Kampus Politeknik Pos
+ 
+ - +- 2.5 km Akses Tol Pasteur
+ 
+ 
+ 
+ 
+ 
+ Hubungi:
+ 
+ Cecep Sutrisna
+ 
+ HP: 082115865151
+ 
+ WA: https://wa.me/6287722282016
+  ",NULL,NULL,"1",NULL,"1","1","1","1","1","2","1","1","1","20","1","2","1","3","2"
+"113","1","Jl. Flamboyan no 67","2","4","2.50E+09","128","110","1","2","1","3500.00","2938109212","Deskripsi
+Rumah cluster 
+Rumah minimalis  Lingkungan aman dan nyaman. One gate system, keamanan 24 jam. Lokasi sangat bagus dekat fasilitas club house, swimming pool, kids playground
+  ",NULL,NULL,"1","1","1","1","1","1",NULL,"2","1","1","1","5","1","2","1","4","2"
+"114","1","Jl. Bojongkoneng no 15","3","2","2.20E+09","100","250","4","3","3","2200.00",,"Deskripsi
+  Dijual Setra Murni Bandung baru view bandung
+  Spek :
+ 
+ 1. Lt 100m2; LB 250m2;
+ 
+ 2. 3+1 ktdr; 2+1 kmandi; carport 1mbl; garasi 1mbl
+ 
+ 3. Ada taman depan; 3.5 lantai, paling atas ada dak tutup genteng utk area santai/bbq
+ 
+ 
+ 
+ Harga 2.2M
+ 
+ 
+ 
+ Hubungi :
+ 
+ Misella - discovery property
+ 
+ 0878.22.8888.14
+ 
+ 
+ 
+ setra murni,setra duta,setra sari,pasteur
+  ",NULL,NULL,"1",NULL,"1","1","1",NULL,"1","1","1","1","1","19","1","2","3","4","3"
+"115","1","Jl. Syahroni no 40","2","4","2.00E+09","306","230","2","4","3","1300.00",,"Deskripsi
+  Dijual rumah bandung timur
+  ONE GATE SYTEM ,STRATEGIS BANDUNG TIMUR
+  ","1","1","1",NULL,"1",NULL,NULL,"1",NULL,"1","1","1","1","14","1","2","1","4","3"
+"116","1","Jl. Aditya no 766","8","5","3.50E+08","72","45","1","2","1","1300.00",,"Deskripsi
+  Rumah siap huni harga murah di cileunyi bandung
+  di jual rumah siap huni di komplek Cileunyi bandung
+ 
+ 
+ 
+ luas tanah 72meter
+ 
+ 
+ 
+ luas banguna45meter
+ 
+ 
+ 
+ kmar tidur 2
+ 
+ 
+ 
+ kamar mandi 1
+ 
+ 
+ 
+ anda mau jual rumah,apartment,tanah,sawah,gudang,atau pabrik di Bandung dengan aman dan nyaman??
+ 
+ 
+ 
+ Bisa hubungi Cika di tlp/wa085222794402
+  ","1",NULL,"1",NULL,"1",NULL,"1",NULL,NULL,"1","1","1","1","24","1","3","1","3","1"
+"117","1","Jl. Raya Meteor Raya no 614","2","6","2.90E+09","190","210","2","4","4","2200.00",,"Deskripsi
+  Dijual Rumah Pondok Hijau Bandung
+  Dijual Rumah Pondok Hijau Bandung
+ 
+ Luas Tanah 190m2
+ 
+ Luas Bangunan 210m2
+ 
+ Kamar Tidur 4+1
+ 
+ Kamar Mandi 3+1
+ 
+ Air Artesis
+ 
+ Listrik 2200 Watt
+ 
+ 2 Lantai
+ 
+ Siap Huni
+ 
+ SHM
+ 
+ Hadap Barat
+ 
+ Rp. 2,9M (nego)
+  ",NULL,"1","1",NULL,"1","1","1","1","1","1","1",NULL,"1","12","1","3","3","3","2"
+"118","1","Jalan Diponegoro","3","4","3.00E+08","60","66","2","3","1","1300.00",,"Deskripsi
+  Jarang ada rumah di riung bandung rancasari cipamokolan 300000000an
+  rumah siap huni 
+ 
+ luas 60 /66
+ 
+ 3 kamar tidur 
+ 
+ 1 kamar mandi 
+ 
+ harga 300000000
+  ","1","1","1",NULL,"1",NULL,NULL,"1",NULL,"1",NULL,"1",NULL,"13","3","3","3","3","2"
+"119","1","Jl. Cisitu III","5","6","2.10E+10","800","480","2","4","3","10000.00",,"Deskripsi
+  Dijual Rumah di Daerah Sutami, Bandung Utara.
+  Dijual Rumah di Daerah Sutami - Bandung Utara.
+ 
+ Lt 800m² / lb 480 m², lebar muka 33 meter, SHM, IMB, PBB, full furnish.
+ 
+ 
+ 
+ Lantai 1 terdiri dari :
+ 
+ 2kt, 2km dan 1 kamar pembantu, ruang tamu, ruang keluarga, ruang tivi, ruang makan dan ruang pertemuan (taman dalam rumah, ruang piano, dapur basah dan kering)
+ 
+ 
+ 
+ Lantai 2 terdiri dari :
+ 
+ 1 kamar tidur utama + kamar mandi bath tube di dalamnya, serta 1 kamar tidur anak dan kamar mandi di luar, ruang nonton dan beranda atas.
+ 
+ 
+ 
+ Lantai 3 terdiri dari :
+ 
+ ruang olahraga fitnes aerobik dan meja bilyard.
+ 
+ 
+ 
+ Total fasilitas : 
+ 
+ - 4kt + 1 km pembantu
+ 
+ - 3km + 1 km pembantu
+ 
+ - ruang tamu, ruang keluarga, ruang pertemuan, ruang tivi di lantai 1 dan 2.
+ 
+ - taman dalam rumah.
+ 
+ - dapur kering+ dapur basah.
+ 
+ - water heater.
+ 
+ - Air sumur bor dan kualitas bagus nonstop tanpa kenal musim.
+ 
+ - cctv.
+ 
+ - ac setiap ruangan.
+ 
+ - listrik 2x 5000 watt (atas bawah).
+ 
+ - pos security.
+ 
+ - joglo (ruang tunggu tamu yg di bawahnya ada kolam ikan beragam jenis ikan + taman depan dan samping).
+ 
+ - teras depan dan samping.
+ 
+ - carport depan bisa 2 mobil samping 3 mobil.
+ 
+ - garasi 1 mobil.
+ 
+ - ruang olah raga lantai 3 + meja bilyard.
+ 
+ - ruang tunggu tamu depan dan samping.
+ 
+ 
+ 
+ Harga Rp 21 Milyar.
+ 
+ 
+ 
+ Support Banking by BCA, Panin, UOB, May Bank, Permata, OCBC Nisp, CIMB Niaga, Muamalat, Danamon.
+ 
+ 
+ 
+ More info :
+ 
+ Gerry ""GM Property""
+ 
+ Tlp/WA : wa.me/6281910118921
+ 
+ Personal Web : gerrygmpro.agent.co.id
+  ",NULL,"1","1",NULL,"1","1","1","1","1","5","1","1","1","17","1","1","3","4","2"
+"120","1","Jl. Wuluku III","3","2","1.45E+10","569","400","1","6","3","2200.00",,"Deskripsi
+  Dijual Rumah di Daerah Burangrang, Bandung Pusat
+  Dijual Rumah di Daerah Burangrang - Bandung Pusat.
+ 
+ LT 569m / LB 400m, shm, 6kt, 3km, garasi 1 mbl, carport 1 mbl, listrik 2200w, air jet pump, dekat ke pusat wisata kuliner & simpang lima Asia Afrika, cocok dijadikan rumah tinggal dan kantor.
+ 
+ Harga Rp 14,5M.
+ 
+ 
+ 
+ Support Banking by BCA, Panin, UOB, May Bank, Permata, OCBC Nisp, CIMB Niaga, Muamalat, Danamon.
+ 
+ 
+ 
+ More info :
+ 
+ Gerry ""GM Property""
+ 
+ Tlp/WA : wa.me/6281910118921
+ 
+ Personal Web : gerrygmpro.agent.co.id
+  ","1","1","1",NULL,"1",NULL,NULL,NULL,"1","1","1",NULL,"1","21","1","2","1","3","1"
+"121","1","Jl. Merdeka no 65","4","3","2.56E+10","838","400","1","7","3","3500.00",,"Deskripsi
+  Jual rumah sangat strategis dan cocok buat tempat usaha jl Citarum
+  Jual rumah sangat cocok buat segala macam usaha di jln Citarum
+ 
+ Lt 838
+ 
+ Lb 400
+ 
+ Kt 6 +1
+ 
+ Km 2+1
+ 
+ Listrik 3500
+ 
+ Ruang keluarga 1
+ 
+ Dapur 2
+ 
+ Carport 10 mbil
+ 
+ 
+ 
+ Selling point:
+ 
+ Sayap jl Dago, jl. Riau, jl. Diponegoro
+ 
+ Dekat dgn kuliner
+ 
+ 
+ 
+ 
+ 
+ Harga 25 M
+ 
+ 
+ 
+ Hub:
+ 
+ Widya Cecilia
+ 
+ 0823.2000.9992
+  ","1",NULL,NULL,NULL,"1","1","1","1","1","10","1",NULL,"1","8","1","2","3","3","1"
+"122","1","Jl. Cihapit no 111","5","3","1.70E+09","112","98","1","4","3","2200.00",,"Deskripsi
+  DIJual Rumah DI CIGADUNG - BANDUNG UTARA
+  CIGADUNG , TUBAGUS ISMAIL ,DAGO , BANDUNG UTARA
+  ",NULL,"1","1","1","1",NULL,NULL,NULL,"1","1","1",NULL,"1","8","4","3","1","3","2"
+"123","1","Jl. Cimanuk no 98","7","6","1.20E+08","50","36","1","2","1","1300.00",,"Deskripsi
+  Rumah murah fasilitas lengkap
+  BUMI CIPTA ASRI KATAPANG
+ 
+ 
+ 
+ Suatu bentuk perumahan yang senantiasa memberikan yang terbaik dalam segi bangunan dan materialnya dengan harga yang ekonomis namun tetap elegant dan mempunyai kesan mewah .
+ 
+ 
+ 
+ Fasilitas
+ 
+ -Jalan Lebar
+ 
+ -Keamanan 24 Jam
+ 
+ -100% Bebas Banjir
+ 
+ -Taman Bermain
+ 
+ -Sarana Ibadah
+ 
+ 
+ 
+ Akses Terbaik
+ 
+ - 10 menit ke Sentra sepatu cibaduyut
+ 
+ - 10 menit ke Stasiun TVRI
+ 
+ - 10 menit ke Miko Mall
+ 
+ - 10 menit ke RS.Santosa Kopo
+ 
+ - 10 menit ke RSUD Al Ikhsan
+ 
+ - 10 menit ke RSUD Soreang
+ 
+ - 10 menit ke Tol Kopo
+ 
+ - 10 menit ke Tol Soroja
+ 
+ - 10 menit ke Tol M.Toha
+ 
+ 
+ 
+ STANDAR
+ 
+ Type 30/40 90000000 
+ 
+ Type 36/50 120000000
+ 
+ Type 45/70 160000000 
+ 
+ 
+ 
+ FULLSET
+ 
+ Type 30/40 100 000000
+ 
+ Type 36/50 150 000000
+ 
+ Type 45/70 170 000000
+ 
+ FULL SET (kanopi carport, meja kompor bak cuci piring, dak torn 250lt)
+ 
+ 
+ 
+ Sistem pembayaran cash bertahap :
+ 
+ Booking fee 5000000
+ 
+ Maksimal 1 minggu Masuk 50% setelah tutup genteng masuk 25% lalu setelah selesai rumah masuk 25% sekaligus serah terima kunci dan penyerahan surat surat
+ 
+ 
+ 
+ Cash keras potongan 5000000 all type
+ 
+ 
+ 
+ Spesifikasi :
+ 
+ Pondasi Batu Kali
+ 
+ Dinding bata merah press diplester diaci dan dicat ( bisa request dalam)
+ 
+ Rangka atap baja ringan
+ 
+ Genteng metal
+ 
+ Besi 8 full
+ 
+ plafond grc tinggi 3 meter
+ 
+ Kusen kayu manglid
+ 
+ FULL SET (kanopi carport, meja kompor bak cuci piring, dak torn 250lt)
+ 
+ Air semi jetpump
+ 
+ Listrik 900 & 1300 watt (3 titik)
+ 
+ Surat surat Ajb (bisa upgrade Shm)
+ 
+ 
+ 
+ Hubungi
+ 
+ Decka Adam
+ 
+ MITRA ARTHA PROPERTY
+ 
+ Tlp/Wa 081221753387
+  ","1",NULL,NULL,"1","1",NULL,NULL,"1",NULL,"1","1",NULL,"1","8","1","2","1","2","1"
+"124","1","Jl. Garuda no 11","3","6","2.50E+10","468","400","1","6","3","3500.00",,"Deskripsi
+  Dijual Runah di Pajajaran, Bandung Pusat
+  Dijual Rumah di Daerah Pajajaran - Bandung Pusat.
+ 
+ LT 468m / LB 400m, SHM, 6kt, 3km, garasi 2 mbl, carport 1 mbl, air jet pump, listrik 3500 watt, hadap selatan, dekat ke Istana Plaza dan Griya Yogya, dekat sekolah penabur, dekat bandara husein, dekat RS Hasan Sadikin dan Melinda, cocok untuk kantor + bank + tour & travel + butik + rumah makan + dll.
+ 
+ Harga Rp 25M.
+ 
+ 
+ 
+ Support Banking by BCA, Panin, UOB, May Bank, Permata, OCBC Nisp, CIMB Niaga, Muamalat, Danamon.
+ 
+ 
+ 
+ More info :
+ 
+ Gerry ""GM Property""
+ 
+ Tlp/WA : wa.me/6281910118921
+ 
+ Personal Web : gerrygmpro.agent.co.id
+  ",NULL,"1","1",NULL,NULL,"1","1","0","2","1",NULL,"1","1","7","1","3","6","2","3"
+"125","1","Jl. Cinta Asih ","6","5","3.80E+09","280","350","2","7","4","2200.00",,"Deskripsi
+  Dijual Rumah Srisuci, Regol, Bandung
+  Dijual Rumah Srisuci, Regol, Bandung
+ 
+ • LT 280
+ 
+ • LB 350
+ 
+ • LM 14
+ 
+ • KT 6+1
+ 
+ • KM 3+1
+ 
+ • 2 Lantai
+ 
+ • Garasi 1
+ 
+ • Carport 2
+ 
+ • Listrik 2200
+ 
+ • Air PDAM Jetpump
+ 
+ • SHM
+ 
+ • Hadap Barat
+ 
+ • Harga 3.8 M
+ 
+ 
+ 
+ For more information :
+ 
+ Soen-Soen
+ 
+ 08122332400
+ 
+ Discovery Property
+  ","1",NULL,NULL,NULL,"1","1","1",NULL,"1","2","1",NULL,"1","9","1","2","3","1","4"
+"126","1","Jl. K. Natawijaya","2","3","1.59E+09","102","98","1","3","3","1300.00",,"Deskripsi
+  Hunian Elit nan Mewah Podomoro Park Bandung
+  PT. Agung Podomoro Land, Tbk. (APLN) merupakan pengembang nasional dengan reputasi internasional yang senantiasa menghadirkan produk properti yang berkualitas. 
+ 
+ APLN mahir dalam model pengembangan properti seperti kawasan terpadu, hotel, komersial area, perkantoran dan hunian tapak/landed house. 
+ 
+ Berbekal lebih dari 48 tahun pengalaman yang terfokus dalam dunia properti, APLN mempunyai landasan yang kuat untuk menjadi pengembang terdepan dalam menggarap pasar 
+ 
+ 
+ 
+ properti di Indonesia, dan berkomitmen untuk mendukung pembangunan negeri, dimana dapat diketahui dari pembangunan properti yang telah dilaksanakan di berbagai daerah, 
+ 
+ 
+ 
+ secara tidak langsung turut mengangkat segi ekonomi dan sosial di wilayah tersebut.
+ 
+ 
+ 
+ Podomoro Park Bandung merupakan satu-satunya hunian yang memiliki 5 Elements of Home Resort Living : 
+ 
+ 
+ 
+ 1. Lake (danau sepanjang 1km di area Podomoro Park) 
+ 
+ 2. Trees (pepohonan rimbun nan teduh di seluruh kawasan Podomoro Park) 
+ 
+ 3. Mountain (view pegunungan Bandung Selatan yang berbaris kokoh, memberikan view indah dan kesan sejuk) 
+ 
+ 4. Air (udara sejuk dan bersih tercipta di kawasan Podomoro Park) 
+ 
+ 5. Space (50% lahan digunakan sebagai ruang terbuka hijau)
+ 
+ 
+ 
+ 
+ 
+ FASILITAS :
+ 
+ 
+ 
+ - Club House 
+ 
+ - Gym 
+ 
+ - Swimming Pool 
+ 
+ - Tennis Court 
+ 
+ - Basket Court (3 on 3) 
+ 
+ - Function Room 
+ 
+ - Children's Playground 
+ 
+ - Bike Lane 
+ 
+ - Community Garden 
+ 
+ - 24 Hour Security 
+ 
+ - Panic button 
+ 
+ - Gazebo 
+ 
+ - Jogging Track by The Lake 
+ 
+ - Viewing Deck 
+ 
+ 
+ 
+ 
+ 
+ Spec :
+ 
+ Cluster Amagriya
+ 
+ Luas Tanah 102 m2
+ 
+ Luas Bangunan 94 m2
+ 
+ Kmr Tidur 2+1
+ 
+ Kmr Mandi 3
+ 
+ 
+ 
+ Harga 1,587,600,000
+ 
+ 
+ 
+ Hubungi Marketing Podomoro Park Bandung : Bp. FAIQ 081223263936
+  ",NULL,"1","1","1","1","1","1","1","1","1","1","1","1","4","1","2","3","2","4"
+"127","1","Jl. Neglasari Selatan no 50","5","3","1.30E+09","167","140","1","2","2","2200.00",,"Deskripsi
+  Dijual Residance Bandung Utara
+  #Residance Bandung Utara dekat dengan Kampus Polban.
+ 
+ #Residance Bandung Utara dekat dengan Universitas Maranatha.
+ 
+ #Residance Bandung Utara dekat dengan Pintu Tol Pasteur.
+ 
+ #Residance Bandung Utara dekat dengan Kampus UPI.
+ 
+ #Residance Bandung Utara dekat dengan Sekolah Pariwisata Enhai.
+ 
+ #Residance Bandung Utara dekat dengan Universitas Parahyangan.
+ 
+ 
+ 
+ Bandung Beli/Jual/Sewa Properti
+ 
+ Hub: 081 737 1800
+  ",NULL,"1","1",NULL,"1",NULL,"1","1",NULL,"2","1","1","1","14","1","2","6","4","3"
+"128","1","Jl. Waas A no 11","5","6","6.99E+08","72","120","2","2","2","1300.00",,"Deskripsi
+  Rumah 2 Lantai Murah di Panyileukan dekat Tol Cileunyi n Uin Bandung
+  Bismillah...
+ 
+ 
+ 
+ Butik Panyileukan Residence
+ 
+ Segera Launching..
+ 
+ 
+ 
+ Promo Proyek Baru BPR Tahap 2
+ 
+ Tahap 1 Sudah Terbangun .. Alhamdulillah
+ 
+ 
+ 
+ Harga Normal 700 000000
+ 
+ Harga Promo Cash Survey Dulu Diskon Hingga Puluhan Juta lohh...
+ 
+ 
+ 
+ Jangan Lewatkan dan Ketinggalan ya, karena Bisa NUP terlebih Dahulu unyuk amankan Posisi Kavling Terbaiknya.
+ 
+ Uang NUP Refundable 100% (*skb).
+ 
+ 
+ 
+ Rencana BPR 2 :
+ 
+ Type 60/ Luas Tanah 71 hingga 90an
+ 
+ 2 Lantai Premium
+ 
+ 2-3 kamar Tidur
+ 
+ 2 Kamar Mandi
+ 
+ Carport
+ 
+ Teras Depan dan Belakang
+ 
+ 
+ 
+ point Lokasi;
+ 
+ Strategis Ke Kota
+ 
+ 3 Menit ke Jalan Raya Soeta Bandung
+ 
+ 1 Menit Ke SD Juara dan Smp Al Biruni
+ 
+ 5 Menit Ke Polda Jabar
+ 
+ 10 Menit Ke Uin Bandung
+ 
+ 15 Menit ke Tol Cileunyi
+ 
+ 15 Menit Ke Tol Gedebage
+ 
+ 30 Menit Ke Tol Buahbatu
+ 
+ 
+ 
+ Ayo dapatkan Segera.. Survey dulu aj..
+ 
+ dan Dapatkan Harga Promonya.. 
+ 
+ Selagi Promo Pra Soft Launching
+ 
+ 
+ 
+ hub
+ 
+ Kang Dadan
+  ",NULL,"1",NULL,NULL,NULL,NULL,NULL,"1",NULL,"1","1",NULL,"1","6","1","2","3","3","2"
+"130","1","Jalan Cigadung no 5","1","2","7.60E+08","123","90","2","4","2","900.00",,"Deskripsi
+  RUMAH DIJUAL: Rumah baru renov,siap huni,di riung dekat ke jalur angkot!
+  Kamar tidur: 4
+ 
+ Kamar mandi: 2
+ 
+ Luas tanah: 123
+ 
+ Luas bangunan: 90
+ 
+ Berapa lantai? 1,5 
+ 
+ 
+ 
+ Jarang ada!
+ 
+ Rumah baru renov siap huni di riung bandung dekat ke jalur Angkot riung dago...
+ 
+ Rumah nyaman sejuk dan asri keamanan 24 jam dekat ke fasilitas umum
+ 
+ dekat mesjid dekat Alfa dan indomart borma..
+ 
+ 
+ 
+ jalan lebar bebas banjir dekat terminal Riung bandung..
+ 
+ Selling Point
+ 
+ - Lokasi Bandung Timur
+ 
+ - Posisi strategis di Kotamadya Bandung
+ 
+ - Akses ke kota cukup dekat dengan jalan yang bagus
+ 
+ (Margacinta, Kircon, Buah Batu, Gedebage, Margahayu-Metro, Soekarno Hatta, Parakan, Uber, Antapani, Arcamanik, dll)
+ 
+ - Dekat ke Fasilitas Publik (Carrefour Kircon, Samsat, Minimarket, Tol Buah Batu, Griya Margahayu Raya, Borma Toserba, Stadion Gelora Bandung Lautan Api, dll)
+ 
+ Listrik: 1300 watt
+ 
+ Sumber air: JETPUM
+ 
+ Apakah mobil masuk? YA
+ 
+ Bebas banjir? YA
+  ",NULL,NULL,"1",NULL,"1","1","1","1",NULL,"2","1",NULL,"1","13","1","2","3","3","1"
+"131","1","Jl. Andir no 16","3","5","4.99E+08","72","58","1","2","1","1300.00",,"Deskripsi
+  Rumah modern fasilitas smarhome di bandung barat
+  Kebahagian Mereka Yang Telah Memilih dan Memiliki Hunian Berkah Di Puri Karyawangi. 
+ 
+ 
+ 
+  Cluster Millenials Desain Suka-Suka 
+ 
+ 
+ 
+ Kesempatan Tidak Datang Untuk Kedua Kalinya. Yakin Anda Akan Menolaknya.
+ 
+ 
+ 
+ Cluster Muslim Solusi Hunian Berkah dan 1000% Pasti Bangun.
+ 
+ 
+ 
+ Mau Beli Rumah juga harus tahu dong bagaimana Track Record Developernya, jangan hanya tergiur karena murah tapi Track Record dan Trust itu jauh lebih penting.
+ 
+ 
+ 
+ Kami hadir memberikan 1000% Trust kepada Anda. Kalo ga percaya survey deh ke lokasi, anda bisa lihat rumah yang sudah terbangun bahkan sudah ditempati.
+ 
+ 
+ 
+ Bukan saja gaya Arsitektur Minimalis Modern yang sajikan, tapi kamipun memberikan kebebasan kepada Anda untuk memiliki Hunian yg sesuai dengan Desain yang Anda inginkan?
+ 
+ 
+ 
+  Bukan itu saja Rumah Anda pun kami berikan sistem Dengan Teknologi Smart Home Living?
+ 
+ Dengan lingkungan yang nyaman dan asri? Yups cuma disini Hunian yang paling tepat untuk anda!
+ 
+ 
+ 
+ Ayoo Mampir deh ke Puri Karyawangi
+ 
+ 
+ 
+ Cluster Muslim di Lingkungan Asri dan Sejuk, Air pegunungan, dan dilingkup Pesantren-Pesantren Besar. Tersisa 2 unit lagi dari 23 unit. 
+ 
+ 
+ 
+  Keunggulan : 
+ 
+ 
+ 
+ 1. Free Design
+ 
+ 2. Free Paket SmartHome
+ 
+ 3. Free Biaya2 Pajak
+ 
+ 4. Free Biaya2 Surat sampai SHM 
+ 
+ 5. Skema Cash Keras, Bertahap 6 bulan atau Bertahap 12 bulan
+ 
+ 6. Air Jernih
+ 
+ 7. Udara Sejuk
+ 
+ 8. Jalan Akses Cor Beton
+ 
+ 9. Dekat STIKES 
+ 
+ 10. Dekat Pesantren-Pesantren Besar
+ 
+ 11. Dekat Pendidikan dari PAUD sampai Sekolah Tinggi.
+ 
+ 12. Dekat Pusat Perbelanjaan, Kesehatan dan Wisata Hiburan Keluarga 
+ 
+ 
+ 
+ 2 Unit Indent Tersedia Untuk Anda, dengan Pembangunan 4 - 5 Bulan saja
+ 
+ 
+ 
+ Type 36/72 (Cash) 400 Juta-an(1 lantai) 
+ 
+ Type 45/72 (Cash) 500 Juta-an(2 lantai) 
+ 
+ 
+ 
+ Bisa juga beli kavlingnya saja, harga 4.5 juta/meter
+ 
+ 
+ 
+ Tersedia 2 Unit Lagi
+ 
+ Ayo miliki rumah impian dengan design suka2 sesuai keinginan anda.
+ 
+ 
+ 
+ Rumah Gaya Modern Dengan Teknologi Smart Home Living? Puri Karyawangi Aja Tempatnya
+ 
+ Hubungi segera no kontak yang tertera agar komunikasi kita lebih enak. 
+ 
+ Marketing Exclusive 
+ 
+ Riswo Epro 08125069
+  ",NULL,NULL,"1",NULL,"1",NULL,NULL,"1",NULL,"1","1","1","1","1","4","3","1","3","2"
+"132","1","Jl. Terusan Pesantren Arcamanik no 59","6","7","90000000","40","36","1","2","1","900.00",,"Deskripsi
+  Rumah Terhemat dan Termurah!
+  BUMI CIPTA ASRI KATAPANG
+ 
+ 
+ 
+ Suatu bentuk perumahan yang senantiasa memberikan yang terbaik dalam segi bangunan dan materialnya dengan harga yang ekonomis namun tetap elegant dan mempunyai kesan mewah .
+ 
+ 
+ 
+ Fasilitas
+ 
+ -Jalan Lebar
+ 
+ -Keamanan 24 Jam
+ 
+ -100% Bebas Banjir
+ 
+ -Taman Bermain
+ 
+ -Sarana Ibadah
+ 
+ 
+ 
+ Akses Terbaik
+ 
+ - 10 menit ke Sentra sepatu cibaduyut
+ 
+ - 10 menit ke Stasiun TVRI
+ 
+ - 10 menit ke Miko Mall
+ 
+ - 10 menit ke RS.Santosa Kopo
+ 
+ - 10 menit ke RSUD Al Ikhsan
+ 
+ - 10 menit ke RSUD Soreang
+ 
+ - 10 menit ke Tol Kopo
+ 
+ - 10 menit ke Tol Soroja
+ 
+ - 10 menit ke Tol M.Toha
+ 
+ 
+ 
+ STANDAR
+ 
+ Type 30/40 90000000 
+ 
+ Type 36/50 120000000
+ 
+ Type 45/70 160000000 
+ 
+ 
+ 
+ FULLSET
+ 
+ Type 30/40 100 000000
+ 
+ Type 36/50 150 000000
+ 
+ Type 45/70 170 000000
+ 
+ FULL SET (kanopi carport, meja kompor bak cuci piring, dak torn 250lt)
+ 
+ 
+ 
+ Sistem pembayaran cash bertahap :
+ 
+ Booking fee 5000000
+ 
+ Maksimal 1 minggu Masuk 50% setelah tutup genteng masuk 25% lalu setelah selesai rumah masuk 25% sekaligus serah terima kunci dan penyerahan surat surat
+ 
+ 
+ 
+ Cash keras potongan 5000000 all type
+ 
+ 
+ 
+ Spesifikasi :
+ 
+ Pondasi Batu Kali
+ 
+ Dinding bata merah press diplester diaci dan dicat ( bisa request dalam)
+ 
+ Rangka atap baja ringan
+ 
+ Genteng metal
+ 
+ Besi 8 full
+ 
+ plafond grc tinggi 3 meter
+ 
+ Kusen kayu manglid
+ 
+ FULL SET (kanopi carport, meja kompor bak cuci piring, dak torn 250lt)
+ 
+ Air semi jetpump
+ 
+ Listrik 900 & 1300 watt (3 titik)
+ 
+ Surat surat Ajb (bisa upgrade Shm)
+ 
+ 
+ 
+ Hubungi
+ 
+ Decka Adam
+ 
+ MITRA ARTHA PROPERTY
+ 
+ Tlp/Wa 081221753387
+  ",NULL,NULL,"1","1","1","1",NULL,"1",NULL,"1","1","1",NULL,"3","1","3","3","1","3"
+"133","1","Jl. Setrawangi 1 no 19","2","4","4.75E+08","100","72","1","3","1","1300.00",,"Deskripsi
+  Rumah di jual, di komplek riung bandung hanya 450 jutaan!
+  Rumah di jual di komplek riung bandung
+ 
+ Lokasi strategis
+ 
+ Harga 475 juta nego
+  ",NULL,"1",NULL,"1","1","1",NULL,"1",NULL,"1","1","1","1","21","4","2","3","3","4"
+"134","1","Jl. Mansion III","4","3","9.95E+08","150","100","2","5","3","1300.00",,"Deskripsi
+  Rumah terawat dekat masjid
+  Dijual rumah 2 lantai di Komplek Riung Bandung
+ 
+ Kondisi rumah terawat
+ 
+ Lokasi dekat Masjid
+ 
+ Hadap timur
+ 
+ Kamar tidur 4 + 1
+ 
+ Kamar mandi 2+ 1
+ 
+ Carport 2 mobil
+ 
+ Harga nego
+  ","1","1",NULL,NULL,"1","1",NULL,"1",NULL,"2","1","1","1","2","1","1","6","2","1"
+"135","1","Jl. Cijerah Raya no 14","1","3","5.00E+09","216","216","2","5","4","2200.00",,"Deskripsi
+  Dijual Summarecon Bandung
+  Dijual Summarecon Bandung Btari Baru Lux Gedebage
+ 
+ Luas tanah 216
+ 
+ Luas bangunan 261
+ 
+ Kamar tidur 4+1
+ 
+ Kamar mandi 3+1
+ 
+ Harga 5M
+  ","1",NULL,"1","1","1",NULL,"1","1","1","2","1","1","1","7","1","2","3","3","1"
+"136","1","Jl. Permata Permai Raya","3","5","90000000","40","36","1","2","1","900.00",,"Deskripsi
+  Hunian paling laris harga termurah dan berkwalitas!
+  Kalian sedang bingung cari rumah dengan semua keinginan mu?
+ 
+ Punya rumah yang desain/konsep di buat sendiri?
+ 
+ Punya rumah yang elegant serta hemat dana?
+ 
+ Hanya disini solusinya !!
+ 
+ 
+ 
+ BUMI CIPTA ASRI KATAPANG
+ 
+ 
+ 
+ Suatu bentuk perumahan yang senantiasa memberikan yang terbaik dalam segi bangunan dan materialnya dengan harga yang ekonomis namun tetap elegant dan mempunyai kesan mewah .
+ 
+ 
+ 
+ Fasilitas
+ 
+ -Jalan Lebar
+ 
+ -Keamanan 24 Jam
+ 
+ -100% Bebas Banjir
+ 
+ -Taman Bermain
+ 
+ -Sarana Ibadah
+ 
+ 
+ 
+ Akses Terbaik
+ 
+ - 10 menit ke Sentra sepatu cibaduyut
+ 
+ - 10 menit ke Stasiun TVRI
+ 
+ - 10 menit ke Miko Mall
+ 
+ - 10 menit ke RS.Santosa Kopo
+ 
+ - 10 menit ke RSUD Al Ikhsan
+ 
+ - 10 menit ke RSUD Soreang
+ 
+ - 10 menit ke Tol Kopo
+ 
+ - 10 menit ke Tol Soroja
+ 
+ - 10 menit ke Tol M.Toha
+ 
+ 
+ 
+ STANDAR
+ 
+ Type 30/40 90000000 
+ 
+ Type 36/50 120000000
+ 
+ Type 45/70 160000000 
+ 
+ 
+ 
+ FULLSET
+ 
+ Type 30/40 100 000000
+ 
+ Type 36/50 150 000000
+ 
+ Type 45/70 170 000000
+ 
+ FULL SET (kanopi carport, meja kompor bak cuci piring, dak torn 250lt)
+ 
+ 
+ 
+ Sistem pembayaran cash bertahap :
+ 
+ Booking fee 5000000
+ 
+ Maksimal 1 minggu Masuk 50% setelah tutup genteng masuk 25% lalu setelah selesai rumah masuk 25% sekaligus serah terima kunci dan penyerahan surat surat
+ 
+ 
+ 
+ Cash keras potongan 5000000 all type
+ 
+ 
+ 
+ Spesifikasi :
+ 
+ Pondasi Batu Kali
+ 
+ Dinding bata merah press diplester diaci dan dicat ( bisa request dalam)
+ 
+ Rangka atap baja ringan
+ 
+ Genteng metal
+ 
+ Besi 8 full
+ 
+ plafond grc tinggi 3 meter
+ 
+ Kusen kayu manglid
+ 
+ FULL SET (kanopi carport, meja kompor bak cuci piring, dak torn 250lt)
+ 
+ Air semi jetpump
+ 
+ Listrik 900 & 1300 watt (3 titik)
+ 
+ Surat surat Ajb (bisa upgrade Shm)
+ 
+ 
+ 
+ Hubungi
+ 
+ Decka Adam
+ 
+ MITRA ARTHA PROPERTY
+ 
+ Tlp/Wa 081221753387
+  ","1",NULL,NULL,"1","1",NULL,"1","1",NULL,"1","1",NULL,NULL,"4","1","2","1","4","2"
+"137","1","Jl. Pasir Impun Barat no 15","5","2","2.30E+09","112","95","2","2","1","2200.00",,"Deskripsi
+  Dijual Rumah Summarecon, Bandung
+  Dijual Rumah Summarecon, Bandung
+ 
+ • LT 112
+ 
+ • LB 95
+ 
+ • 2 Lantai
+ 
+ • KT 2
+ 
+ • KM 1
+ 
+ • Garasi
+ 
+ • Listrik 2200
+ 
+ • Carport 1
+ 
+ • Non Furnished
+ 
+ • Harga 2.3 M Nego
+ 
+ 
+ 
+ For More Information :
+ 
+ Sylvia
+ 
+ 087821233099
+ 
+ Discovery Property
+  ","1",NULL,"1",NULL,"1","1",NULL,"1","1","1","1","1","1","23","1","3","1","4","2"
+"138","1","Jl. Cibodas Raya no 75","3","4","3.50E+09","250","150","1","3","2","3500.00",,"Deskripsi
+  Jl Cipaku cocok utk ekspat atau keluarga baru Lok dkt dgn Setiabudi, UPI.
+  Dijual rumah lama terawat di Jalan Cipaku hny 100m dr Jalan Raya Setiabudi. Cocok untuk ekspatriat dan keluarga dgn 2 org Anak. Dekat dgn berbagai Universitas dan Sekolah.
+  ",NULL,"1",NULL,NULL,"1","1","1","1","2","2",NULL,"1","1","2","1","2","6","3","2"
+"139","1","Jl. Sumbersari no 113","2","4","3.70E+09","386","500","3","7","3","3500.00",,"Deskripsi
+  Dekat ke pintu tol Pasir Koja Bandung
+  Dijual rumah Suryani Bandung, dekat ke pintu tol.
+ 
+ Lt : 386 m2
+ 
+ Lb : 500 m2
+ 
+ Lm : 12 m
+ 
+ 2,5 lantai
+ 
+ SHM
+ 
+ Kt : 7
+ 
+ Km : 3
+ 
+ Garasi 4 mbl
+ 
+ Carport : 4 mbl
+ 
+ Listrik : 3500 watt
+ 
+ Air : artesis
+ 
+ Harga : 5 M....turun ke 3.7 M nego
+ 
+ Info :
+ 
+ Arief
+ 
+ 082129109800
+  ",NULL,NULL,NULL,NULL,"1","1","1","1","4","4","1","1","1","7","1","2","3","1","3"
+"140","1","Jl. Babakan Sumedang no 45","6","3","2.25E+09","95","72","1","3","1","3500.00",,"Deskripsi
+  ** Rumah Dijual di Setra Duta Bandung
+  SETRA DUTA CENDANA"", hunian yang asri dan nyaman yang berlokasi dikawasan Elite Setra Duta Bandung Utara. Udara yang sejuk serta kualitas air yang bersih selalu menjadikan Bandung Utara tetap menjadi idola pilihan investasi.
+ 
+ 
+ 
+ Mulai Type 95/185m2
+ 
+ 
+ 
+ Cara Bayar:
+ 
+ - Tunai bertahap
+ 
+ DP 50% dicicil 12x 
+ 
+ Pelunasan 50% setelah unit jadi.
+ 
+ 
+ 
+ - KPR
+ 
+ DP 40% dicicil 10x 
+ 
+ KPR 60% setelah unit jadi.
+ 
+ 
+ 
+ More Info:
+ 
+ Rino Phat
+ 
+ Call / Wa: 0813-2233-6838
+ 
+ www.propertybdg.agent.co.id
+  ",NULL,NULL,NULL,"1","1","1","1","1","1","2","1","1","1","21","1","2","1","3","2"
+"141","1","Jl Karasak no 15","3","5","7.50E+08","90","48","1","2","1","1300.00",,"Deskripsi
+  Dijual rumah minimalis bandung city view pasir impun
+  Dijual rumah minimalis bandung city view pasir impun 
+ 
+ 
+ 
+ Rumah Minimalis di Bandung City View I (BCV 1 ) Pasir impun
+ 
+ 
+ 
+ Spek : 
+ 
+ Luat tanah 90
+ 
+ Luas bangunan 48
+ 
+ Kamar tidur 2
+ 
+ Kamar mandi 1
+ 
+ Carport 1 mobil
+ 
+ Listrik 1300
+ 
+ SHM
+ 
+ 
+ 
+ Lokasi strategis dekat dgn FaSum, : 
+ 
+ Sekolahan SD Tunas Unggul, SMPN ,SMAN
+ 
+ UberTos
+ 
+ Borma
+ 
+ RS. Ujung berung
+ 
+ Hanya 5 Menit ke Jl. AH. Nasution
+ 
+ 
+ 
+ Fee. 3% 
+ 
+ Net. Hrg di 750
+  ",NULL,"1","1","1",NULL,"1",NULL,"1",NULL,"1","1","1","1","11","1","3","1","3","2"
+"142","1","Jl. Nursijan no 43","2","1","8.67E+08","90","58","1","3","2","1300.00",,"Deskripsi
+  JUAL RUMAH MINIMALIS PADASUKA BANDUNG TIPE GOLD (VIEW KOTA BANDUNG)
+  Punya rumah atau peristirahatan dengan view kota bandung di wilayah yg sejuk namun masih didekat kota Bandung??
+ 
+ Harga terjangkau??
+ 
+ 
+ 
+ Bandung City Light persembahan dari PT.PERTWILAND ft Prpoerty Lovers menghadirkan bagi anda yg menginginkan kesejukan n view kota bandung setiap saat
+ 
+ 
+ 
+ - View kota Bandung
+ 
+ - 25 menit ke Gasibu
+ 
+ - 10 menit ke Jl Suci
+ 
+ - 10 menit ke terminal Cicaheum
+ 
+ - 15 menit ke Universitas ternama
+ 
+ 
+ 
+ Yersedia 2 type
+ 
+ Gold - 800000000aan
+ 
+ Platinum - 900000000aan
+ 
+ 
+ 
+ Penjualan yg sangat cepat, dalam 1x launching langsung terjual 60unit dri 80 unit, kini hanya tersedia belasan unit lagi...
+ 
+ 
+ 
+ Apakah anda salah satu yg beruntung mendapatkannya dengan harga terjangkau atau lewat begitu saja??
+ 
+ 
+ 
+ Segera hubungi marketing terbaik kami untuk informasi dan survey 
+ 
+ Terimakasih
+ 
+ 
+ 
+ Best regards
+ 
+ 
+ 
+ Info :
+ 
+ Pramadi ? 
+ 
+ 0878.2288.1155 (XL, WA) 
+ 
+ 0812.8558.1155 (Telkomsel)
+  ",NULL,NULL,"1","1",NULL,"1",NULL,"1",NULL,"1","1","1","1","22","3","2","1","4","2"
+"143","1","Jl. Uranus no 11","4","2","1.90E+09","151","150","2","3","3","0.00",,"Deskripsi
+  Sayap Dago Bandung cluster dekat itb Bandung
+  lokasi strategis area dago bandung. komplek cluster one gate system. lingkungan bagus, aman dan nyaman. rumah siap huni, ada taman belakang. cocok untuk yg punya mobilitas tinggi d sekitar dago/ ITB. harga nego. siapa cepat dia dapat
+ 
+ 
+ 
+ TipeRumah
+ 
+ Luas bangunan150
+ 
+ Luas tanah151
+ 
+ Kamar tidur3
+ 
+ Kamar Mandi3
+ 
+ Lantai2
+ 
+ Fasilitas
+ 
+ CarportGarden
+ 
+ SertifikasiSHM - Sertifikat Hak Milik
+ 
+ Alamat lokasidago, cigadung, akuntansi, biologi, farmakologi, anatomi, delta, gama, beta, lamda, parasitologi, ekologi
+ 
+ 
+ 
+ Rp 1.900.000.0003 KT - 3 KM - 150 m2
+ 
+ sayap dago Bandung, cluster, dekat ITB
+  ","1","1",NULL,NULL,"1","1","1","1",NULL,"1","1",NULL,"1","12","1","3","6","4","2"
+"144","1","Jl. Galaksi Sel I no 6","3","4","1.25E+10","930","515","2","4","4","3500.00",,"Deskripsi
+  Dijual Rumah Dadali Raya
+  Dijual Rumah Dadali Raya
+ 
+ Luas Tanah 930m
+ 
+ Luas Bangunan 515m2
+ 
+ 2 Lantai
+ 
+ Sertifikat Hak Milik
+ 
+ Air PDAM
+ 
+ Listrik 4400w
+ 
+ Kamar Tidur 4+1
+ 
+ Kamar Mandi 3+1
+ 
+ Rp. 12,5M (nego)
+  ","1",NULL,"1",NULL,"1","1","1","1","2","2","1","1","1","12","1","2","1","4","1"
+"145","1","Jl. Penyu no 11, Turangga","2","4","6.10E+08","70","48","1","2","2","1300.00",,"Deskripsi
+  Hunian keluarga Casa Cipamokolan Bandung,banyak Bonus dan Diskon
+  CASA CIPAMOKOLAN LIVING
+ 
+ 
+ 
+ Lokasi Strategis:
+ 
+ Selling point:
+ 
+ - Jalan depan rumah lebar 2 mobil
+ 
+ - Lokasi sudah ramai penduduk dan perumahan
+ 
+ - Berada di lokasi Bandung Timur yang sedang berkembang
+ 
+ - 800 meter ke Jalan utama Soekarno Hatta
+ 
+ - 5 menit ke kawasan pendidikan (TK, SD, SMP, SMA)
+ 
+ - 5 menit ke Borma Cipamokolan
+ 
+ - 5 menit ke RS Al-Islam
+ 
+ - 5 menit ke Polsek Rancasari
+ 
+ - 10 menit ke stadion GBLA
+ 
+ - 10 menit ke Summarecon
+ 
+ - 10 menit ke Gerbang Tol Gedebage
+ 
+ - 10 menit ke Metro Indah Mall
+ 
+ - Bebas banjir 
+ 
+ 
+ 
+ Bangunan Exclusive 2 Lantai
+ 
+ Hanya 12 Unit
+ 
+ Type 54
+ 
+ 2 Lantai
+ 
+ LT: 70-100
+ 
+ KT: 2
+ 
+ KM: 2
+ 
+ - Bisa KPR DP 10%
+ 
+ - Bisa cash dan cash bertahap 6X
+ 
+ - Harga sudah all in (diluar biaya KPR)
+ 
+ 
+ 
+ Bonus Konsumen
+ 
+ KONSUMEN CASH KERAS
+ 
+ - Potongan harga 75 juta (khusus promo 3 pembeli pertama)
+ 
+ - Potongan harga 50 juta (setelah promo 3 pembeli pertama)
+ 
+ - Kitchen set 
+ 
+ - Water heater
+ 
+ 
+ 
+ KONSUMEN CASH BERTAHAP
+ 
+ - Potongan harga 35 juta (khusus promo 3 pembeli pertama)
+ 
+ - Potongan harga 20 juta (setelah promo 3 pembeli pertama)
+ 
+ - Kitchen set
+ 
+ 
+ 
+ mesin cuci, kompor tanam all konsumen baik KPR/Cash/Cash bertahap
+ 
+ 
+ 
+  more info hubungi :
+ 
+ LUCKY
+ 
+ Call/WA: 087777265290
+  ","1",NULL,"1",NULL,"1","1",NULL,"1",NULL,"1","1",NULL,"1","22","1","2","1","3","2"
+"146","1","Jl. Babakan Irigasi 6","3","5","3.90E+08","100","75","1","2","1","1300.00",,"Deskripsi
+  Dijual rumah 100m2 di riung bandung cipamokolan 390000000 jarang ada
+  dijual rumah di riung bandung
+ 
+ luas tanah 100
+ 
+ luas bangunan 75 
+ 
+ 2 kamar tidur 
+ 
+ 1 kamar mandi
+ 
+ 390000000 nego
+  ",NULL,NULL,NULL,"1","1",NULL,"1","1",NULL,"1","1","1","1","10","3","3","1","3","1"
+"147","1","Jl. Jatay Dalam V no 87","6","5","1.05E+10","1099","600","1","7","4","5500.00",,"Deskripsi
+  Jual Rumah Vila di Bandung Utara
+  Dijual rumah mewah di area wisata Bandung Utara yang unik. Udara segar dan nyaman. Investasi properti yang sangat menguntungkan serta nyaman untuk dihuni.
+ 
+ 
+ 
+ Informasi lebih lanjut, hubungi:
+ 
+ Holil DutaPro
+ 
+ 081 320 688 660
+ 
+ WA: 085 846 577 477
+  ",NULL,NULL,"1","1","1",NULL,"1","1","4","5","1","1","1","1","4","2","3","3","2"
+"148","1","Jl. Cibangkong no 152","3","1","1.70E+09","120","170","1","3","2","1300.00",,"Deskripsi
+  Dijual rumah di Bandung Timur Regency cluster baru di belakang Ubertos
+  Dijual rumah di cluster baru BTR (Bandung Timur regency)
+ 
+ 
+ 
+ Lokasi sangat strategis di Bandung Timur
+ 
+ Memiliki One Gate System
+ 
+ 
+ 
+ Berada di belakang UBERTOS (Ujung Berung Town Square), mau belanja dan hiburan tinggal jalan kaki
+ 
+ 
+ 
+ Memiliki mesjid besar di dalam cluster
+ 
+ 
+ 
+ Dekat dengan pasar ujung berung, pusat oleh2 kartika sari, brownis amanda
+ 
+ 
+ 
+ Akses jalan antar kota (jatinangor, sumedang, garut, tasik)
+ 
+ 
+ 
+ Dekat dengan tol gedebage
+  ","1","1","1",NULL,"1","1",NULL,"1",NULL,"1","1","1","1","9","1","2","6","4","2"
+"150","1","Jl. Cingised no 5","5","4","1.50E+10","640","850","2","8","6","3500.00",,"Deskripsi
+  Dijual Rumah di Daerah Sutami, Bandung Utara.
+  Dijual Rumah di daerah Sutami - Bandung Utara.
+ 
+ Lt 640m / Lb 850m, shm, 8+1kt, 6+1km, garasi 3 mobil, carport 4 mobil, listrik 3300w, air jet pump, semi furnish, dekat ke setrasari mall + kampus maranatha + tol pasteur, lingkungan elit.
+ 
+ Harga Rp 15M.
+ 
+ 
+ 
+ Support Banking by BCA, Panin, UOB, May Bank, Permata, OCBC Nisp, CIMB Niaga, Muamalat, Danamon.
+ 
+ 
+ 
+ More info :
+ 
+ Gerry ""GM Property""
+ 
+ Tlp/WA : wa.me/6281910118921
+ 
+ Personal Web : gerrygmpro.agent.co.id
+  ",NULL,"1","1",NULL,"1","1",NULL,NULL,"3","4","1","1","1","3","1","2","3","3","2"
+"151","1","Jl. Pinus Barat no 87","3","4","4.50E+08","94","94","2","3","2","1300.00",,"Deskripsi
+  Rumah Murah, Dijual Cepat
+  Turun harga 450juta nego
+ 
+ 
+ 
+ Komplek RIUNG BANDUNG
+ 
+ Blok KEMAKMURAN
+ 
+ Jl.Kemakmuran IVE Blok D 189 IR
+ 
+ Lt.94m
+ 
+ Lb.95m
+ 
+ 2KT+1, 2Km
+ 
+ Garasi1, Teras depan, Ruang tamu, Ruang Klrga,Ruang Makan,Dapur, Jemuran
+ 
+ Air jetpump
+ 
+ Listrik 1300
+ 
+ Hadap timur
+ 
+ SHM
+ 
+ Hook position
+ 
+ 
+ 
+ Harga awal 550juta nego
+ 
+ 
+ 
+ Info hubungi : Nanang CONFIDENT
+ 
+ HP. 08112057898
+  ",NULL,"1","1",NULL,"1",NULL,"1",NULL,"1","1","1","1","1","18","1","3","6","3","2"
+"152","1","Jl. Ma Eja no 39","3","2","1.80E+10","601","500","1","7","6","30500.00",,"Deskripsi
+  Dijual Rumah di Bandung Dekat Pusat Kota Cocok Untuk Bisnis/Investasi
+  Dijual Rumah di Bandung
+ 
+ 
+ 
+ Luas Tanah 601 m2
+ 
+ Luas Bangunan 500 m2
+ 
+ Dekat Pusat Kota Bandung
+ 
+ Di jalur jalan Utama
+ 
+ Halaman parkir luas
+ 
+ Listrik 32.000 watt
+ 
+ PAM & Jetpump Air Bersih
+ 
+ Cocok untuk Kantor/Mall/Bank dan Supermarket/Restoran
+ 
+ Area Bisnis dan Investasi
+ 
+ Harga 18 Milyar nego
+ 
+ 
+ 
+ Info Lebih Lanjut Hubungi :
+ 
+ Global Propertindo
+ 
+ 0819 0877 7833 (Call/WA)
+ 
+ 
+ 
+ Jika anda membutuhkan bantuan dalam memasarkan unit apartemen dan rumah anda baik sewa maupun jual, silahkan hubungi saya, saya siap membantu anda.
+  ",NULL,"1",NULL,"1","1",NULL,"1","1","2","2","1",NULL,"1","11","1","2","3","3","2"
+"153","1","Jl. Antapani no 54","3","6","4.99E+08","65","38","1","2","1","1300.00",,"Deskripsi
+  Harga Promo 499 juta type 38 di Cherry homes
+  Kini hadir Cluster Cherry Homes di Riung Bandung. 
+ 
+ 
+ 
+ 
+ 
+ Sebuah hunian berjumlah lima unit rumah. 
+ 
+ 
+ 
+ Bangunannya dibuat mewah. Terdiri dari Ruang Living Room luas, 2 Kamar Tidur dan 1 Kamar Mandi. 
+ 
+ 
+ 
+ 
+ 
+ Site plan nya, 2 unit di depan menghadap Jalan Raya Hegar II dan 3 unit di belakangnya, dengan lebar jalan lingkungannya 4 meter. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rumah type 38 di depan, luas tanahnya 67 meter. 2 unit.
+ 
+  
+ 
+ 
+ 
+ Rumah type 38 di belakang, luas tanahnya 65 meter. Ada 3 unit. 
+ 
+ 
+ 
+ Akses masuknya melewati Jalan Riung Hegar II Perumahan Riung Bandung. 
+ 
+ 
+ 
+ 
+ 
+ Letak Cluster ini, sangat strategis. 
+ 
+ Berada di lingkungan yang representatif. 
+ 
+ 
+ 
+ 
+ 
+ - 600 meter langsung dari Jalan Soekarno Hatta Bandung. Jalan Besar. Jalan nasional. 
+ 
+ 
+ 
+ - 6 Km dari Summarecon Bandung. Perumahan ternama itu. Yang harganya milyaran itu. 
+ 
+ 
+ 
+ - 15 menit dari Stasiun kereta api Kiaracondong. 
+ 
+ 
+ 
+ - 20 menit dari Terminal Leuwipanjang dan Terminal Cicaheum.
+ 
+ 
+ 
+ - 20 menit dari Gerbang Tol Moh Toha dan Gerbang Tol Buah Batu. 
+ 
+ 
+ 
+ 
+ 
+ Fasilitas lingkungan sangat lengkap. Karena wilayah ini, secara ekonomi sudah maju pesat. 
+ 
+ 
+ 
+ Shoping center bertebaran di sekeliling nya. Mulai Alfamart, Indomaret, Borma, Yogya dan Business Center Metro.
+ 
+ Sarana pendidikan didekat Cluster Cherry Homes ini, bejibun. Mulai dari Playgroup, TK, SD, SMP, SMA/SMK hingga Perguruan Tinggi. Semua ada. 
+ 
+ 
+ 
+ info hubungi :
+ 
+ ZAINAL
+ 
+ Call/Wa : 082299778899
+  ",NULL,"1","1","1",NULL,"1",NULL,"1",NULL,"1","1","1",NULL,"2","1","3","6","2","1"
+"154","1","Jl. Lombok no 13","4","5","5.00E+09","326","300","1","4","2","2200.00",,"Deskripsi
+  Dijual Rumah di Daerah Ciateul, Bandung Pusat
+  Kita co broking antar kantor.
+ 
+ 
+ 
+ Dijual Rumah di Daerah Ciateul - Bandung Pusat.
+ 
+ LT 326m / LB 300m, SHM, 4kt, 2km, carport 1 mbl, air jet pump, listrik 2200 watt, hadap timur, lebar muka 10 meter, dekat ke wilayah bisnis automotive, dekat ke alun- alun bandung.
+ 
+ Harga Rp 5M.
+ 
+ 
+ 
+ Support Banking by BCA, Panin, UOB, May Bank, Permata, OCBC Nisp, CIMB Niaga, Muamalat, Danamon.
+ 
+ 
+ 
+ More info :
+ 
+ Gerry ""GM Property""
+ 
+ Tlp/WA : wa.me/6281910118921
+ 
+ Personal Web : gerrygmpro.agent.co.id
+  ","1",NULL,"1",NULL,"1","1",NULL,"1",NULL,"1","1",NULL,"1","8","1","2","6","2","1"
+"155","1","Jl. Riung Mulya V","3","1","4.60E+08","108","70","1","3","2","1300.00",,"Deskripsi
+  Turun Harga Lagi Dijual Rumah Etnik,Mau Pindah ke Luar Kota
+  Lt 108m, Lb 70m satu lantai
+ 
+ Lokasi dekat terminal riung bandung, RS Al Islam, Lotte Mart, MTC dan sekolah.dekat juga ke pintu Tol Gedebage.
+ 
+ Analisa Harga 
+ 
+ Lt 108m x 3 000000 = 324 000000
+ 
+ Lb 70 x 2 000000 = 140 000000
+ 
+ Total = 464 000000
+ 
+ Harga sdh mendekati harga Pasar.Apalagi jalan lebar bisa 2 mobil.Sudah Murah !!!
+  ","1",NULL,NULL,"1","1",NULL,"1",NULL,NULL,"1","1","1","1","20","4","2","3","1","3"
+"156","1","Jl. Parakan Asri ","8","3","1.60E+09","126","110","1","3","2","2200.00",,"Deskripsi
+  Tengah kota Bandung hanya 5 menit ke trans studio mall
+  Hanya 5 Menit Ke Tsm , Hotel Horison , Pisset Square
+ 
+ LT : 126m2
+ 
+ LB : 110m2
+ 
+ Hadap : Selatan
+ 
+ Lebar Muka : 10m
+ 
+ Lebar Jalan : 7m
+ 
+ K Tidur : 3+1
+ 
+ K Mandi : 2
+ 
+ R. Makan : Ada
+ 
+ R. Tamu : Ada
+ 
+ R. Keluarga : Ada
+ 
+ Listrik : 2200 wat
+ 
+ Telepon : -
+ 
+ Air : Pam
+ 
+ Jumlah Lantai : 2
+ 
+ Setifikat : SHM
+  ","1",NULL,"1","1","1",NULL,"1",NULL,NULL,"2","1","1","1","6","1","2","2","3","2"
+"157","1","Jl. Jakarta no 58","3","5","5.00E+09","91","180","2","2","1","2200.00",,"Deskripsi
+  Dijual Rumah Hoek Suniaraja, Sumur Bandung, Bandung
+  Dijual Rumah Hoek Suniaraja, Sumur Bandung, Bandung
+ 
+ • LT 91
+ 
+ • LB 180
+ 
+ • Listrik 2200
+ 
+ • Air PDAM
+ 
+ • Harga 5 M/nego
+ 
+ 
+ 
+ For more information :
+ 
+ Soen Soen
+ 
+ 08122332400
+ 
+ Discovery Property
+  ","1",NULL,"1","1","1",NULL,"0",NULL,"1","1","1","1","1","9","3","3","2","2","4"
+"159","1","Jl. Pungkur no 51","4","3","560000000","160","140","1","4","3","2200.00","081320987142","Rumah baru, nyaman, dan strategis","1","1","1","0","1","1","0","1","1","2","1","0","1","26","1","2","4","2","4"
+"160","1","Jl. Srigadis no 52","4","2","750000000","100","150","2","3","2","1300.00","081220917652","Rumah tengah kota, strategis, dan lingkungan nyaman","1","0","0","1","1","1","1","1","0","1","1","1","0","26","2","3","3","4","2"
+"161","1","Jl. BKR 87","3","2","2500000000","350","200","1","4","3","3500.00","087896253647","Rumah Strategis","1","1","1","0","1","1","1","1","2","6","1","1","1","26","1","2","6","4","1"
+"162","1","Jl. Sukajadi no 134","4","2","3500000000","250","180","1","4","3","3500.00","087897153621","Strategis, cocok untuk buka usaha, pinggir jalan","1","1","1","1","1","0","1","1","1","6","1","1","1","27","1","2","4","2","1"
+"163","1","Jl. Cipedes Tengah ","2","4","850000000","160","100","1","3","2","1300.00","087891627635","Strategis, rumah baru","1","1","0","1","1","1","0","1","0","1","1","1","1","27","2","2","6","4","2"
+"164","1","Jl. Babakan Jeruk IV","5","3","2500000000","250","200","1","4","3","2200.00","087897625413","Dekat kampus, cocok untuk dijadikan usaha","1","1","0","1","1","0","1","1","1","2","1","1","1","27","1","2","6","4","1"
+"165","1","Jl. Gegerkalong Hilir no 671","5","2","1500000000","200","160","1","4","3","2200.00","087898265142","Rumah strategis, jarang ada","1","1","1","1","1","1","1","1","1","2","1","0","1","28","1","2","4","3","4"
+"166","1","Jl. Sarijadi Raya no 51","4","3","950000000","160","200","2","4","3","2200.00","089762517381","Rumah baruy, strategis, jarang ada","1","1","0","0","1","1","1","1","1","1","1","0","1","28","1","2","7","1","3"
+"167","1","Jl. Sari Endah no 41","5","3","1500000000","180","300","2","5","4","2200.00","087816527112","Rumah tengah kota, asri, aman","1","1","0","0","1","1","1","1","2","1","0","1","1","28","1","3","6","4","1"
+"168","1","Jl. Nias 81","2","4","2500000000","300","200","1","4","3","3500.00","0878927651452","Rumah tengah kota, cocok untuk buka usaha","1","1","0","0","1","0","1","1","2","6","1","0","1","29","1","2","6","2","4"
+"169","1","Jl. Natuna no 62","5","6","1400000000","300","250","2","5","4","3500.00","087898265142","Rumah baru jarang ada. Nyaman, indah, dan asri ","1","1","0","0","1","1","1","1","2","5","1","1","1","29","2","1","7","6","5"
+"170","1","Jl. Jawa no 15","5","2","3700000000","300","200","1","4","3","2200.00","087892651427","Rumah tengah kota, aman, nyaman. jarang ada","0","1","1","1","1","1","1","1","2","4","1","1","1","29","1","1","4","2","4"
+"1","Sertifikat Hak Milik (SHM)"
+"2","Sertifikat Hak Guna Bangunan (SHGB)"
+"3","Sertifikat Hak Satuan Rumah Susun (SHRS)"
+"4","Girik"
+"5","Akta Jual Beli (AJB)"
+"1","admin","admin@gmail.com",NULL,"$2y$10$qculakYKYTzLkS93kq4ZsezWrSzV2JUJ/4TF2NLLqgQQ7g7BHumfG",NULL,"2020-04-17 09:14:13","2020-04-17 09:14:13","1"

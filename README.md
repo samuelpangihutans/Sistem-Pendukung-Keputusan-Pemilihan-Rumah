@@ -103,5 +103,5 @@ dan menggunakan konsep MVC (model-view-controller). Perangkat lunak Sistem Pendu
 Keputusan Pemilihan Rumah yang dibangun, diharapkan dapat membantu pengguna untuk
 memilih rumah.
 
-Dibuat oleh : Samuel Pangihutan Sihombing , Final Version 
+Dibuat oleh : Samuel Pangihutan Sihombing
 

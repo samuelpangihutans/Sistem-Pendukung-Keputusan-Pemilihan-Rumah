@@ -76,3 +76,31 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+SPK PEMILIHAN RUMAH : 
+
+Rumah merupakan salah satu kebutuhan pokok manusia yang berfungsi sebagai tempat untuk
+berlindung dan beristirahat. Seiring dengan bertambahnya jumlah penduduk, kebutuhan akan
+tempat tinggal semakin meningkat. Banyaknya alternatif pilihan rumah dan banyaknya kriteria
+yang harus dipertimbangkan, seringkali membuat calon pembeli kesulitan untuk menentukan
+pilihan rumah. Dari hasil survei yang dilakukan, diperoleh kriteria yang menjadi pertimbangan
+saat memilih rumah, khususnya di kota Bandung. Kriteria tersebut dapat bersifat objektif,
+seperti harga, luas tanah, luas bangunan, dan lain-lain. Selain bersifat objektif, kriteria tersebut
+juga dapat bersifat subjektif, seperti lokasi, keamanan, arah bangunan, dan lain-lain. Dibutuhkan
+suatu sistem pendukung keputusan yang dapat membantu calon pembeli menentukan pilihan
+rumah.
+Metode Brown Gibson digunakan untuk mendukung keputusan pemilihan rumah. Metode
+Brown Gibson mampu melakukan pengukuran terhadap pertimbangan objektif yang dikombinasikan dengan pertimbangan subjektif. Pada penelitian ini, teknik Sequential Elimination by
+Conjunctive Constraints digunakan untuk mengeliminasi alternatif pilihan rumah yang tidak memenuhi standar kriteria, seperti kecamatan, harga, luas tanah, dan luas bangunan. Normalisasi
+berbasis biaya dan berbasis keuntungan digunakan untuk mengubah nilai kriteria yang bersifat
+objektif ke dalam bentuk normal. Hasil dari metode Brown Gibson adalah bobot keputusan dari
+setiap alternatif pilihan rumah yang diurutkan dari nilai yang tertinggi. Rumah dengan bobot
+keputusan tertinggi adalah pilihan rumah yang paling optimal.
+Perangkat lunak dibangun berbasis website dengan menggunakan framework Laravel. Laravel
+merupakan suatu framework untuk membangun suatu website dengan bahasa pemrograman PHP
+dan menggunakan konsep MVC (model-view-controller). Perangkat lunak Sistem Pendukung
+Keputusan Pemilihan Rumah yang dibangun, diharapkan dapat membantu pengguna untuk
+memilih rumah.
+
+Dibuat oleh : Samuel Pangihutan Sihombing , Final Version 
+
